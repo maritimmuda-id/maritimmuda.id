@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 | -------------------------------------------------------------------
@@ -99,11 +99,12 @@ $query_builder = TRUE;
 // 	'save_queries' => TRUE
 // );
 
+//FOR ONLINE PURPOSES
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root', 
-	'password' => '',
+	'hostname' => '10.0.11.35',
+	'username' => 'admin',
+	'password' => '12345678',
 	'database' => 'maritimmuda',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
