@@ -24,12 +24,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 // $base_url = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
-// $base_url .= "://". @$_SERVER['HTTP_HOST'];
-// $base_url .=     str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
+// $base_url .= "://" . @$_SERVER['HTTP_HOST'];
+// $base_url .=     str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
 // $config['base_url'] = $base_url;
-// $config['base_url'] = 'http://localhost/~bondanbhaskara/maritimmuda/ci';
-// $config['base_url'] = 'http://www.maritimmuda.id';
-$config['base_url'] = 'http://localhost/maritimmuda.id/';
+$config['base_url'] = 'http://localhost/maritimmuda.id';
+// // $config['base_url'] = 'http://www.maritimmuda.id';
 
 // $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost/maritimmuda-home");
 // // $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost:8081/maritim/maritimmuda-home/");

@@ -161,8 +161,8 @@
             <div class="col-md-3 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
 
                 <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/Laksamana2.png" alt="">
+                    <div class="team-image xs-width-">
+                        <img src="<?php echo site_url('upload/') ?>user/41/gatot.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -179,7 +179,7 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray ">Laksamana Pertama TNI<br>Dr. Suradi Agung Slamet, S.T., S.Sos., M.M.</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray ">Brigadir Jenderal TNI (Mar)<br> Gatot Mardiyono, S.H.</div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Kepala Dinas Potensi Maritim<br>TNI Angkatan Laut</br></br></div>
                         </div>
                     </figcaption>
@@ -202,7 +202,7 @@
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/brsdmkp/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.instagram.com/Gatot/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -212,7 +212,7 @@
                         <div class="row">
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray ">Dr. I Nyoman Radiarta, S.Pi., M.Sc.</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Kepala Badan Riset dan Sumber Daya Manusia Kelautan dan Perikanan, KKP RI</br></br></div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Kepala Badan Penyuluhan dan Pengembangan SDM Kelautan dan Perikanan</br></br></div>
                             </div>
                         </div>
                     </figcaption>
