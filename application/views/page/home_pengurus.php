@@ -198,7 +198,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Abdul_Haris_T._Fatmona2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -215,7 +215,7 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Abdul Haris Toboleu Fatmona</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Ishlahul Fikri</div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Direktur Program dan Kemitraan</div>
                         </div>
                     </figcaption>
@@ -227,7 +227,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/dhifa_ferzia-1.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -244,7 +244,7 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Dhifa Ferzia</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mohamad Afif Dzulqifli</div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Direktur Keuangan</div>
                         </div>
                     </figcaption>
@@ -381,38 +381,6 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Sahlan_Buamona3.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Asisten Sekjen Urusan Kerja Sama Program Maritim Muda Nusantara </span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="http://facebook.com/bondan.bhaskara" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/bondanbhaskara" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="http://instagram.com/sahlanb_official/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Sahlan Buamona</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Asisten Sekjen Urusan Kerjasama Program</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-
-
-            <!-- </div> -->
-            <!-- <div class="container margin-50px-top"> -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
-                <figure>
-                    <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/mattovani3.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
@@ -430,8 +398,40 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mattoviani</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Asisten Sekjen Urusan Administrasi Organisasi dan Bisnis</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">MATTOVIANI</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Asisten Sekjen Urusan Kerjasama Bisnis</div>
+                        </div>
+                    </figcaption>
+                </figure>
+            </div>
+            <!-- end team item -->
+
+
+            <!-- </div> -->
+            <!-- <div class="container margin-50px-top"> -->
+            <!-- start team item -->
+            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
+                <figure>
+                    <div class="team-image xs-width-100">
+                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
+                        <div class="overlay-content text-center">
+                            <div class="display-table height-100 width-100">
+                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Seorang lulusan s1 Manajemen dari STIE Indonesia Jakarta</span>
+                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                    <!-- <a href="https://web.facebook.com/last.caesar93" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                    <a href="https://www.instagram.com/mvp98hc08/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                    </div>
+                    <figcaption>
+                        <div class="team-member-position margin-20px-top text-center">
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Askar Lumagi</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Asisten Sekjen Urusan Administrasi Organisasi dan Kerjasama Program</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -600,7 +600,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Chehafni_Damanik2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -617,8 +617,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Chehafni Damanik</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Pengembangan Daerah Kepulauan</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Paty Abbas Soumena </div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Pelayaran, Logistik, dan Daerah Kepulauan</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -647,7 +647,7 @@
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
                             <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Silvi Olivia Putra Nia</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Keuangan Bisnis</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Keuangan Program dan Bisnis</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -661,7 +661,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Tantri_Auliya3.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -678,8 +678,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Tantri Auliya</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Keuangan Program</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Apriansyah</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Investasi dan Bisnis Ekonomi Biru</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -690,7 +690,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Mochtar3.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -707,8 +707,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mochtar Lukman Balgahoom</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Bisnis dan Inovasi Teknologi Ekonomi Biru</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhammad Sandy Putra Riyadi </div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Transformasi Digital dan Inovasi Maritim</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -718,7 +718,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Zuana_Prasetia_Perdana_Nugraha3.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -736,8 +736,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Zuana Prasetia Perdana Nugraha</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Transformasi Digital dan Investasi Maritim</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Fathur Rohman Al Fath</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Media Kreatif dan Editorial</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -748,124 +748,6 @@
         <div class="container margin-50px-top">
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Daniel_Silitonga1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Daniel Silitonga, S.Tr.Pel Daniel Silitonga lulusan STIP Jakarta 2020 dengan jurusan Ketatalaksanaan Angkutan Laut dan Kepelabuhanan, pengalaman mendalami sertifikat dan pengoperasian kapal, dan bekerja di PT. Meratus Line sebagai QHSE Meratus Ship Management Memiliki moto : Integritas dan Kejujuran yang utama serta "Dare to Dream Dare to Achieve"</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Daniel Silitonga</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Transportasi Laut, Logistik, dan Kepelabuhanan</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Annisa_Jauhari_Umi2.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Saya merupakan lulusan S1 Pendidikan Kelautan dan Perikanan dengan pengalaman kerja di bidang perhubungan mitra selama kurang lebih satu tahun.
-                                        Saya juga sebelumnya pernah menjadi guru pengganti untuk materi bahasa inggris, pendidikan kewarganegaraan, matematika dan IPA di tingkat SMA.
-                                        Saya juga memiliki pengalaman dalam pelatihan ISO SNI 17065:2012, pelatihan Auditor Halal dan Pelatihan Pemotongan dan penyimpanan ikan dengan metode pendinginan.
-                                        Dari pengalaman tersebut, saya telah meraih sertifikat kompetensi yang telah saya ikuti dan sesuai bidang di atas</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/ninis_u/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Annisa Jauhari Umi</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Keanggotaan</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Cahaya_Nuryanti3.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Perkenalkan saya Cahaya Nuryanti mahasiswa prodi Manajemen di Universitas Khairun. Saya merupakan pribadi yang adaptif dan kreatif serta sangat menyukai tantangan baru dalam hidup saya. Gemar menggali potensi dan mengembangkan gagasan melalui karya</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/cahaya.nuryanti_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Cahaya Nuryanti</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Media Kreatif dan Editorial</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team section -->
-        </div>
-
-        <div class="container margin-50px-top">
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/hsnulfaaaa/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">-</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Teknologi Informasi</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team section -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Muhammad_Tahir3.png" alt="">
@@ -891,8 +773,10 @@
                     </figcaption>
                 </figure>
             </div>
-            <!-- end team section -->
+            <!-- end team item -->
         </div>
+
+
 
         <!-- <div class="container margin-50px-top"> -->
         <!-- start team item -->
