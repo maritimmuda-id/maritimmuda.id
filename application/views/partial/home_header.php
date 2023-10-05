@@ -58,18 +58,34 @@
                                     <!-- <li>
                                         <a href="<?php echo site_url('home/program') ?>">Program</a>
                                     </li> -->
-                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('home/program') ?>" title="Blog">Program</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('home/program_unggulan') ?>" title="Blog">Program</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>
                                                 <a href="<?php echo site_url('home/program') ?>">Klaster</a>
                                             </li>
                                             <li>
-                                                <a href="<?php echo site_url('home/saptabakti') ?>">Sapta Bakti</a>
+                                                <a href="<?php echo site_url('home/program_unggulan') ?>">Program Unggulan</a>
                                             </li>
                                         </ul>
                                         <!-- end sub menu -->
                                     </li>
+
+                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('') ?>" title="Blog">Fasilitas</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                        <!-- start sub menu -->
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li>
+                                                <a href="<?php echo site_url('') ?>">Kantor Pusat</a>
+                                            </li>
+                                            <li>
+                                                <a href="<?php echo site_url('') ?>">Prestasi</a>
+                                            </li>
+                                        </ul>
+                                        <!-- end sub menu -->
+                                    </li>
+
+
+
                                 </ul>
                                 <ul class="nav navbar-nav navbar-right no-margin alt-font text-normal width-40 sm-width-100" data-in="fadeIn" data-out="fadeOut">
 
