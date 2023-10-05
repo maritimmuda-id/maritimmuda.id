@@ -320,35 +320,6 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/dennysuwarso/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                    <!-- <a href="https://instagram.com/ibramwahyu/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">-</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Asisten Eksekutif</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
-                <figure>
-                    <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Alfinna_Yebelanti._3.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
@@ -373,12 +344,8 @@
                 </figure>
             </div>
             <!-- end team item -->
-
-        </div>
-        <div class="container margin-50px-top">
-
             <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/mattovani3.jpg" alt="">
@@ -406,11 +373,11 @@
             </div>
             <!-- end team item -->
 
+        </div>
+        <div class="container margin-50px-top">
 
-            <!-- </div> -->
-            <!-- <div class="container margin-50px-top"> -->
             <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
@@ -437,8 +404,12 @@
                 </figure>
             </div>
             <!-- end team item -->
+
+
+            <!-- </div> -->
+            <!-- <div class="container margin-50px-top"> -->
             <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
+            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Diemas_Sukma_Hawkins3.png" alt="">
@@ -466,10 +437,6 @@
                 </figure>
             </div>
             <!-- end team item -->
-
-        </div>
-        <div class="container margin-50px-top">
-
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
@@ -500,8 +467,11 @@
             </div>
             <!-- end team item -->
 
+        </div>
+        <div class="container margin-50px-top">
+
             <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Mario_Berkardo_Dayman2.png" alt="">
@@ -530,13 +500,8 @@
             </div>
             <!-- end team item -->
 
-
-            <!-- </div> -->
-            <!-- <div class="container margin-50px-top"> -->
-
-
             <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottomsm-margin-xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Syadza_Fatina_Oktafiarani2.png" alt="">
@@ -564,11 +529,13 @@
             </div>
             <!-- end team item -->
 
-        </div>
-        <div class="container margin-50px-top">
+
+            <!-- </div> -->
+            <!-- <div class="container margin-50px-top"> -->
+
 
             <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
+            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottomsm-margin-xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Mariyo_Putra_Perdana3.png" alt="">
@@ -594,10 +561,13 @@
                     </figcaption>
                 </figure>
             </div>
-            <!-- end team section -->
+            <!-- end team item -->
+
+        </div>
+        <div class="container margin-50px-top">
 
             <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
@@ -623,7 +593,8 @@
                     </figcaption>
                 </figure>
             </div>
-            <!-- end team item -->
+            <!-- end team section -->
+
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                 <figure>
@@ -653,12 +624,8 @@
                 </figure>
             </div>
             <!-- end team item -->
-
-        </div>
-        <div class="container margin-50px-top">
-
             <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
@@ -684,10 +651,13 @@
                     </figcaption>
                 </figure>
             </div>
-            <!-- start team item -->
-
             <!-- end team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+
+        </div>
+        <div class="container margin-50px-top">
+
+            <!-- start team item -->
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
@@ -713,8 +683,9 @@
                     </figcaption>
                 </figure>
             </div>
-            <!-- end team item -->
             <!-- start team item -->
+
+            <!-- end team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
@@ -743,9 +714,6 @@
                 </figure>
             </div>
             <!-- end team item -->
-        </div>
-
-        <div class="container margin-50px-top">
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
@@ -775,6 +743,7 @@
             </div>
             <!-- end team item -->
         </div>
+
 
 
 
