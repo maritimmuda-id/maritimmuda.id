@@ -162,7 +162,7 @@
 
                 <figure>
                     <div class="team-image xs-width-">
-                        <img src="<?php echo site_url('upload/') ?>user/41/gatot.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/41/gatot.jpeg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
