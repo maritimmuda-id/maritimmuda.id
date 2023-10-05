@@ -22,9 +22,9 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="https://maritimmuda.id/assets/images/contact-img2x.jpg" alt="" style="width: 250px; margin: 2rem 4rem 2rem 4rem;" />
+                <img src="https://maritimmuda.id/assets/images/contact-img2x.jpg" alt="" style="width: 350px; margin: 2rem 4rem 2rem 4rem;" />
                 <!-- <img src="https://maritimmuda.id/assets/images/batas5.png" alt="" style="height: 170px;" /> -->
-                <img src="https://maritimmuda.id/assets/images/Logo Baru4.png" alt="" style="width: 300px;" />
+                <!-- <img src="https://maritimmuda.id/assets/images/Logo Baru4.png" alt="" style="width: 300px;" /> -->
             </div>
         </div>
     </div>
