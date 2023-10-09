@@ -22,7 +22,7 @@
                                     <!-- <li>
                                         <a href="<?php echo site_url('home/tentang') ?>">Tentang</a>
                                     </li> -->
-                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('home/tentang') ?>" title="Blog">Tentang</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="<?php echo site_url('home/tentang') ?>" title="Blog">Tentang</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>
@@ -58,7 +58,7 @@
                                     <!-- <li>
                                         <a href="<?php echo site_url('home/program') ?>">Program</a>
                                     </li> -->
-                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('home/program_unggulan') ?>" title="Blog">Program</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="<?php echo site_url('home/program_unggulan') ?>" title="Blog">Program</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>
@@ -71,14 +71,14 @@
                                         <!-- end sub menu -->
                                     </li>
 
-                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('') ?>" title="Blog">Fasilitas</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="<?php echo site_url('home/kantor_pusat') ?>" title="Blog">Fasilitas</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>
-                                                <a href="<?php echo site_url('') ?>">Kantor Pusat</a>
+                                                <a href="<?php echo site_url('home/kantor_pusat') ?>">Kantor Pusat</a>
                                             </li>
                                             <li>
-                                                <a href="<?php echo site_url('') ?>">Prestasi</a>
+                                                <a href="<?php echo site_url('home/prestasi_hub') ?>">Prestasi Hub</a>
                                             </li>
                                         </ul>
                                         <!-- end sub menu -->
@@ -95,7 +95,7 @@
                                     <li>
                                         <a href="https://media.maritimmuda.id">Media</a>
                                     </li>
-                                    <li class="dropdown simple-dropdown"><a href="https://hub.maritimmuda.id/login">Keanggotaan</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="https://hub.maritimmuda.id/login">Keanggotaan</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>

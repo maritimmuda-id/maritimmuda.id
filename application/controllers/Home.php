@@ -121,8 +121,24 @@ class Home extends CI_Controller
 	public function program_unggulan()
 	{
 		$data = $this->data;
-		$data['title'] .= " Program Sapta Bakti";
-		$data['konten'] = $this->load->view('page/home_saptabakti', $data, TRUE);
+		$data['title'] .= " Program Unggulan";
+		$data['konten'] = $this->load->view('page/home_program_unggulan', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
+	public function kantor_pusat()
+	{
+		$data = $this->data;
+		$data['title'] .= " Kantor Pusat";
+		$data['konten'] = $this->load->view('page/home_kantor_pusat', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
+	public function prestasi_hub()
+	{
+		$data = $this->data;
+		$data['title'] .= " Prestasi Hub";
+		$data['konten'] = $this->load->view('page/home_prestasi_hub', $data, TRUE);
 		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
 		$this->load->view('template_white', $data);
 	}
