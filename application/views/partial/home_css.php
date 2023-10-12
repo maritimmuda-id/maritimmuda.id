@@ -2,7 +2,7 @@
         <link rel="stylesheet" href="<?php echo site_url('assets/') ?>css/animate.css" />
         <!-- bootstrap -->
         <link rel="stylesheet" href="<?php echo site_url('assets/') ?>css/bootstrap.min.css" />
-        <!-- et line icon --> 
+        <!-- et line icon -->
         <link rel="stylesheet" href="<?php echo site_url('assets/') ?>css/et-line-icons.css" />
         <!-- font-awesome icon -->
         <link rel="stylesheet" href="<?php echo site_url('assets/') ?>css/font-awesome.min.css" />
@@ -34,15 +34,23 @@
 
 
         <style>
-            .img-mitra{
+            .img-mitra {
                 height: 15rem;
                 width: auto;
+                /* opacity: 0.5; */
+
             }
-            .mitra{
-                background-color: white;
-                width: 200px;
-                height: 160px;
+
+            .mitra {
+                background-color: rgb(255, 255, 255, 0.6);
+                border-radius: 11px;
+
+                /* width: 200px;
+                height: 160px; */
                 /* background-size: 200px 100px; */
             }
 
+            /* .mitra:hover {
+                opacity: 1;
+            } */
         </style>
