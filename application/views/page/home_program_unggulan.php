@@ -50,7 +50,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/5-.png" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/prestasi-hub.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                 <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
                                 <h6 class="alt-font text-extra-dark-gray">Prestasi Hub Maritim Muda</h6>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
+                                <p>Prestasi Hub Maritim Muda sebagai Sentra Pemberdayaan Pemuda Bidang Kemaritiman Nasional dimaksudkan sebagai pusat kegiatan dan upaya membangkitkan potensi dan peran aktif pemuda menuju pemuda yang inovatif, kreatif, mandiri, dan berdaya saing di bidang kemaritiman. Prestasi Hub Maritim Muda didirikan dengan tujuan untuk melaksanakan penyadaran, pemberdayaan, dan pengembangan pemuda agar mampu berpartisipasi dalam pembangunan kemaritiman nasional. Sentra Pemberdayaan Pemuda ini telah diresmikan oleh Menteri Pemuda dan Olahraga Republik Indonesia pada tanggal 23 Mei 2023.</p>
                                 <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a> -->
                             </div>
                         </div>
