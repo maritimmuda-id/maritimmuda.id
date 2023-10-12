@@ -412,35 +412,6 @@
             <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Diemas_Sukma_Hawkins3.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Final year student studying International Relations specializing in Energy and the Environment.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <a href="https://twitter.com/diemasshawkins/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a>
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/diemasshawkins/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/diemashawkins/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Diemas Sukma Hawkins</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Asisten Sekjen Urusan Hubungan Internasional</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
-                <figure>
-                    <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Prima_Insamilandari_Syah3.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
@@ -466,10 +437,6 @@
                 </figure>
             </div>
             <!-- end team item -->
-
-        </div>
-        <div class="container margin-50px-top">
-
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
@@ -494,6 +461,38 @@
                         <div class="team-member-position margin-20px-top text-center">
                             <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mario Berkardo Dayman</div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Manajer Sosial, Pendidikan, dan Budaya Maritim</div>
+                        </div>
+                    </figcaption>
+                </figure>
+            </div>
+            <!-- end team item -->
+
+        </div>
+        <div class="container margin-50px-top">
+
+            <!-- start team item -->
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
+                <figure>
+                    <div class="team-image xs-width-100">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Mariyo_Putra_Perdana3.png" alt="">
+                        <div class="overlay-content text-center">
+                            <div class="display-table height-100 width-100">
+                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Perkenalkan nama saya Mariyo Putra Perdana dan saya adalah anak pertama dari dua bersaudara, saya berdomisili di DKI Jakarta lebih tepatnya di Kalideres Jakarta Barat. Hobi saya adalah olahraga dan saya adalah atlet Cabang Olahraga Karate DKI Jakarta dan alhamdulillah sudah banyak prestasi yang sudah saya berikan dan sudah saya raih dari daerah, provinsi hingga nasional. Saya seseorang yang aktif dalam bersosialisasi dan mampu menyesuaikan diri di lingkungan yang baru, belajar adalah sesuatu hal yang wajib bagi saya, baik belajar dalam suatu pekerjaan hingga hal yang dilakukan. Harapan saya adalah bisa menjadi pelopor pembangunan maritim di Indonesia</span>
+                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                    <a href="https://www.instagram.com/mariyoputra_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                    </div>
+                    <figcaption>
+                        <div class="team-member-position margin-20px-top text-center">
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mariyo Perdana Putra</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Konservasi, Olahraga, dan Pariwisata Bahari</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -538,16 +537,16 @@
             <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottomsm-margin-xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Mariyo_Putra_Perdana3.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/putih2.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Perkenalkan nama saya Mariyo Putra Perdana dan saya adalah anak pertama dari dua bersaudara, saya berdomisili di DKI Jakarta lebih tepatnya di Kalideres Jakarta Barat. Hobi saya adalah olahraga dan saya adalah atlet Cabang Olahraga Karate DKI Jakarta dan alhamdulillah sudah banyak prestasi yang sudah saya berikan dan sudah saya raih dari daerah, provinsi hingga nasional. Saya seseorang yang aktif dalam bersosialisasi dan mampu menyesuaikan diri di lingkungan yang baru, belajar adalah sesuatu hal yang wajib bagi saya, baik belajar dalam suatu pekerjaan hingga hal yang dilakukan. Harapan saya adalah bisa menjadi pelopor pembangunan maritim di Indonesia</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Nama chehafni Damanik, seorang mahasiswi pascasarjana universitas pertahanan RI jurusan Keamanan Maritim, Saya anak kedua dari 6 bersaudara, saya orang yang senang berorganisasi dan bersosialisasi dengan banyak orang, saya senang traveling dan berolahraga, saya bergabung di Maritime Muda juga untuk menambah relasi memperkaya pengetahuan, belajar dari orang banyak dan orang orang hebat di maritime muda karena saya tau ilmu saya masih sedikit dan saya butuh belajar dengan banyak orang.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/mariyoputra_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.instagram.com/chehafnidamanik/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -555,8 +554,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mariyo Putra Perdana</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Konservasi, Olahraga, dan Pariwisata Bahari</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Paty Abbas Soumena </div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Pelayaran, Logistik, dan Daerah Kepulauan</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -587,8 +586,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Paty Abbas Soumena </div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Pelayaran, Logistik, dan Daerah Kepulauan</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Nama Lengkap </div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Kemitraan Global</div>
                         </div>
                     </figcaption>
                 </figure>
