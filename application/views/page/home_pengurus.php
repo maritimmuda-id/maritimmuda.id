@@ -586,7 +586,7 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Nama Lengkap </div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Nor Anisa</div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Manajer Kemitraan Global</div>
                         </div>
                     </figcaption>
@@ -859,131 +859,137 @@
             <!-- start team section -->
 
 
-            <div class="col-lg-7 col-md-8 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
+            <!-- <div class="col-lg-7 col-md-8 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
                 <h5 class="alt-font text-extra-dark-gray font-weight-600">Anggota Tim</h5>
-            </div>
+            </div> -->
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7 col-md-8 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
+                        <h5 class="alt-font text-extra-dark-gray font-weight-600">Anggota Tim</h5>
+                    </div>
+                </div>
 
 
-            <!-- end team section -->
-            <!-- start team section -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/rizky.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Rizky Akbar Siboro, S.Pi Seorang pemuda yang memiliki antusias dalam kelestarian alam dan lingkungan sekitar</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                <!-- end team section -->
+                <!-- start team section -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/rizky.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Rizky Akbar Siboro, S.Pi Seorang pemuda yang memiliki antusias dalam kelestarian alam dan lingkungan sekitar</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Rizky Akbar Siboro</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pendidikan Lingkungan</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/4/foto-1.jpg" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Ranitya Nurlita aktif di berbagai aktivitas pengembangan pemuda sejak 2011 untuk menggapai mimpinya menjadi pengusaha yang fokus di bidang lingkungan. Ranitya mempunyai minat yang tinggi di bidang Pembangunan Berkelanjutan, Manajemen Proyek, dan Kepemimpinan Pemuda. Karena minatnya ini, Ranitya menjadi Duta Muda di berbagai Forum Internasional lebih dari 17 negara. Pendiri komunitas ASEAN Reusable Bag Campaign dan External Engagement Manager Greeneration Foundation ini juga aktif sebagai Pembicara di berbagai forum pemuda dan lingkungan, dan menjadi relawan di berbagai kegiatan.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Rizky Akbar Siboro</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pendidikan Lingkungan</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/4/foto-1.jpg" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Ranitya Nurlita aktif di berbagai aktivitas pengembangan pemuda sejak 2011 untuk menggapai mimpinya menjadi pengusaha yang fokus di bidang lingkungan. Ranitya mempunyai minat yang tinggi di bidang Pembangunan Berkelanjutan, Manajemen Proyek, dan Kepemimpinan Pemuda. Karena minatnya ini, Ranitya menjadi Duta Muda di berbagai Forum Internasional lebih dari 17 negara. Pendiri komunitas ASEAN Reusable Bag Campaign dan External Engagement Manager Greeneration Foundation ini juga aktif sebagai Pembicara di berbagai forum pemuda dan lingkungan, dan menjadi relawan di berbagai kegiatan.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Ranitya Nurlita</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">CO-Founder & Ahli Muda Bidang Lingkungan</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="1.0s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/sigitnugroho1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Sigit Nugroho, S.I.Kom., M.I.Kom. adalah Lulusan Magister Ilmu Komunikasi yang berkecimpung di bidang Public Relations. Hal ini terwujud dengan menjadi PR Kontingen Indonesia tahun 2018 pada The Young Garuda Contingent Republic of Indonesia di Ajang YSS-ASEAN Mission to Sarawak Malaysia. Aktif di berbagai kegiatan Nasional dan Internasional terutama dalam bidang Sosial dan Pendidikan. </span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Ranitya Nurlita</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">CO-Founder & Ahli Muda Bidang Lingkungan</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="1.0s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/sigitnugroho1.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Sigit Nugroho, S.I.Kom., M.I.Kom. adalah Lulusan Magister Ilmu Komunikasi yang berkecimpung di bidang Public Relations. Hal ini terwujud dengan menjadi PR Kontingen Indonesia tahun 2018 pada The Young Garuda Contingent Republic of Indonesia di Ajang YSS-ASEAN Mission to Sarawak Malaysia. Aktif di berbagai kegiatan Nasional dan Internasional terutama dalam bidang Sosial dan Pendidikan. </span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Sigit Nugroho</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Komunikasi</div>
-                        </div>
-                    </figcaption>
-                </figure>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Sigit Nugroho</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Komunikasi</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+
             </div>
-            <!-- end team item -->
-
-        </div>
-        <div class="row margin-50px-top">
+            <div class="row margin-50px-top">
 
 
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/foto-5.jpg" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/foto-5.jpg" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Dwitya Harits Waskito</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Teknologi Maritim</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Dwitya Harits Waskito</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Teknologi Maritim</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                         <figure>
                             <div class="team-image xs-width-100">
                                 <img src="https://maritimmuda.id/upload/user/41/dinda.png" alt="">
@@ -1009,71 +1015,71 @@
                             </figcaption>
                         </figure>
                     </div> -->
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/aditya1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/last.caesar93" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/kaisarakhir/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/aditya1.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/last.caesar93" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/kaisarakhir/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Adityawarman</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Transportasi Laut</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Adityawarman</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Transportasi Laut</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
 
 
-            <!-- <div class="row margin-50px-top"> -->
+                <!-- <div class="row margin-50px-top"> -->
 
 
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/hyang.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Hyang I. Mihardka, S.H., MBA. has 18 years of professional experience including leadership positions in national private companies. She is consistently promoting Negotiation and Mediation as an appropriate dispute resolution under Pusat Mediasi Nasional, since 2005. In addition of being a collaborative lawyer, she took part in national & international organizations; Listed as DSF Mediator in RSPO, a global associations of palm oil industry. Representative in Asia Pacific Centre for Arbitration & Mediation (APCAM). As a Mediator Coach in Ombudsman RI & Bawaslu RI. </span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/hyang.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Hyang I. Mihardka, S.H., MBA. has 18 years of professional experience including leadership positions in national private companies. She is consistently promoting Negotiation and Mediation as an appropriate dispute resolution under Pusat Mediasi Nasional, since 2005. In addition of being a collaborative lawyer, she took part in national & international organizations; Listed as DSF Mediator in RSPO, a global associations of palm oil industry. Representative in Asia Pacific Centre for Arbitration & Mediation (APCAM). As a Mediator Coach in Ombudsman RI & Bawaslu RI. </span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Hyang Ismalya Mihardja</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Resolusi Konflik</div>
-                        </div>
-                    </figcaption>
-                </figure>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Hyang Ismalya Mihardja</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Resolusi Konflik</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
             </div>
-            <!-- end team item -->
-        </div>
-        <!-- start team item -->
-        <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+            <!-- start team item -->
+            <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
                                 <img src="https://maritimmuda.id/upload/user/41/sihar.png" alt="">
@@ -1099,129 +1105,129 @@
                             </figcaption>
                         </figure>
                     </div> -->
-        <!-- end team item -->
-
-
-        <div class="row margin-50px-top">
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/dhanes3.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Education background is Ocean Engineering, having experiences of maritime and marine construction and consultations project in Asia and Middle East. Currently pursuing Maritime Management and Shipping Management Master Degree in Sweden and Greece.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Dhaneswara Al Amien</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Manajemen Maritim</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
             <!-- end team item -->
 
-            <!-- <div class="row margin-50px-top"> -->
 
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/Bobby_Muhamad_Zaky.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Merupakan seseorang yang memiliki pengalaman 5 tahun dalam teknologi informasi kebumian dan maritim. Saat ini saya bekerja sebagai CEO dari Circlegeo, sebuah perusahaan teknologi pengembangan teknologi dan SDM bidang kebumian.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+            <div class="row margin-50px-top">
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/dhanes3.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Education background is Ocean Engineering, having experiences of maritime and marine construction and consultations project in Asia and Middle East. Currently pursuing Maritime Management and Shipping Management Master Degree in Sweden and Greece.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Bobby Muhamad Zaky</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Tata Ruang Maritim</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/angkasa.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Angkasa Putra, S.Tr.Pi pemuda maritim berdarah Bugis-Makassar, menempuh pendidikan vokasi bidang perikanan budidaya (aquaculture) pada instansi pendidikan Kementerian Kelautan dan Perikanan Republik Indonesia (KKP RI) selama tujuh tahun, yakni Sekolah Usaha Perikanan Menengah (SUPM) Negeri Bone (2012-2015) dan Sekolah Tinggi Perikanan (STP) Jakarta/Politeknik Ahli Usaha Perikanan (Poltek AUP) Jakarta (2015-2019). Memiliki cita-cita besar dalam pembangunan sektor KP bidang akuakultur yang ramah lingkungan, berkelanjutan, produktivitas tinggi, serta penerapan teknologi industri 4.0.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Dhaneswara Al Amien</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Manajemen Maritim</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+
+                <!-- <div class="row margin-50px-top"> -->
+
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/Bobby_Muhamad_Zaky.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Merupakan seseorang yang memiliki pengalaman 5 tahun dalam teknologi informasi kebumian dan maritim. Saat ini saya bekerja sebagai CEO dari Circlegeo, sebuah perusahaan teknologi pengembangan teknologi dan SDM bidang kebumian.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Angkasa Putra</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Perikanan Budidaya</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-        </div>
-        <div class="row margin-50px-top">
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/LuthfanAtiqiHulmanAufar1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">seorang profesional muda yang memfokuskan diri kepada dunia pendidikan menengah bidang kemaritiman. Lulusan Sekolah Tinggi Perikanan prodi Teknologi Penangkapan Ikan. Saat ini menjabat sebagai kepala Jurusan di SMK Mitra Maritim Indramayu. Pelaut tangguh tidak dilahirkan dari air yang tenang.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Bobby Muhamad Zaky</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Tata Ruang Maritim</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/angkasa.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Angkasa Putra, S.Tr.Pi pemuda maritim berdarah Bugis-Makassar, menempuh pendidikan vokasi bidang perikanan budidaya (aquaculture) pada instansi pendidikan Kementerian Kelautan dan Perikanan Republik Indonesia (KKP RI) selama tujuh tahun, yakni Sekolah Usaha Perikanan Menengah (SUPM) Negeri Bone (2012-2015) dan Sekolah Tinggi Perikanan (STP) Jakarta/Politeknik Ahli Usaha Perikanan (Poltek AUP) Jakarta (2015-2019). Memiliki cita-cita besar dalam pembangunan sektor KP bidang akuakultur yang ramah lingkungan, berkelanjutan, produktivitas tinggi, serta penerapan teknologi industri 4.0.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Luthfan Atiqi Hulman Aufar</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Perikanan Tangkap</div>
-                        </div>
-                    </figcaption>
-                </figure>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Angkasa Putra</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Perikanan Budidaya</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
             </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+            <div class="row margin-50px-top">
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/LuthfanAtiqiHulmanAufar1.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">seorang profesional muda yang memfokuskan diri kepada dunia pendidikan menengah bidang kemaritiman. Lulusan Sekolah Tinggi Perikanan prodi Teknologi Penangkapan Ikan. Saat ini menjabat sebagai kepala Jurusan di SMK Mitra Maritim Indramayu. Pelaut tangguh tidak dilahirkan dari air yang tenang.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                        </div>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Luthfan Atiqi Hulman Aufar</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Perikanan Tangkap</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
                                 <img src="https://maritimmuda.id/upload/user/41/Ayu_Astriandari1.png" alt="">
@@ -1231,10 +1237,10 @@
                                             <span class="text-white text-small display-inline-block no-margin"></span>
                                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                              <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-            <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-            <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-            <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-            <!-- </div>
+                <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                <!-- </div>
                                     </div>
                                 </div>
                                 <div class="team-overlay bg-extra-dark-gray opacity8"></div>
@@ -1247,67 +1253,67 @@
                             </figcaption>
                         </figure>
                     </div> -->
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/Sony_Junianto1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Sony Junianto telah mendapatkan gelar doktornya di bidang energi laut terutama hidrodinamika teknologi energi arus laut. Saat ini dia aktif sebagai peneliti muda dan direktur di perusahaan nasional swasta yang bergerak di bidang energi terbarukan. Selain itu, dia aktif menjadi narasumber, salah satunya di dalam acara Focus Group Discussion (FGD) pengembangan energi arus laut dab gelombang laut di P3GL Bandung. Pengalamannya telah menjadikannya sebagai salah satu kontributor di dalam penyusunan buku rekomendasi untuk Presiden RI dari IKA ITS dengan judul "Indonesia Poros Maritim Dunia".</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/Sony_Junianto1.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Sony Junianto telah mendapatkan gelar doktornya di bidang energi laut terutama hidrodinamika teknologi energi arus laut. Saat ini dia aktif sebagai peneliti muda dan direktur di perusahaan nasional swasta yang bergerak di bidang energi terbarukan. Selain itu, dia aktif menjadi narasumber, salah satunya di dalam acara Focus Group Discussion (FGD) pengembangan energi arus laut dab gelombang laut di P3GL Bandung. Pengalamannya telah menjadikannya sebagai salah satu kontributor di dalam penyusunan buku rekomendasi untuk Presiden RI dari IKA ITS dengan judul "Indonesia Poros Maritim Dunia".</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Sony Junianto</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Energi Laut Terbarukan</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/Alexa.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Alexandra Maheswari Waskita, S.I.K. merupakan alumni Ilmu dan Teknologi Kelautan IPB yang memiliki minat dalam konservasi pesisir dan pulau kecil, lingkungan, dan penghidupan berkelanjutan. Selama bergabung dalam WWF-Indonesia, ia bekerja dalam isu wisata bertanggung jawab dan wisata berbasis masyarakat, konservasi duyung dan lamun, serta riset dan penyadartahuan sampah pesisir. Mendukung usaha lokal, ia memfasilitasi pengembangan Alor Creative dan Kurasi Craft. Ia juga mengembangkan kebun pangan di atap rumah bersama keluarga sebagai strategi menghadapi perubahan iklim. Saat ini dalam proses untuk studi MSc Marres di Université Côte d'Azur.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Sony Junianto</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Energi Laut Terbarukan</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/Alexa.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Alexandra Maheswari Waskita, S.I.K. merupakan alumni Ilmu dan Teknologi Kelautan IPB yang memiliki minat dalam konservasi pesisir dan pulau kecil, lingkungan, dan penghidupan berkelanjutan. Selama bergabung dalam WWF-Indonesia, ia bekerja dalam isu wisata bertanggung jawab dan wisata berbasis masyarakat, konservasi duyung dan lamun, serta riset dan penyadartahuan sampah pesisir. Mendukung usaha lokal, ia memfasilitasi pengembangan Alor Creative dan Kurasi Craft. Ia juga mengembangkan kebun pangan di atap rumah bersama keluarga sebagai strategi menghadapi perubahan iklim. Saat ini dalam proses untuk studi MSc Marres di Université Côte d'Azur.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Alexandra Maheswari Waskita</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Penghidupan Berkelanjutan</div>
-                        </div>
-                    </figcaption>
-                </figure>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Alexandra Maheswari Waskita</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Penghidupan Berkelanjutan</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
             </div>
-            <!-- end team item -->
-        </div>
 
-        <!-- start team item -->
-        <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+            <!-- start team item -->
+            <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
                                 <img src="https://maritimmuda.id/upload/user/41/zulham1.png" alt="">
@@ -1333,67 +1339,67 @@
                             </figcaption>
                         </figure>
                     </div> -->
-        <!-- end team item -->
-        <!-- start team item -->
+            <!-- end team item -->
+            <!-- start team item -->
 
-        <div class="row margin-50px-top">
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/Leonardo_Wiliam1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Saya Leo memiliki passion dalam dunia pariwisata, bisnis dan kegiatan sosial. Saya lulusan Agroteknologi UNAND angkatan 2013. Saya bekerja di sebuah perusahaan dengan konsep edu eco tourism sebagai Managing Director. Selain itu saya juga hobi di bidang fotografi dan videografi. </span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+            <div class="row margin-50px-top">
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/Leonardo_Wiliam1.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Saya Leo memiliki passion dalam dunia pariwisata, bisnis dan kegiatan sosial. Saya lulusan Agroteknologi UNAND angkatan 2013. Saya bekerja di sebuah perusahaan dengan konsep edu eco tourism sebagai Managing Director. Selain itu saya juga hobi di bidang fotografi dan videografi. </span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Leonardo William Pratama</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Wisata Bahari</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/Immanuel_Deo_Silalahi1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Tiga profil yang melekat erat pada seorang Immanuel Deo : Energetik, Intuitif, Kolaboratif. Deo adalah seorang valedictorian ITB, 3,5 tahun lulusan terbaik dimasanya dengan predikat Cum Laude. Deo sekarang bekerja di perusahaan Oil and Gas Services Company, Schlumberger sebagai Reliability Engineer(dulu berkiprah sebagai Field Engineer). Ia tidak hanya berprestasi dalam karier, namun juga aktif dalam NGO Gaja Toba, organisasi alumni ITB kesukuan Batak yang memiliki visi untuk membangun kampung di sekitar Danau Toba. Deo juga mendedikasikan dirinya di bidang Geopark, menjadi perwakilan resmi Geopark Youth world-wide mewakili Indonesia, yang akan diadakan di Jeju Island, Korea Selatan. Hiking, diving, marathon-running, dan music-jamming adalah hobi utama seorang Deo.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Leonardo William Pratama</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Wisata Bahari</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/Immanuel_Deo_Silalahi1.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Tiga profil yang melekat erat pada seorang Immanuel Deo : Energetik, Intuitif, Kolaboratif. Deo adalah seorang valedictorian ITB, 3,5 tahun lulusan terbaik dimasanya dengan predikat Cum Laude. Deo sekarang bekerja di perusahaan Oil and Gas Services Company, Schlumberger sebagai Reliability Engineer(dulu berkiprah sebagai Field Engineer). Ia tidak hanya berprestasi dalam karier, namun juga aktif dalam NGO Gaja Toba, organisasi alumni ITB kesukuan Batak yang memiliki visi untuk membangun kampung di sekitar Danau Toba. Deo juga mendedikasikan dirinya di bidang Geopark, menjadi perwakilan resmi Geopark Youth world-wide mewakili Indonesia, yang akan diadakan di Jeju Island, Korea Selatan. Hiking, diving, marathon-running, dan music-jamming adalah hobi utama seorang Deo.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Immanuel Deo Juvente Hasian Silalahi</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Geopark</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Immanuel Deo Juvente Hasian Silalahi</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Geopark</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
                                 <img src="https://maritimmuda.id/upload/user/41/MBiki.png" alt="">
@@ -1419,41 +1425,41 @@
                             </figcaption>
                         </figure>
                     </div> -->
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/firman3.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Firman Faturohman, S.Hum. Firman Faturohman seorang Penggiat Sejarah dan Museum, lulusan Sejarah UIN Syarif Hidayatullah Jakarta. Saat ini menjadi staf edukasi dan asisten kurator di Unit Pengelola Museum Kebaharian Jakarta. Saat ini aktif dalam kegiatan-kegiatan kemaritiman yang berkaitan dengan bidang sejarah, arkeologi dan museum.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/firman3.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Firman Faturohman, S.Hum. Firman Faturohman seorang Penggiat Sejarah dan Museum, lulusan Sejarah UIN Syarif Hidayatullah Jakarta. Saat ini menjadi staf edukasi dan asisten kurator di Unit Pengelola Museum Kebaharian Jakarta. Saat ini aktif dalam kegiatan-kegiatan kemaritiman yang berkaitan dengan bidang sejarah, arkeologi dan museum.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Firman Faturohman</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Sejarah dan Budaya Maritim</div>
-                        </div>
-                    </figcaption>
-                </figure>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Firman Faturohman</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Sejarah dan Budaya Maritim</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
             </div>
-            <!-- end team item -->
-        </div>
-        <!-- </div> -->
+            <!-- </div> -->
 
-        <!-- <div class="row margin-50px-top"> -->
-        <!-- start team item -->
-        <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+            <!-- <div class="row margin-50px-top"> -->
+            <!-- start team item -->
+            <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
                                 <img src="https://maritimmuda.id/upload/user/41/sarah.png" alt="">
@@ -1481,123 +1487,123 @@
                     </div>
                      end team item
                     </div> -->
-        <div class="container margin-50px-top">
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/endy2.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Endy Prahyuono, S.T. Endy memiliki passion dalam bidang startup, kegiatan sosial dan kebijakan publik. Lulusan Teknik Sipil ITS angkatan 2007 bekerja di sebuah prusahaan startup sebagai Head of Corporate Strategy & Government Relation. Bergabung dengan Maritim Muda Nusantara semenjak 2021 dengan harapan dapat bermanfaat kepada masyarakat terutama masyarakat pesisir melalui kegiatan pengembangan bisnis. </span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+            <div class="container margin-50px-top">
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/endy2.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Endy Prahyuono, S.T. Endy memiliki passion dalam bidang startup, kegiatan sosial dan kebijakan publik. Lulusan Teknik Sipil ITS angkatan 2007 bekerja di sebuah prusahaan startup sebagai Head of Corporate Strategy & Government Relation. Bergabung dengan Maritim Muda Nusantara semenjak 2021 dengan harapan dapat bermanfaat kepada masyarakat terutama masyarakat pesisir melalui kegiatan pengembangan bisnis. </span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Endy Prahyuono</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pengembangan Bisnis</div>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Endy Prahyuono</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pengembangan Bisnis</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/gizza_new2.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                    </figcaption>
-                </figure>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mochamad Gizza Gaeta Nahumariri</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Regulasi Statutori</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/naufal2.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                        </div>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhammad Naufal Hishnul Hashin</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Aeromaritim dan Fotografi Bawah Laut</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
             </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/gizza_new2.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+            <div class="container margin-50px-top">
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/Risya_Arsyi1.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Risya graduated from Hasanuddin University majoring Fishery Science focusing on Marine Geospatial and Fisheries System Information. Currently, she is working as Junior Scientific Officer at one of the Partnership for Australia - Indonesia Research programs. Her interests are spatial fisheries management, particularly in the technical aspects, and marine and fisheries mapping with GIS.</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
                                 </div>
                             </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mochamad Gizza Gaeta Nahumariri</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Regulasi Statutori</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/naufal2.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                </div>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Risya Arsyi Armis</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pemetaan Sumber Daya Hayati Laut</div>
                             </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhammad Naufal Hishnul Hashin</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Aeromaritim dan Fotografi Bawah Laut</div>
-                        </div>
-                    </figcaption>
-                </figure>
+                        </figcaption>
+                    </figure>
+                </div>
             </div>
             <!-- end team item -->
         </div>
-        <div class="container margin-50px-top">
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/Risya_Arsyi1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Risya graduated from Hasanuddin University majoring Fishery Science focusing on Marine Geospatial and Fisheries System Information. Currently, she is working as Junior Scientific Officer at one of the Partnership for Australia - Indonesia Research programs. Her interests are spatial fisheries management, particularly in the technical aspects, and marine and fisheries mapping with GIS.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Risya Arsyi Armis</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pemetaan Sumber Daya Hayati Laut</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-        </div>
-        <!-- end team item -->
-    </div>
 </section>
 <!-- end team section -->
 
