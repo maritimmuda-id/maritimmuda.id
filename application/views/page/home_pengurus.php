@@ -860,10 +860,11 @@
             </div>
             <!-- end team section -->
         </div>
+</section>
 
-        <!-- <div class="container margin-50px-top"> -->
-        <!-- start team item -->
-        <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+<!-- <div class="container margin-50px-top"> -->
+<!-- start team item -->
+<!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
                                 <img src="<?php echo site_url('upload/') ?>user/42/Annisa2.png" alt="">
@@ -872,11 +873,11 @@
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
                                             <span class="text-white text-small display-inline-block no-margin"></span>
                                             <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div> -->
-        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-        <!-- </div>
+<!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+<!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+<!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+<!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+<!-- </div>
                                     </div>
                                 </div>
                                 <div class="team-overlay bg-extra-dark-gray opacity8"></div>
