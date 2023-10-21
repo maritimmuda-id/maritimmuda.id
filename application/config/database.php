@@ -123,7 +123,7 @@ $db['default'] = array(
 );
 
 
-
+// FOR LOCAL DEVELOPMENT ONLY
 // $db['default'] = array(
 // 	'dsn'	=> '',
 // 	'hostname' => 'localhost',
