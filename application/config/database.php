@@ -73,32 +73,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 
-
-// if(isset($db['server_db']) AND isset($db['server_user']) AND isset($db['server_db_password']))
-
-// 	$db['default'] = (isset($dbi['server']) ? $db['server'] : $db['local']);
-// 	$db['default'] = array(
-// 	'dsn'	=> '',
-// 	'hostname' => (isset($db['server_db']) ? $db['server_db'] : "10.0.11.35"),
-// 	'username' => (isset($db['server_db_user']) ? $db['server_db_user'] : "admin"), //maritim
-// 	'password' => (isset($db['server_db_password']) ? $db['server_db_password'] : "12345678"), //12345678
-// 	'database' => 'maritimmuda',
-// 	'dbdriver' => 'mysqli',
-// 	'dbprefix' => 'maritimmuda',
-// 	'pconnect' => FALSE,
-// 	'db_debug' => (ENVIRONMENT !== 'production'),
-// 	'cache_on' => FALSE,
-// 	'cachedir' => '',
-// 	'char_set' => 'utf8',
-// 	'dbcollat' => 'utf8_general_ci',
-// 	'swap_pre' => '',
-// 	'encrypt' => FALSE,
-// 	'compress' => FALSE,
-// 	'stricton' => FALSE,
-// 	'failover' => array(),
-// 	'save_queries' => TRUE
-// );
-
+// LOCAL DEVELOPMENT DATABASE CONFIG (USE WHEN THE CODE WAS DEVELOPED IN YOUR LOCAL MACHINE)
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
@@ -121,16 +96,17 @@ $db['default'] = array(
 	'save_queries' => TRUE
 );
 
-
-
-// $db['default'] = array(
+// PRODUCTION BASE URL (USE WHEN THE CODE WAS PUSHED INTO THE CLOUD)
+// if(isset($db['server_db']) AND isset($db['server_user']) AND isset($db['server_db_password']))
+// 	$db['default'] = (isset($dbi['server']) ? $db['server'] : $db['local']);
+// 	$db['default'] = array(
 // 	'dsn'	=> '',
-// 	'hostname' => 'localhost',
-// 	'username' => 'root', 
-// 	'password' => '',
+// 	'hostname' => (isset($db['server_db']) ? $db['server_db'] : "10.0.11.35"),
+// 	'username' => (isset($db['server_db_user']) ? $db['server_db_user'] : "admin"), //maritim
+// 	'password' => (isset($db['server_db_password']) ? $db['server_db_password'] : "12345678"), //12345678
 // 	'database' => 'maritimmuda',
 // 	'dbdriver' => 'mysqli',
-// 	'dbprefix' => '',
+// 	'dbprefix' => 'maritimmuda',
 // 	'pconnect' => FALSE,
 // 	'db_debug' => (ENVIRONMENT !== 'production'),
 // 	'cache_on' => FALSE,

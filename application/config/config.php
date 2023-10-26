@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 |--------------------------------------------------------------------------
@@ -23,17 +23,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+
+// PRODUCTION BASE URL (USE WHEN THE CODE WAS PUSHED INTO THE CLOUD)
 $base_url = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
-$base_url .= "://". @$_SERVER['HTTP_HOST'];
-$base_url .=     str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER['SCRIPT_NAME']);
+$base_url .= "://" . @$_SERVER['HTTP_HOST'];
+$base_url .=     str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
 $config['base_url'] = $base_url;
-// $config['base_url'] = 'http://localhost/~bondanbhaskara/maritimmuda/ci';
-// $config['base_url'] = 'http://www.maritimmuda.id';
-
 $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost/maritimmuda-home");
-// $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost:8081/maritim/maritimmuda-home/");
 $config['base_url'] = $base_url;
 
+// LOCAL DEVELOPMENT BASE URL (USE WHEN THE CODE WAS DEVELOPED IN YOUR LOCAL MACHINE)
+// $config['base_url'] = 'http://localhost/maritimmuda.id';
+
+//MISC CONFIGURATIONS
+// $config['base_url'] = 'http://www.maritimmuda.id';
+// $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost:8081/maritim/maritimmuda-home/");
 // $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost/maritim/maritimmuda-home/");
 // $config['base_url'] = $base_url;
 
@@ -65,7 +69,7 @@ $config['index_page'] = '';
 |
 | WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded!
 */
-$config['uri_protocol']	= 'REQUEST_URI';
+$config['uri_protocol']    = 'REQUEST_URI';
 
 /*
 |--------------------------------------------------------------------------
@@ -89,7 +93,7 @@ $config['url_suffix'] = '';
 | than english.
 |
 */
-$config['language']	= 'english';
+$config['language']    = 'english';
 
 /*
 |--------------------------------------------------------------------------
@@ -414,11 +418,11 @@ $config['sess_regenerate_destroy'] = FALSE;
 |       'cookie_httponly') will also affect sessions.
 |
 */
-$config['cookie_prefix']	= '';
-$config['cookie_domain']	= '';
-$config['cookie_path']		= '/';
-$config['cookie_secure']	= FALSE;
-$config['cookie_httponly'] 	= FALSE;
+$config['cookie_prefix']    = '';
+$config['cookie_domain']    = '';
+$config['cookie_path']        = '/';
+$config['cookie_secure']    = FALSE;
+$config['cookie_httponly']     = FALSE;
 
 /*
 |--------------------------------------------------------------------------
