@@ -356,7 +356,7 @@
                             <figcaption>
                                 <div class="team-member-position margin-20px-top text-center">
                                     <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Kalimantan Selatan</div>
-                                    <div class="text-extra-small text-uppercase text-medium-gray">Suhedi Aditama</div>
+                                    <div class="text-extra-small text-uppercase text-medium-gray">Muhammad Ridani</div>
                                 </div>
                             </figcaption>
                         </figure>

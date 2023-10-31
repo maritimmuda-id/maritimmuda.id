@@ -6,7 +6,7 @@
             <!-- start copyright -->
             <div class="col-md-4 col-sm-5 col-xs-12 text-small text-center alt-font display-table xs-text-center xs-margin-15px-bottom">
                 <div class="display-table-cell vertical-align-middle text-white">
-                    &COPY; 2022 Maritim Muda Nusantara<br>Indonesian Maritime Youths
+                    &COPY; 2023 Maritim Muda Nusantara<br>Indonesian Maritime Youths
                     <hr>Head Office:<br>
                     Indonesia Blue Economy Center<br>Kampus C STIE Indonesia Jakarta,
                     Jalan Pratekan No. 9A<br>Kel. Rawamangun, Kec. Pulo Gadung, Jakarta 13220

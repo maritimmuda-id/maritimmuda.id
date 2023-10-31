@@ -24,6 +24,54 @@
                     <div class="col-md-12 col-sm-12 col-xs-12 center-col text-center margin-100px-bottom xs-margin-40px-bottom">
                         <div class="position-relative overflow-hidden width-100">
                             <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase"><b>
+                            <h5>-2023-</h5></b>
+                            </span>
+                            <!-- <div class="row equalize xs-equalize-auto"> -->
+                                <ul type="disc">
+                                    <h5><li><p align="left"><b>Delegate of Republic of Indonesia for AIS Youth Conference 2023</b></p></li></h5>
+                                </ul>
+                            
+                            <!-- <ul type=”tipenomor”> -->
+                            <ul type=”disc”>
+                                    <font size="4"> 
+                                        <li><p align="left">Organized by Archipelagic and Island States (AIS) Forum</li>
+                                        <li><p align="left"> Bali, October 2023</li>
+                                        <li><p align="left">Delegate: Nor Anisa
+                                        </li>
+                                    </p></font>
+                            </ul><br><br>
+
+                            
+                                <ul type="disc">
+                                    <h5><li><p align="left"><b>Delegate of Republic of Indonesia for Young Explorer Program (YEP) - Indonesia Education Mission</b></p></li></h5>
+                                </ul>
+
+                            <ul type=”disc”>
+                                    <font size="4">
+                                        <li><p align="left">Organized by OceanX</li>
+                                        <li><p align="left">Horta, Portugal to Valleta, Malta, September 2023</li>
+                                        <li><p align="left">Delegate: Aron Jose Manuel Pakpahan
+                                        </li>
+                                    </p></font>
+                            </ul><br><br>
+
+                                
+                                <ul type="disc">
+                                    <h5><li><p align="left"><b>Participant of Youth Economic Leadership Program</b></p></li></h5>
+                                </ul>
+
+                            <ul type=”disc”>
+                                    <font size="4">
+                                        <li><p align="left"><b>Category Blue Economy Startup</b></li> 
+                                        <li><p align="left">Organized by Bank Indonesia Institute</li>
+                                        <li><p align="left">Jakarta, June 2023</li>
+                                        <li><p align="left">Participant: Kaisar Akhir
+                                        </li>
+                                    </p></font>
+                            </ul><br><br>
+                        
+                        
+                            <span class="text-small text-outside-line-full alt-font font-weight-600 text-uppercase"><b>
                             <h5>-2022-</h5></b>
                             </span>
                             <!-- <div class="row equalize xs-equalize-auto"> -->

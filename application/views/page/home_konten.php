@@ -230,12 +230,13 @@
         </div>
         <div class=" mitra wow fadeInUp row multiple-items" style="padding: 8px;">
 
-            <div><a href="https://sisinfopotmar.tnial.mil.id/orgdispotmar/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/dispotmaral.png" alt=""></a></div>
             <div><a href="https://maritim.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemenko-marves.png" alt=""></a></div>
             <div><a href="https://kkp.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_kkp_baru.png" alt=""></a></div>
             <div><a href="https://www.kemenpora.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemenpora-2.png" alt=""></a></div>
-            <div><a href="https://www.bappenas.go.id/id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo-bappenas.png" alt=""></a></div>
+            <div><a href="https://www.kemdikbud.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemendikbud.png" alt=""></a></div>
             <div><a href="https://www.menlhk.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_klhk.png" alt=""></a></div>
+            <div><a href="https://sisinfopotmar.tnial.mil.id/orgdispotmar/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/dispotmaral.png" alt=""></a></div>
+            <div><a href="https://www.bappenas.go.id/id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo-bappenas.png" alt=""></a></div>
             <div><a href="https://bnpp.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo_bnpp.png" alt=""></a></div>
             <div><a href="https://rc3s.org/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo RC3S.png" alt=""></a></div>
             <div><a href="https://www.kehati.or.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kehati.png" alt=""></a></div>
