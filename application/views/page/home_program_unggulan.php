@@ -24,7 +24,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/1-.png" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/mengajar.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/11.png" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/maritimmuda-hub.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/logo13.png" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/future-leaders.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                 <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
                                 <h6 class="alt-font text-extra-dark-gray">Maritim Muda Future Leaders</h6>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                <p>Maritim Muda Future Leaders adalah sebuah inisiatif pendidikan yang bertujuan untuk mempersiapkan mahasiswa menjadi pemimpin muda yang berwawasan maritim dan memiliki cinta tanah air. Melalui program magang yang profesional dan berkelanjutan, kami berkomitmen untuk menjadikan Indonesia sebagai Poros Maritim Dunia pada tahun 2045. Dalam upaya mencapai tujuan tersebut, kami menawarkan beragam aktivitas yang mencakup Manajemen & Pengembangan Website, diikuti oleh 20 mahasiswa, Sertifikasi Blue Economy Company Index (BECdex) dengan melibatkan 10 mahasiswa, serta Manajemen Prestasi Hub & Komunikasi Maritim Muda yang melibatkan 70 mahasiswa.</p>
                                 <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a> -->
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/12.png" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/awards.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/7-.png" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/ekanusa.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>
@@ -206,7 +206,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/1-1.png" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/maritechtor.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>

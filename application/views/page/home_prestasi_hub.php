@@ -159,7 +159,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/kantorpusat/prestasi-hub/student-housing.jpeg" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/kantorpusat/prestasi-hub/student-housing.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>
