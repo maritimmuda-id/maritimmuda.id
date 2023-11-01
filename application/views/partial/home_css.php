@@ -42,7 +42,7 @@
             }
 
             .mitra {
-                background-color: rgb(255, 255, 255, 0.6);
+                background-color: rgb(255, 255, 255, 0.9);
                 border-radius: 11px;
 
                 /* width: 200px;
