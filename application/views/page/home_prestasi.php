@@ -36,7 +36,7 @@
                                     <font size="4"> 
                                         <li><p align="left">Organized by Archipelagic and Island States (AIS) Forum</li>
                                         <li><p align="left"> Bali, October 2023</li>
-                                        <li><p align="left">Delegate: Nor Anisa
+                                        <li><p align="left">Delegate: Nor Anisa (Global Partnership Manager)
                                         </li>
                                     </p></font>
                             </ul><br><br>
@@ -50,7 +50,7 @@
                                     <font size="4">
                                         <li><p align="left">Organized by OceanX</li>
                                         <li><p align="left">Horta, Portugal to Valleta, Malta, September 2023</li>
-                                        <li><p align="left">Delegate: Aron Jose Manuel Pakpahan
+                                        <li><p align="left">Delegate: Aron Jose Manuel Pakpahan (Executive Director)
                                         </li>
                                     </p></font>
                             </ul><br><br>
@@ -65,7 +65,7 @@
                                         <li><p align="left"><b>Category Blue Economy Startup</b></li> 
                                         <li><p align="left">Organized by Bank Indonesia Institute</li>
                                         <li><p align="left">Jakarta, June 2023</li>
-                                        <li><p align="left">Participant: Kaisar Akhir
+                                        <li><p align="left">Participant: Blue Economy Company Index (BECdex) by Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)
                                         </li>
                                     </p></font>
                             </ul><br><br>

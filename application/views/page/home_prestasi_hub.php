@@ -9,7 +9,7 @@
                             <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Prestasi Hub Maritim Muda</h1>
                             <!-- end page title -->
                             <!-- start sub title -->
-                            <span class="text-white opacity6 alt-font no-margin-bottom">Sentra Pemberdayaan Pemuda Bidang Kemartiman Nasional</span>
+                            <span class="text-white opacity6 alt-font no-margin-bottom">Sentra Pemberdayaan Pemuda Bidang Kemaritiman Nasional</span>
                             <!-- end sub title -->
                         </div>
                     </div>
