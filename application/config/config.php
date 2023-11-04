@@ -35,7 +35,7 @@ $config['base_url'] = $base_url;
 // LOCAL DEVELOPMENT BASE URL (USE WHEN THE CODE WAS DEVELOPED IN YOUR LOCAL MACHINE)
 // $config['base_url'] = 'http://localhost/maritimmuda.id';
 
-//MISC
+//MISC CONFIGURATIONS
 // $config['base_url'] = 'http://www.maritimmuda.id';
 // $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost:8081/maritim/maritimmuda-home/");
 // $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost/maritim/maritimmuda-home/");
