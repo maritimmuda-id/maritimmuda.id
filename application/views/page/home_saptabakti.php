@@ -6,7 +6,7 @@
                     <div class="col-md-12 col-sm-12 col-xs-12 extra-small-screen display-table page-title-large">
                         <div class="display-table-cell vertical-align-middle text-center">
                             <!-- start page title -->
-                            <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Program</h1>
+                            <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Program Unggulan</h1>
                             <!-- end page title -->
                             <!-- start sub title -->
                             <span class="text-white opacity6 alt-font no-margin-bottom">Program Unggulan Maritim Muda Nusantara (Sapta Bakti) Tahun 2021-2022</span>
@@ -19,7 +19,7 @@
         <!-- end page title section -->
         <!-- start story section -->
         <section class="wow fadeIn animated animated" style="padding-bottom: 0">
-            <div class="container"> 
+            <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
@@ -27,7 +27,7 @@
                                 <img src="<?php echo site_url('assets') ?>/images/nawabakti/1-.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
@@ -45,7 +45,7 @@
         <!-- end story section -->
         <!-- start story section -->
         <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
-            <div class="container"> 
+            <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
@@ -53,7 +53,7 @@
                                 <img src="<?php echo site_url('assets') ?>/images/nawabakti/5-.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
@@ -71,7 +71,7 @@
         <!-- end story section -->
         <!-- start story section -->
         <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
-            <div class="container"> 
+            <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
@@ -79,7 +79,7 @@
                                 <img src="<?php echo site_url('assets') ?>/images/nawabakti/11.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
@@ -97,7 +97,7 @@
         <!-- end story section -->
         <!-- start story section -->
         <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
-            <div class="container"> 
+            <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
@@ -105,7 +105,7 @@
                                 <img src="<?php echo site_url('assets') ?>/images/nawabakti/logo13.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
@@ -123,7 +123,7 @@
         <!-- end story section -->
         <!-- start story section -->
         <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
-            <div class="container"> 
+            <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
@@ -131,7 +131,7 @@
                                 <img src="<?php echo site_url('assets') ?>/images/nawabakti/12.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
@@ -162,7 +162,7 @@
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                 <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                               <!--  <h6 class="alt-font text-extra-dark-gray">Temu Nasional Maritim Muda Nusantara 2019</h6>
+        <!--  <h6 class="alt-font text-extra-dark-gray">Temu Nasional Maritim Muda Nusantara 2019</h6>
                                 <p>Program ini merupakan sebuah pertemuan pengurus pusat dan para pimpinan organisasi daerah Maritim Muda Nusantara seluruh Indonesia (34 provinsi) yang terdiri atas Seminar Nasional, Rapat Kerja Nasional, Pelatihan Pemuda Maritim, Edukasi Kemaritiman, dan Aksi Bersih Pesisir dengan tema “Sukseskan Indonesia Poros Maritim Dunia”. Temu Nasional akan menghasilkan Naskah Rekomendasi Pemuda untuk mengembangkan peran Indonesia dalam Indo-Pacific Cooperation dan Archipelagic and Island States (AIS) Forum serta Rencana Aksi Nasional Kebijakan Kelautan Indonesia 2020 - 2045.</p>
                                 <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a>
                             </div>
@@ -175,7 +175,7 @@
         <!-- end story section -->
         <!-- start story section -->
         <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
-            <div class="container"> 
+            <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
@@ -183,7 +183,7 @@
                                 <img src="<?php echo site_url('assets') ?>/images/nawabakti/7-.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
@@ -201,7 +201,7 @@
         <!-- end story section -->
         <!-- start story section -->
         <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
-            <div class="container"> 
+            <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
@@ -209,7 +209,7 @@
                                 <img src="<?php echo site_url('assets') ?>/images/nawabakti/1-1.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
@@ -251,6 +251,3 @@
             </div>
         </section> --> -->
         <!-- end story section -->
-
-
-       

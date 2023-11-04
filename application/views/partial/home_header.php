@@ -22,7 +22,7 @@
                                     <!-- <li>
                                         <a href="<?php echo site_url('home/tentang') ?>">Tentang</a>
                                     </li> -->
-                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('home/tentang') ?>" title="Blog">Tentang</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="<?php echo site_url('home/tentang') ?>" title="Blog">Tentang</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>
@@ -58,35 +58,51 @@
                                     <!-- <li>
                                         <a href="<?php echo site_url('home/program') ?>">Program</a>
                                     </li> -->
-                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('home/program') ?>" title="Blog">Program</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="<?php echo site_url('home/program_unggulan') ?>" title="Blog">Program</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>
                                                 <a href="<?php echo site_url('home/program') ?>">Klaster</a>
                                             </li>
                                             <li>
-                                                <a href="<?php echo site_url('home/saptabakti') ?>">Sapta Bakti</a>
+                                                <a href="<?php echo site_url('home/program_unggulan') ?>">Program Unggulan</a>
                                             </li>
                                         </ul>
                                         <!-- end sub menu -->
                                     </li>
+
+                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="<?php echo site_url('home/kantor_pusat') ?>" title="Blog">Fasilitas</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                        <!-- start sub menu -->
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li>
+                                                <a href="<?php echo site_url('home/kantor_pusat') ?>">Kantor Pusat</a>
+                                            </li>
+                                            <li>
+                                                <a href="<?php echo site_url('home/prestasi_hub') ?>">Prestasi Hub Maritim Muda</a>
+                                            </li>
+                                        </ul>
+                                        <!-- end sub menu -->
+                                    </li>
+
+
+
                                 </ul>
                                 <ul class="nav navbar-nav navbar-right no-margin alt-font text-normal width-40 sm-width-100" data-in="fadeIn" data-out="fadeOut">
-                                    
+
                                     <li>
                                         <a href="<?php echo site_url('home/prestasi') ?>">Prestasi</a>
                                     </li>
                                     <li>
                                         <a href="https://media.maritimmuda.id">Media</a>
                                     </li>
-                                    <li class="dropdown simple-dropdown"><a href="<?php echo site_url('auth/registration') ?>" title="Member">Keanggotaan</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="https://hub.maritimmuda.id/login">Keanggotaan</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>
-                                                <a href="<?php echo site_url('auth') ?>">Login</a>
+                                                <a href="https://hub.maritimmuda.id/login">Login</a>
                                             </li>
                                             <li>
-                                                <a href="<?php echo site_url('auth/registration') ?>">Pendaftaran Baru</a>
+                                                <a href="https://hub.maritimmuda.id/register">Pendaftaran Baru</a>
                                             </li>
                                         </ul>
                                         <!-- end sub menu -->
@@ -97,6 +113,6 @@
                     </div>
                 </div>
             </nav>
-            <!-- end navigation -->  
+            <!-- end navigation -->
         </header>
         <!-- end header -->

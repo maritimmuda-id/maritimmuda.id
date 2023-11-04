@@ -6,7 +6,7 @@
                     <div class="col-md-12 col-sm-12 col-xs-12 extra-small-screen display-table page-title-large">
                         <div class="display-table-cell vertical-align-middle text-center">
                             <!-- start page title -->
-                            <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Program</h1>
+                            <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Klaster</h1>
                             <!-- end page title -->
                             <!-- start sub title -->
                             <span class="text-white opacity6 alt-font no-margin-bottom">Maritim Muda Nusantara</span>
@@ -21,7 +21,9 @@
         <section class="no-padding wow fadeIn">
             <div class="container-fluid" id="program1">
                 <div class="row equalize sm-equalize-auto">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-500px xs-height-350px wow fadeInLeft"  style="background-image:url('<?php echo site_url('assets/') ?>images/program/program-1.jpg');"><div class="hidden-sm height-350px"></div></div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-500px xs-height-350px wow fadeInLeft" style="background-image:url('<?php echo site_url('assets/') ?>images/program/program-1.jpg');">
+                        <div class="hidden-sm height-350px"></div>
+                    </div>
                     <div class="col-md-6 col-sm-12 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight; height: 552px;">
                         <div class="padding-twelve-all md-padding-ten-all pull-left sm-no-padding-lr xs-padding-50px-tb">
                             <div class="display-table-cell vertical-align-middle">
@@ -34,10 +36,10 @@
                                 </div>
                             </div>
 
-                            </div>
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
         </section>
         <!-- end feature box section -->
@@ -45,7 +47,9 @@
         <section class="no-padding wow fadeIn">
             <div class="container-fluid" id="program2">
                 <div class="row equalize sm-equalize-auto">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-500px xs-height-350px wow fadeInRight"  style="background-image:url('<?php echo site_url('assets/') ?>images/program/program-2.jpg');"><div class="hidden-sm height-350px"></div></div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-500px xs-height-350px wow fadeInRight" style="background-image:url('<?php echo site_url('assets/') ?>images/program/program-2.jpg');">
+                        <div class="hidden-sm height-350px"></div>
+                    </div>
                     <div class="col-md-6 col-sm-12 wow fadeInLeft" style="visibility: visible; animation-name: fadeInRight; height: 552px;">
                         <div class="padding-twelve-all md-padding-ten-all pull-left sm-no-padding-lr xs-padding-50px-tb">
                             <div class="display-table-cell vertical-align-middle">
@@ -63,11 +67,11 @@
                                 </div>
                             </div>
 
-                            </div>
                         </div>
                     </div>
-                    
                 </div>
+
+            </div>
             </div>
         </section>
         <!-- end feature box section -->
@@ -75,7 +79,9 @@
         <section class="no-padding wow fadeIn">
             <div class="container-fluid" id="program3">
                 <div class="row equalize sm-equalize-auto">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-500px xs-height-350px wow fadeInLeft"  style="background-image:url('<?php echo site_url('assets/') ?>images/program/program-3.jpg');"><div class="hidden-sm height-350px"></div></div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-500px xs-height-350px wow fadeInLeft" style="background-image:url('<?php echo site_url('assets/') ?>images/program/program-3.jpg');">
+                        <div class="hidden-sm height-350px"></div>
+                    </div>
                     <div class="col-md-6 col-sm-12 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight; height: 552px;">
                         <div class="padding-twelve-all md-padding-ten-all pull-left sm-no-padding-lr xs-padding-50px-tb">
                             <div class="display-table-cell vertical-align-middle">
@@ -92,11 +98,11 @@
                                 </div>
                             </div>
 
-                            </div>
                         </div>
                     </div>
-                    
                 </div>
+
+            </div>
             </div>
         </section>
         <!-- end feature box section -->
@@ -104,7 +110,9 @@
         <section class="no-padding wow fadeIn">
             <div class="container-fluid" id="program4">
                 <div class="row equalize sm-equalize-auto">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-500px xs-height-350px wow fadeInRight"  style="background-image:url('<?php echo site_url('assets/') ?>images/program/program-4.jpg');"><div class="hidden-sm height-350px"></div></div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 cover-background sm-height-500px xs-height-350px wow fadeInRight" style="background-image:url('<?php echo site_url('assets/') ?>images/program/program-4.jpg');">
+                        <div class="hidden-sm height-350px"></div>
+                    </div>
                     <div class="col-md-6 col-sm-12 wow fadeInRight" style="visibility: visible; animation-name: fadeInRight; height: 552px;">
                         <div class="padding-twelve-all md-padding-ten-all pull-left sm-no-padding-lr xs-padding-50px-tb">
                             <div class="display-table-cell vertical-align-middle">
@@ -117,11 +125,11 @@
                                 </div>
                             </div>
 
-                            </div>
                         </div>
                     </div>
-                    
                 </div>
+
+            </div>
             </div>
         </section>
         <!-- end feature box section -->
@@ -300,4 +308,3 @@
             </div>
         </section>
         <!-- end image gallery style 01 section -->
-       
