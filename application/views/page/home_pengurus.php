@@ -205,7 +205,7 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Saya memiliki kemampuan leadership yang baik, karena selama kuliah saya sering memimpin organisasi, mampu manajemen SDM dengan baik, dan juga mudah beradaptasi serta dapat bekerjasama dalam tim.
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Ishlahul Fikri, S. Pi seorang yang memiliki kemampuan leadership yang baik, karena selama kuliah sering memimpin organisasi, mampu manajemen SDM dengan baik, dan juga mudah beradaptasi serta dapat bekerjasama dalam tim.
                                     </span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
@@ -237,13 +237,13 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Saya lulusan Universitas Gadjah Mada program studi Manajemen Sumberdaya Akuatik angkatan 2019, saat ini aktif sebagai pegawai kontrak di Badan Pangan Nasional. Selain itu saya Founder dari timtimur.id gerakan media kreatif dan edukatif anak muda dari Indonesia Timur. </span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Mohamad Afif Dzulqifli S.Pi merupakan lulusan Universitas Gadjah Mada program studi Manajemen Sumberdaya Akuatik angkatan 2019, saat ini aktif sebagai pegawai kontrak di Badan Pangan Nasional. Selain itu Mohamad Afif Dzulqifli S.Pi menjadi founder dari timtimur.id gerakan media kreatif dan edukatif anak muda dari Indonesia Timur. </span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <a href="https://www.instagram.com/afif.dzul/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/mohamad-afif-dzulqifli-71b3251ab/?originalSubdomain=id" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.linkedin.com/in/mohamad-afif-dzulqifli-71b3251ab" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -332,12 +332,12 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Alfinna Yebelanti S.kel</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/dennysuwarso/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <a href="https://instagram.com/alfinnayebe/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -360,12 +360,13 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Seorang lulusan s1 Manajemen dari STIE Indonesia Jakarta</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Mattoviani, S. M. marupakan seorang lulusan s1 Manajemen dari STIE Indonesia Jakarta</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/last.caesar93" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <a href="https://www.instagram.com/mvp98hc08/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/mattoviani-s-m-b29124235/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -427,7 +428,7 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Prima Insamilandari Syah, S.Tr.Pi.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="https://twitter.com/diemasshawkins/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
@@ -495,6 +496,7 @@
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <a href="https://www.instagram.com/mariyoputra_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <!--<a href="https://www.linkedin.com/in/Mario-Berkardo-Dayman/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>-->
                                 </div>
                             </div>
                         </div>
@@ -524,6 +526,7 @@
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <!-- <a href="https://www.instagram.com/kaisarakhir/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <!--<a href="https://www.linkedin.com/in/Mario-Berkardo-Dayman/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>-->
                                 </div>
                             </div>
                         </div>
@@ -552,12 +555,13 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Paty Abbas Soumena merupakan..</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <a href="https://www.instagram.com/patyabbas_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/paty-abbas-ab5b82299/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -584,7 +588,7 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Seorang sarjana Hubungan Internasional lulusan Universitas Mulawarman tahun 2021. Ia memiliki ketertarikan pada bidang Tata Kelola Lingkungan dan Kebijakan Publik. Nor Anisa memiliki pengalaman kerja profesional di sektor ESG (Environmental, Social, and Governance) dengan fokus pada promosi pengungkapan informasi lingkungan di Asia Tenggara pada tahun 2022. Ia juga merupakan BP Scholar (pemenang beasiswa) untuk Climate Entrepreneurship di New York University untuk Youth Assembly 2023.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Nor Anisa S.Sos adalah seorang sarjana Hubungan Internasional lulusan Universitas Mulawarman tahun 2021. Ia memiliki ketertarikan pada bidang Tata Kelola Lingkungan dan Kebijakan Publik. Ia juga memiliki pengalaman kerja profesional di sektor ESG (Environmental, Social, and Governance) dengan fokus pada promosi pengungkapan informasi lingkungan di Asia Tenggara pada tahun 2022. Ia juga merupakan BP Scholar (pemenang beasiswa) untuk Climate Entrepreneurship di New York University untuk Youth Assembly 2023.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
@@ -643,7 +647,7 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Pribadi suka tantangan dan hal-hal baru agar dapat di jadikan pembelajaran dan pengalaman</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Apriansyah, S.P adalah pribadi suka tantangan dan hal-hal baru agar dapat di jadikan pembelajaran dan pengalaman.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
@@ -737,12 +741,13 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Mampu dalam bidang jurnalistik dan minat menulis yang tinggi </span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Muhammad Tahir, S.Sos memiliki kemampuan dalam bidang jurnalistik dan minat menulis yang tinggi. </span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <a href="https://www.instagram.com/muhammadtahir30/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/muhammad-tahir-40a5a8277" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
