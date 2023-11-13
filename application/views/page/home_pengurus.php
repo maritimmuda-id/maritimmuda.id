@@ -108,7 +108,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/kaisar2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/kaisar-akhir.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">

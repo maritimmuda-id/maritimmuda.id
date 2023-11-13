@@ -102,7 +102,7 @@
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/future-leaders.png" alt="" class="border-radius-6 width-100">
+                                <img src="<?php echo site_url('assets') ?>/images/nawabakti/magang-bersertifikat.png" alt="" class="border-radius-6 width-100">
                             </div>
                         </div>
                     </div>
@@ -110,8 +110,8 @@
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                 <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                                <h6 class="alt-font text-extra-dark-gray">Maritim Muda Future Leaders</h6>
-                                <p>Maritim Muda Future Leaders adalah sebuah inisiatif pendidikan yang bertujuan untuk mempersiapkan mahasiswa menjadi pemimpin muda yang berwawasan maritim dan memiliki cinta tanah air. Melalui program magang yang profesional dan berkelanjutan, kami berkomitmen untuk menjadikan Indonesia sebagai Poros Maritim Dunia pada tahun 2045. Dalam upaya mencapai tujuan tersebut, kami menawarkan beragam aktivitas yang mencakup Manajemen & Pengembangan Website, diikuti oleh 20 mahasiswa, Sertifikasi Blue Economy Company Index (BECdex) dengan melibatkan 10 mahasiswa, serta Manajemen Prestasi Hub & Komunikasi Maritim Muda yang melibatkan 70 mahasiswa.</p>
+                                <h6 class="alt-font text-extra-dark-gray">Maritim Muda Magang Bersertifikat</h6>
+                                <p>Maritim Muda Magang bersertifikat adalah sebuah program magang tingkat nasional yang bermitra dengan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi dalam program Magang dan Studi Independen Bersertifikat (MSIB) Kampus Merdeka dengan tujuan untuk mempersiapkan mahasiswa sebagai pemimpin muda yang berwawasan maritim dan memiliki rasa cinta tanah air secara profesional dan berkelanjutan dalam mewujudkan Indonesia sebagai Poros Maritim Dunia pada tahun 2045. Dalam upaya mencapai tujuan tersebut, kami memberikan kesempatan secara langsung kepada mahasiswa untuk belajar dan terlibat aktif pada kegiatan-kegiatan seperti Manajemen Website, Manajemen Prestasi Hub Maritim Muda, Manajemen Komunikasi, Manajemen Administrasi dan Keuangan serta Sertifikasi Blue Economy Company Index (BECdex).</p>
                                 <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a> -->
                             </div>
                         </div>
