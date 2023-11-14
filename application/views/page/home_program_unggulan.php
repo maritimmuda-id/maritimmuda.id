@@ -9,7 +9,7 @@
                             <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Program Unggulan</h1>
                             <!-- end page title -->
                             <!-- start sub title -->
-                            <span class="text-white opacity6 alt-font no-margin-bottom">Program Unggulan Maritim Muda Nusantara (Sapta Bakti) Tahun 2021-2022</span>
+                            <span class="text-white opacity6 alt-font no-margin-bottom">Program Unggulan Maritim Muda Nusantara (Sapta Bakti) Tahun 2023-2024</span>
                             <!-- end sub title -->
                         </div>
                     </div>
