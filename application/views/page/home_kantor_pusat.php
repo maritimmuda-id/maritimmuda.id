@@ -23,7 +23,7 @@
         </div> -->
 
         <!-- start story section -->
-        <section class="wow fadeIn animated animated" style="padding-bottom: 0">
+        <!-- <section class="wow fadeIn animated animated" style="padding-bottom: 0">
             <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
@@ -36,20 +36,17 @@
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
-                                <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
                                 <h6 class="alt-font text-extra-dark-gray">Ruang Kerja Ketua Umum</h6>
-                                <!-- <p>MMM merupakan program kerelawanan pemuda tingkat nasional yang terdiri atas kegiatan Pustaka Maritim Nusantara dan Sahabat Guru Maritim. Pustaka Maritim Nusantara yaitu kegiatan pendirian perpustakaan di daerah pesisir dan secara digital di website maritimmuda.id. Sahabat Guru Maritim yaitu para pemuda relawan menjadi pengajar materi Kurikulum Kemaritiman dan pendamping bagi para guru agar mampu menerapkan Kurikulum Kemaritiman di sekolah- sekolah khususnya di daerah pesisir dan pulau-pulau kecil, sehingga perluasan implementasi kurikulum kemaritiman di seluruh Indonesia dapat lebih cepat. Sebagai bentuk pembekalan sebelum bertugas, pelatihan akan diberikan kepada relawan Maritim Muda Mengajar dengan materi seperti bela negara, materi kurikulum kemaritiman, dan metode pengajaran.</p> -->
-                                <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a> -->
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="divider-full bg-extra-light-gray margin-seven-bottom margin-eight-top"></div>
             </div>
-        </section>
+        </section> -->
         <!-- end story section -->
         <!-- start story section -->
-        <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
+        <section class="wow fadeIn animated animated" style="padding-bottom: 0;">
             <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
@@ -63,7 +60,7 @@
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                 <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                                <h6 class="alt-font text-extra-dark-gray">Ruang Rapat dan Staff</h6>
+                                <h6 class="alt-font text-extra-dark-gray">Ruang Rapat dan Staf</h6>
                                 <!-- <p>Maritim Muda Training Center merupakan program penyediaan pelatihan untuk meningkatkan kapasitas dan kompetensi pelaut muda, nelayan muda, penyelam muda, wirausaha maritim muda, dan profesional maritim muda lainnya serta pengembangan <i>soft skills</i> pemuda dalam bidang kemaritiman dan kepemimpinan organisasi. Bentuk-bentuk kegiatan program ini meliputi : <br>1) Pelatihan Pemuda Ekonomi Biru 4.0.</br> 2) Executive Development Program for Indonesian Maritime Youth Leaders (EXECUTORS).<br>3) Maritim Muda Founder School.</br> 4) Pelatihan Profesi Kemaritiman. </p> -->
                                 <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a> -->
                             </div>

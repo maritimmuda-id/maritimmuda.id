@@ -78,6 +78,9 @@
                                                 <a href="<?php echo site_url('home/kantor_pusat') ?>">Kantor Pusat</a>
                                             </li>
                                             <li>
+                                                <a href="<?php echo site_url('home/mercusuar') ?>">Layanan Virtual Office</a>
+                                            </li>
+                                            <li>
                                                 <a href="<?php echo site_url('home/prestasi_hub') ?>">Prestasi Hub Maritim Muda</a>
                                             </li>
                                         </ul>
