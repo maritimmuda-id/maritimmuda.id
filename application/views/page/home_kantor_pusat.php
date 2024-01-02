@@ -60,7 +60,7 @@
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                 <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                                <h6 class="alt-font text-extra-dark-gray">Ruang Rapat dan Staff</h6>
+                                <h6 class="alt-font text-extra-dark-gray">Ruang Rapat dan Staf</h6>
                                 <!-- <p>Maritim Muda Training Center merupakan program penyediaan pelatihan untuk meningkatkan kapasitas dan kompetensi pelaut muda, nelayan muda, penyelam muda, wirausaha maritim muda, dan profesional maritim muda lainnya serta pengembangan <i>soft skills</i> pemuda dalam bidang kemaritiman dan kepemimpinan organisasi. Bentuk-bentuk kegiatan program ini meliputi : <br>1) Pelatihan Pemuda Ekonomi Biru 4.0.</br> 2) Executive Development Program for Indonesian Maritime Youth Leaders (EXECUTORS).<br>3) Maritim Muda Founder School.</br> 4) Pelatihan Profesi Kemaritiman. </p> -->
                                 <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a> -->
                             </div>
