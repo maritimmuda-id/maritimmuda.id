@@ -675,17 +675,17 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/sandy.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Ariq_Pratama.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Seorang Pengembang Perangkat Lunak dengan keahlian dalam JavaScript, PHP, Java, dan Dart. Terampil dalam framework seperti React.js, Vue.js, Node.js, CodeIgniter, Laravel, Spring Boot, dan Flutter. Mengelola layanan hosting dan memiliki pemahaman komprehensif tentang industri web hosting.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Ariq Pratama</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/msandypr/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/muhammad-sandy-putra-riyadi-355983149/?originalSubdomain=id " class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <!-- <a href="https://www.instagram.com/msandypr/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <!-- <a href="https://www.linkedin.com/in/muhammad-sandy-putra-riyadi-355983149/?originalSubdomain=id " class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -693,7 +693,7 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhammad Sandy Putra Riyadi </div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Ariq Pratama </div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Manajer Transformasi Digital dan Inovasi Maritim</div>
                         </div>
                     </figcaption>
