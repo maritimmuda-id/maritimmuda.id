@@ -167,7 +167,7 @@
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                 <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                                <h6 class="alt-font text-extra-dark-gray">Student Housing</h6>
+                                <h6 class="alt-font text-extra-dark-gray">STEI Student Housing</h6>
                                 <!-- <p>MARITECHTOR merupakan program inkubasi anak muda yang memiliki ide bisnis berbasis teknologi kemaritiman di daerah pesisir, wilayah sekitar rute Tol Laut, destinasi pariwisata prioritas, desa maritim, dan pulau-pulau kecil terluar. Program ini akan meliputi tahapan seleksi, pelatihan, pemodalan, pengembangan teknologi, pendirian perusahaan pemula, dan uji coba bisnis. Sektor bisnis yang dapat dikembangkan meliputi industri perikanan, garam, pertanian pesisir, wisata bahari, energi terbarukan pesisir dan laut, bioteknologi laut, dan penanganan sampah plastik laut.</p> -->
                                 <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a> -->
                             </div>

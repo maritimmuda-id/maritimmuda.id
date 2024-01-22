@@ -36,7 +36,7 @@
                                     <font size="4"> 
                                         <li><p align="left">Organized by Archipelagic and Island States (AIS) Forum</li>
                                         <li><p align="left"> Bali, October 2023</li>
-                                        <li><p align="left">Delegate: Nor Anisa (Global Partnership Manager)
+                                        <li><p align="left">Delegate: Nor Anisa (Global Partnership Manager, Maritim Muda Nusantara)
                                         </li>
                                     </p></font>
                             </ul><br><br>
@@ -48,9 +48,9 @@
 
                             <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left">Organized by OceanX</li>
+                                        <li><p align="left">Organized by OceanX in Colaboration with Coordinating Ministry for Maritime Affairs and Invesment of Republic of Indonesia</li>
                                         <li><p align="left">Horta, Portugal to Valleta, Malta, September 2023</li>
-                                        <li><p align="left">Delegate: Aron Jose Manuel Pakpahan (Executive Director)
+                                        <li><p align="left">Delegate: Aron Jose Manuel Pakpahan (CEO, Maritim Muda Nusantara)
                                         </li>
                                     </p></font>
                             </ul><br><br>
@@ -62,7 +62,7 @@
 
                             <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left"><b>Category Blue Economy Startup</b></li> 
+                                        <li><p align="left"><b>Category: Blue Economy Startup</b></li> 
                                         <li><p align="left">Organized by Bank Indonesia Institute</li>
                                         <li><p align="left">Jakarta, June 2023</li>
                                         <li><p align="left">Participant: Blue Economy Company Index (BECdex) by Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)
@@ -127,7 +127,7 @@
 
                             <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left"><b>Category of Outstanding Young Achiever Award</b></li> 
+                                        <li><p align="left"><b>Category: Outstanding Young Achiever Award</b></li> 
                                         <li><p align="left">Issued by International Education Olympiads & SPACE (Society for Perpetuation of Art, Culture & Education)</li>
                                         <li><p align="left">India, January 2022</li>
                                         <li><p align="left">Winner: Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)
@@ -211,7 +211,7 @@
                                 </ul>
                                 <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left"><b>Category of Innovative and Visionary Young Leader of Change in Maritime Affairs</b></li>
+                                        <li><p align="left"><b>Category: Innovative and Visionary Young Leader of Change in Maritime Affairs</b></li>
                                         <li><p align="left">Issued by 7 Sky Media</li>
                                         <li><p align="left">Bandung, December 2020</li>
                                         <li><p align="left">Winner: Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)
@@ -224,7 +224,7 @@
                                 </ul>
                                 <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left"><b>Category of Top Inspiring and Visionary Young Maritime Leader of the Year</b></li>
+                                        <li><p align="left"><b>Category: Top Inspiring and Visionary Young Maritime Leader of the Year</b></li>
                                         <li><p align="left">Issued by Indonesia Achievement Center and Tre Uno Event Management, Jakarta</li>
                                         <li><p align="left">Jakarta, December 2020</li>
                                         <li><p align="left">Winner: Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)
@@ -237,7 +237,7 @@
                                 </ul>
                                 <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left"><b>Category of Excellent in Youth Leadership</b></li>
+                                        <li><p align="left"><b>Category: Excellent in Youth Leadership</b></li>
                                         <li><p align="left">Issued by Media Star Foundation and National Award Media</li>
                                         <li><p align="left">Winner: Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)
                                         </li>
@@ -249,7 +249,7 @@
                                 </ul>
                                 <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left"><b>Category of Excellent in Youth Leadership</b></li>
+                                        <li><p align="left"><b>Category: Excellent in Youth Leadership</b></li>
                                         <li><p align="left">Issued by Media Star Foundation and National Award Media</li>
                                         <li><p align="left">Winner: Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)
                                         </li>
@@ -262,7 +262,7 @@
                                 </ul>
                                 <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left"><b>Category of Most Innovative Professional</b></li>
+                                        <li><p align="left"><b>Category: Most Innovative Professional</b></li>
                                         <li><p align="left">Issued by National Awards Foundation</li>
                                         <li><p align="left">Jakarta, June 2020</li>
                                         <li><p align="left">Winner: Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)
@@ -287,7 +287,7 @@
                                 </ul>
                                 <ul type=”disc”>
                                     <font size="4">
-                                        <li><p align="left"><b>Category of Outstanding Figure and Inspiring Leader</b></li>
+                                        <li><p align="left"><b>Category: Outstanding Figure and Inspiring Leader</b></li>
                                         <li><p align="left">Issued by Indonesia Development Achievement Foundation</li>
                                         <li><p align="left">Jakarta, May 2020</li>
                                         <li><p align="left">Winner: Kaisar Akhir (Founder and Chairman, Maritim Muda Nusantara)

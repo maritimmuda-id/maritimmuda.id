@@ -610,6 +610,22 @@
                             </figcaption>
                         </figure>
                     </div>
+
+                    <!-- end team item -->
+                    <!-- start team item -->
+                    <div class="col-md-3 col-sm-6 margin-50px-top col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
+                        <figure>
+                            <div class="team-image xs-width-100">
+                                <img src="<?php echo site_url('assets/images/ketua_daerah/kd_new_2023/') ?>39_Ketua Daerah Papua Pegunungan, Yonas Marian.png" alt="">
+                            </div>
+                            <figcaption>
+                                <div class="team-member-position margin-20px-top text-center">
+                                    <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Papua Pegunungan</div>
+                                    <div class="text-extra-small text-uppercase text-medium-gray">Yonas Marian</div>
+                                </div>
+                            </figcaption>
+                        </figure>
+                    </div>
                     <!-- end team item -->
                     <!-- start team item -->
 

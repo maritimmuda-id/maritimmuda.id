@@ -24,7 +24,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 |
 */
 
-// PRODUCTION BASE URL (USE WHEN THE CODE WAS PUSHED INTO THE CLOUD)
+//FOR ONLINE PURPOSES
 $base_url = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
 $base_url .= "://" . @$_SERVER['HTTP_HOST'];
 $base_url .=     str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
@@ -32,7 +32,7 @@ $config['base_url'] = $base_url;
 $base_url = (isset($_SERVER['server_site']) ? $_SERVER['server_site'] : "http://localhost/maritimmuda-home");
 $config['base_url'] = $base_url;
 
-// LOCAL DEVELOPMENT BASE URL (USE WHEN THE CODE WAS DEVELOPED IN YOUR LOCAL MACHINE)
+// FOR LOCAL DEVELOPMENT ONLY
 // $config['base_url'] = 'http://localhost/maritimmuda.id';
 
 //MISC CONFIGURATIONS

@@ -244,6 +244,7 @@
             <div><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo EcoNusa.png" alt=""></div>
             <div><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/maritimepreneur.png" alt=""></div>
             <div><a href="https://ikansegar.co.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/segar.png" alt=""></a></div>
+            <div><a href="https://ciltinternational.org/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/cilt-logo.png" alt=""></a></div>
             <div><a href="https://www.docking.id/id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/docking-new.png" alt=""></a></div>
             <div><a href="https://www.oceanogen.co.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/oceanogen.png" alt=""></a></div>
             <div><a href="https://stei.ac.id/beranda"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/Logo STEI.png" alt=""></a></div>
