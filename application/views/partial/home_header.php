@@ -67,6 +67,9 @@
                                             <li>
                                                 <a href="<?php echo site_url('home/program_unggulan') ?>">Program Unggulan</a>
                                             </li>
+                                            <li>
+                                                <a href="<?php echo site_url('home/mercusuar') ?>">Program Kerjasama</a>
+                                            </li>
                                         </ul>
                                         <!-- end sub menu -->
                                     </li>
@@ -78,7 +81,7 @@
                                                 <a href="<?php echo site_url('home/kantor_pusat') ?>">Kantor Pusat</a>
                                             </li>
                                             <li>
-                                                <a href="<?php echo site_url('home/mercusuar') ?>">Layanan Virtual Office</a>
+                                                <a href="https://ibec.stei.ac.id/virtual-office/" target="_blank">Layanan Virtual Office</a>
                                             </li>
                                             <li>
                                                 <a href="<?php echo site_url('home/prestasi_hub') ?>">Prestasi Hub Maritim Muda</a>
