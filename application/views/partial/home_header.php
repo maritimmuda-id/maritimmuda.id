@@ -68,7 +68,7 @@
                                                 <a href="<?php echo site_url('home/program_unggulan') ?>">Program Unggulan</a>
                                             </li>
                                             <li>
-                                                <a href="<?php echo site_url('home/mercusuar') ?>">Program Kerjasama</a>
+                                                <a href="<?php echo site_url('home/program_kerja_sama') ?>">Program Kerja Sama</a>
                                             </li>
                                         </ul>
                                         <!-- end sub menu -->

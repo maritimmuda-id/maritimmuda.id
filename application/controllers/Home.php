@@ -126,6 +126,22 @@ class Home extends CI_Controller
 		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
 		$this->load->view('template_white', $data);
 	}
+	public function program_kerja_sama()
+	{
+		$data = $this->data;
+		$data['title'] .= " Program Kerja Sama";
+		$data['konten'] = $this->load->view('page/home_program_kerja_sama', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
+	public function ctbe()
+	{
+		$data = $this->data;
+		$data['title'] .= " Certificate The Blue Economist";
+		$data['konten'] = $this->load->view('page/home_ctbe', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}	
 	public function kantor_pusat()
 	{
 		$data = $this->data;
