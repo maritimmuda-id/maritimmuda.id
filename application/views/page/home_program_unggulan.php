@@ -161,17 +161,17 @@
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
-                                <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-        <!--  <h6 class="alt-font text-extra-dark-gray">Temu Nasional Maritim Muda Nusantara 2019</h6>
+                                <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span>
+                                <h6 class="alt-font text-extra-dark-gray">Temu Nasional Maritim Muda Nusantara 2019</h6>
                                 <p>Program ini merupakan sebuah pertemuan pengurus pusat dan para pimpinan organisasi daerah Maritim Muda Nusantara seluruh Indonesia (34 provinsi) yang terdiri atas Seminar Nasional, Rapat Kerja Nasional, Pelatihan Pemuda Maritim, Edukasi Kemaritiman, dan Aksi Bersih Pesisir dengan tema “Sukseskan Indonesia Poros Maritim Dunia”. Temu Nasional akan menghasilkan Naskah Rekomendasi Pemuda untuk mengembangkan peran Indonesia dalam Indo-Pacific Cooperation dan Archipelagic and Island States (AIS) Forum serta Rencana Aksi Nasional Kebijakan Kelautan Indonesia 2020 - 2045.</p>
-                                <!-- <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a>
+                                <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="divider-full bg-extra-light-gray margin-seven-bottom margin-eight-top"></div>
             </div>
-        </section> --> --> -->
+        </section> -->
         <!-- end story section -->
         <!-- start story section -->
         <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
