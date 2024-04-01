@@ -263,16 +263,16 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Ronal2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Gde_Oka_Widiyavedanta.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Muhamad Ronald David, SE Simple, memiliki pengalaman dalam berorganisasi sebagai anggota maupun pempimpin. Terkadang humoris dengan menyesuaikan keadaan.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Gde Oka Widiyavedanta</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="http://facebook.com/bondan.bhaskara" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/bondanbhaskara" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/ronaldaviddd/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <!-- <a href="https://www.instagram.com/ronaldaviddd/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -280,7 +280,7 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhammad Ronald David</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Gde Oka Widiyavedanta</div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Direktur Bisnis</div>
                         </div>
                     </figcaption>
@@ -297,18 +297,17 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Aditiya2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Siti_Nurhalima.jpeg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Aditiya Budi Pratama S.Kom
-                                        merupakan lulusan S1 Teknologi Informasi, sering aktif dalam kegiatan organisasi di kampus salah satunya Bem FT, HIMIFDA, Teksada, UKM Karate. Selain itu juga pernah menjabat sebagai ketua pelaksana UNSADA CUP V 2018 dan Ketua Pelaksana Liga Teknik 2019. Motto hidup saya "Komitmen, Jujur, Bertanggung jawab" Ini merupakan sebuah kalimat yang saya tanamkan dalam diri saya, agar saya punya pondasi dalam mengerjakan segala sesuatu yang akan saya jalankan.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Siti Nurhalima</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="http://facebook.com/bondan.bhaskara" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/bondanbhaskara" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="http://instagram.com/aditiyaa.bp" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/aditiya-budi-pratama/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <!-- <a href="http://instagram.com/aditiyaa.bp" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <!-- <a href="https://www.linkedin.com/in/aditiya-budi-pratama/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -316,7 +315,7 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Aditiya Budi Pratama </div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Siti Nurhalima</div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Direktur Teknologi dan Informasi</div>
                         </div>
                     </figcaption>
@@ -416,6 +415,37 @@
                 </figure>
             </div>
             <!-- end team item -->
+            <!-- start team item -->
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+                <figure>
+                    <div class="team-image xs-width-100">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Dewa.png" alt="">
+                        <div class="overlay-content text-center">
+                            <div class="display-table height-100 width-100">
+                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Dewa Putra Pratama
+                                    </span>
+                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                    <!-- <a href="https://web.facebook.com/last.caesar93" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                    <!-- <a href="https://www.instagram.com/askar_lumagi12/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/lumagi-askar-363985291" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a> -->
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                    </div>
+                    <figcaption>
+                        <div class="team-member-position margin-20px-top text-center">
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Dewa Putra Pratama</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Sumber Daya Manusia dan Aset Maritim</div>
+                        </div>
+                    </figcaption>
+                </figure>
+            </div>
+            <!-- end team item -->
 
 
             <!-- </div> -->
@@ -449,8 +479,12 @@
                 </figure>
             </div>
             <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
+          
+
+        </div>
+        <div class="container margin-50px-top">
+              <!-- start team item -->
+              <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Mario_Berkardo_Dayman2.png" alt="">
@@ -478,9 +512,6 @@
                 </figure>
             </div>
             <!-- end team item -->
-
-        </div>
-        <div class="container margin-50px-top">
 
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
@@ -547,8 +578,12 @@
             <!-- <div class="container margin-50px-top"> -->
 
 
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottomsm-margin-xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+           
+
+        </div>
+        <div class="container margin-50px-top">
+             <!-- start team item -->
+             <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottomsm-margin-xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/paty-abbas.png" alt="">
@@ -576,9 +611,6 @@
                 </figure>
             </div>
             <!-- end team item -->
-
-        </div>
-        <div class="container margin-50px-top">
 
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
@@ -639,6 +671,10 @@
                 </figure>
             </div>
             <!-- end team item -->
+            
+
+        </div>
+        <div class="container margin-50px-top">
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                 <figure>
@@ -668,9 +704,6 @@
                 </figure>
             </div>
             <!-- end team item -->
-
-        </div>
-        <div class="container margin-50px-top">
 
             <!-- start team item -->
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
@@ -733,8 +766,10 @@
                 </figure>
             </div>
             <!-- end team item -->
-            <!-- start team item -->
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
+          
+        </div>
+  <!-- start team item -->
+  <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/Muhammad_Tahir3.png" alt="">
@@ -762,8 +797,6 @@
                 </figure>
             </div>
             <!-- end team item -->
-        </div>
-
 
 
 
