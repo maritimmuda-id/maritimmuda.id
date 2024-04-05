@@ -46,3 +46,29 @@
             </div>
         </section>
         <!-- end story section -->
+        <!-- start story section -->
+        <section class="wow fadeIn animated animated" style="padding-bottom: 0; padding-top: 0">
+            <div class="container">
+                <div class="row equalize sm-equalize-auto">
+                    <div class="col-md-5 col-sm-12 col-xs-12 text-center sm-margin-30px-bottom wow fadeInLeft">
+                        <div class="display-table width-100 height-100">
+                            <div class="display-table-cell vertical-align-middle width-100 height-100">
+                                <img src="<?php echo site_url('assets') ?>/images/kerjasama/magang-bersertifikat.png" alt="" class="border-radius-6 width-100">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
+                        <div class="display-table width-100 height-100">
+                            <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
+                                <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
+                                <h6 class="alt-font text-extra-dark-gray">Maritim Muda Magang Bersertifikat</h6>
+                                <p>Maritim Muda Magang Bersertifikat adalah sebuah program magang tingkat nasional yang bermitra dengan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi dalam program Magang dan Studi Independen Bersertifikat (MSIB) serta program Magang Mandiri Kampus Merdeka dengan tujuan untuk mempersiapkan mahasiswa sebagai pemimpin muda yang berwawasan maritim dan memiliki rasa cinta tanah air secara profesional dan berkelanjutan dalam mewujudkan Indonesia sebagai Poros Maritim Dunia pada tahun 2045. Dalam upaya mencapai tujuan tersebut, kami memberikan kesempatan secara langsung kepada mahasiswa untuk belajar dan terlibat aktif pada kegiatan-kegiatan seperti Manajemen Website, Manajemen Prestasi Hub Maritim Muda, Manajemen Komunikasi, Manajemen Administrasidan Keuangan, Manajemen Dapur, Manajemen Event dan Projek, serta Sertifikasi Blue Economy Company Index (BECdex).</p>
+                                <a href="https://kampusmerdeka.kemdikbud.go.id/program/magang" target="_blank" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-pencil-alt icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Daftar Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="divider-full bg-extra-light-gray margin-seven-bottom margin-eight-top"></div>
+            </div>
+        </section>
+        <!-- end story section -->
