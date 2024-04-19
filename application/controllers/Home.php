@@ -193,4 +193,34 @@ class Home extends CI_Controller
 	public function test()
 	{
 	}
+	public function arungisamudra()
+	{
+		$data = $this->data;
+		$data['title'] .= " Arungi Samudra";
+		$data['konten'] = $this->load->view('arungisamudra/home_beranda', $data, TRUE);
+		$data['header'] = $this->load->view('arungisamudra/home_header', $data, TRUE);
+		$data['footer'] = $this->load->view('arungisamudra/home_footer', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
+	public function arungisamudra_bootcamp()
+	{
+		$data = $this->data;
+		$data['title'] .= " Maritime Youth Bootcamp";
+		$data['konten'] = $this->load->view('arungisamudra/home_bootcamp', $data, TRUE);
+		$data['header'] = $this->load->view('arungisamudra/home_header', $data, TRUE);
+		$data['footer'] = $this->load->view('arungisamudra/home_footer', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
+	public function arungisamudra_edutrip()
+	{
+		$data = $this->data;
+		$data['title'] .= " Maritime Youth Edutrip";
+		$data['konten'] = $this->load->view('arungisamudra/home_edutrip', $data, TRUE);
+		$data['header'] = $this->load->view('arungisamudra/home_header', $data, TRUE);
+		$data['footer'] = $this->load->view('arungisamudra/home_footer', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}	
 }
