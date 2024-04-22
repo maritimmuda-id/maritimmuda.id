@@ -6,9 +6,9 @@
         <!-- description -->
         <meta name="description" content="Program Arungi Samudra 2024 yang diselenggarakan oleh Maritim Muda Nusantara bekerja sama dengan The Blue Economist (Asosiasi Ekonomi Biru Internasional) dan Indonesia Blue Economy Center (IBEC) STIE Indonesia Jakarta.">
         <!-- keywords -->
-        <meta name="keywords" content="maritim, muda, indonesia, sumber daya, kepulauan, geopolitik, geoekonomi, poros, maritim, arungi, samudra, arungi samudra, the blue economist, stie">
+        <meta name="keywords" content="maritim, muda, indonesia, sumber daya, kepulauan, geopolitik, geoekonomi, poros, maritim, arungi, samudra, arungi samudra, arungisamudra, the blue economist, stie">
         <!-- favicon -->
-        <link rel="shortcut icon" href="<?php echo site_url('assets/') ?>images/favicon.png">
+        <link rel="shortcut icon" href="<?php echo site_url('assets/') ?>images/arungisamudra/favicon.png">
         <link rel="apple-touch-icon" href="<?php echo site_url('assets/') ?>images/apple-touch-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="72x72" href="<?php echo site_url('assets/') ?>images/apple-touch-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="114x114" href="<?php echo site_url('assets/') ?>images/apple-touch-icon-114x114.png">
