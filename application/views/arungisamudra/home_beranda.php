@@ -27,7 +27,7 @@
         </section>
         <!-- end section -->
         <!-- start section -->
-        <div style="background-color: #0071e7;">
+        <div style="background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-ori.png');">
             <section class="wow fadeIn parallax" data-stellar-background-ratio="0.6" style=" padding-bottom: 0; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-2.png');">
                 <div class="container margin-one-bottom">
                     <div class="row">
@@ -39,7 +39,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 margin-eight-bottom xs-margin-10px-bottom">
                                     <div class="card" style=" border-radius: 0px 0px 20px 20px; background-color: #f7f0d3;">
                                         <div style="background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                            <h3 style="color: white; margin: 0; padding: 30px 0 30px 0;"><b>1</b></h3>
+                                            <h3 class="harond" style="color: white; margin: 0; padding: 30px 0 30px 0;">1</h3>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Menyiapkan para pemuda yang professional, beretika, berdedikasi, dan mampu mengedepankan kepentingan nasional untuk keberlanjutan laut dan pengembangan ekonomi biru di Indonesia.</p>
                                     </div>
@@ -47,7 +47,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 margin-eight-bottom xs-margin-10px-bottom">
                                     <div class="card" style=" border-radius: 0px 0px 20px 20px; background-color: #f7f0d3;">
                                         <div style="background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
-                                            <h3 style="color: white;  margin: 0; padding: 30px 0 30px 0;"><b>2</b></h3>
+                                            <h3 class="harond" style="color: white;  margin: 0; padding: 30px 0 30px 0;">2</h3>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Mewadahi minat dan bakat pemuda Indonesia untuk menjaring hal positif dan inovatif dalam bidang kemaritiman.</p>
                                     </div>
@@ -55,7 +55,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 margin-eight-bottom xs-margin-10px-bottom">
                                     <div class="card" style=" border-radius: 0px 0px 20px 20px; background-color: #f7f0d3;">
                                         <div style="background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h3 style="color: white;  margin: 0; padding: 30px 0 30px 0;"><b>3</b></h3>
+                                            <h3 class="harond" style="color: white;  margin: 0; padding: 30px 0 30px 0;">3</h3>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Meningkatkan peran Indonesia dalam pengembangan sektor-sektor ekonomi biru baik Tingkat nasional maupun internasional seperti pariwisata bahari dan ekonomi kreatif kemaritiman, energi laut, transportasi maritim, dan perikanan.</p>
                                     </div>
@@ -72,7 +72,7 @@
             <div style="background-color: #fad002; color: #039479;">
                 <div class="row">
                     <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 text-center center-col last-paragraph-no-margin">
-                        <h6 style="margin: 20px;">Peserta dapat memilih salah satu atau semua kegiatan <b>Program Arungi Samudra 2024</b> yang terdiri atas:</h6>
+                        <h6 style="margin: 20px;">Peserta dapat memilih salah satu atau semua kegiatan <span class="harond">Program Arungi Samudra 2024</span> yang terdiri atas:</h6>
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@
                             <div class="display-table width-100 height-100">
                                 <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                     <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                                    <h6 class="alt-font text-extra-dark-gray"><a href="<?php echo site_url('arungisamudra/bootcamp') ?>">Maritime Youth Bootcamp</a></h6>
+                                    <h6 class="alt-font text-extra-dark-gray harond"><a href="<?php echo site_url('arungisamudra/bootcamp') ?>">Maritime Youth Bootcamp</a></h6>
                                     <p>Maritime Youth Bootcamp merupakan kegiatan pelatihan kepemudaan bidang kemaritiman tingkat nasional secara virtual yang diselenggarakan untuk meningkatkan wawasan pemuda tentang keberlanjutan laut dan pengembangan ekonomi biru dengan tema <i>“Indonesian Youth Collaboration for Ocean Sustainability and Blue Economy Development”</i> selama 2 hari. </p>
                                     <p>Pelatihan kepemudaan bidang maritim ini akan menghadirkan para narasumber yang ahli dan berpengalaman di bidang kelautan dan ekonomi biru yang berasal dari berbagai pemangku kepentingan terkait. </p>
                                     <p>Terdapat Paket Beasiswa bagi 20 Peserta terbaik Maritime Youth Bootcamp untuk mengikuti Maritime Youth Edutrip.</p>
@@ -117,7 +117,7 @@
                             <div class="display-table width-100 height-100">
                                 <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                     <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                                    <h6 class="alt-font text-extra-dark-gray"><a href="<?php echo site_url('arungisamudra/edutrip') ?>">Maritime Youth Edutrip</a></h6>
+                                    <h6 class="alt-font text-extra-dark-gray harond"><a href="<?php echo site_url('arungisamudra/edutrip') ?>">Maritime Youth Edutrip</a></h6>
                                     <p>Maritime Youth Edutrip merupakan kegiatan pelayaran dan praktik lapangan kemaritiman dari Jakarta Utara ke Pulau Pari, Kepulauan Seribu. Selama 3 hari 2 malam di Pulau Pari, peserta akan mendapatkan pengalaman kegiatan konservasi kelautan, kunjungan ke usaha bisnis ekonomi biru, edukasi kemaritiman, wisata olahraga air (snorkeling atau diving), <i>focus group discussion</i> (FGD) bersama masyarakat dan aksi bersih pantai. </p>
                                     <a href="<?php echo site_url('arungisamudra/edutrip') ?>" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"></i> Selengkapnya..</a>
                                 </div>
@@ -152,7 +152,7 @@
                             <div class="display-table width-100 height-100">
                                 <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                     <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                                    <h6 class="alt-font text-extra-dark-gray"><a href="http://theblueeconomist.org/ibees-2024">International Blue Economy Expo and Summit (IBEES)</a></h6>
+                                    <h6 class="alt-font text-extra-dark-gray harond"><a href="http://theblueeconomist.org/ibees-2024">International Blue Economy Expo and Summit (IBEES)</a></h6>
                                     <p>International Blue Economy Expo and Summit (IBEES) dengan tema <i>“Discovering Ocean Potential Through Innovation and Technology of Blue Economy”</i> merupakan kegiatan pameran dan konferensi internasional yang akan menghadirkan perusahaan-perusahaan, lembaga, dan kementerian serta lebih dari 1800 orang profesional dan akademisi di bidang ekonomi biru yang berasal lebih dari 30 Negara seluruh dunia. </p>
                                     <a href="http://theblueeconomist.org/ibees-2024" target="_blank" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"></i> Selengkapnya..</a>
                                 </div>

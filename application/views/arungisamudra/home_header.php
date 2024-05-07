@@ -32,13 +32,13 @@
                                         <!-- start sub menu -->
                                         <ul class="dropdown-menu" role="menu">
                                             <li>
-                                                <a href="<?php echo site_url('arungisamudra/bootcamp/daftar') ?>">Bootcamp</a>
+                                                <a href="<?php echo site_url('arungisamudra/daftar_bootcamp') ?>">Bootcamp</a>
                                             </li>
                                             <li>
-                                                <a href="<?php echo site_url('arungisamudra/edutrip/daftar') ?>">Edutrip</a>
+                                                <a href="<?php echo site_url('arungisamudra/daftar_edutrip') ?>">Edutrip</a>
                                             </li>
                                             <li>
-                                                <a href="http://theblueeconomist.org/ibees-2024>">IBEES</a>
+                                                <a href="http://theblueeconomist.org/ibees-2024" target="__blank">IBEES</a>
                                             </li>
                                         </ul>
                                         <!-- end sub menu -->

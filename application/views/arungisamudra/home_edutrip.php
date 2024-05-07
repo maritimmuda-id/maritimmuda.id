@@ -23,11 +23,11 @@
                         <p><b>Maritime Youth Edutrip</b> merupakan kegiatan pelayaran dan praktik lapangan kemaritiman dari Jakarta Utara ke Pulau Pari, Kepulauan Seribu. Selama 3 hari 2 malam di Pulau Pari, peserta akan mendapatkan pengalaman kegiatan konservasi kelautan, kunjungan ke usaha bisnis ekonomi biru, edukasi kemaritiman, wisata olahraga air (snorkeling atau diving), <i>focus group discussion</i> (FGD) bersama masyarakat dan aksi bersih pantai.<p>
                         <br>
                         <div style="padding:20px; background-color: #f84535; color: white; border-radius: 20px 0 20px 0;">
-                            <h6><b>Pendaftaran Peserta</b></h6>
+                            <h4 class="harond-1">Pendaftaran Peserta</h4>
                             <ol class="text-left">
                                 <li>Biaya Pendaftaran: <del>Rp 950.000</del> &#8594; Rp 650.000 (Disubsidi Rp 300.000 oleh <a href="https://ibec.stei.ac.id/" target="__blank" class="text-white edutrip-link">Indonesia Blue Economy Center</a>)</li>
                                 <li>Tanpa Proses Seleksi</li>
-                                <li>Pendaftaran peserta pada tanggal 4 April 2024 - 5 Mei 2024 pada link: <a href="<?php echo site_url('arungisamudra/edutrip/daftar') ?>" class="text-white edutrip-link"><u>Klik Di Sini</u></a></li>
+                                <li>Pendaftaran peserta pada tanggal 4 April 2024 - 5 Mei 2024 pada link: <a href="<?php echo site_url('arungisamudra/daftar_edutrip') ?>" class="text-white edutrip-link"><u>Klik Di Sini</u></a></li>
                             </ol>
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                 <div class="container margin-one-bottom">
                     <div class="row">
                         <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 text-center center-col margin-eight-bottom xs-margin-30px-bottom last-paragraph-no-margin">
-                            <h4 class="text-center" style="color: #039479;"><b>Waktu dan Tempat</b></h4>
+                            <h4 class="text-center harond-1" style="color: #039479;">Waktu dan Tempat</h4>
                             <br>
                             <br>
                             <div class="card" style="background-color: white; border: 5px solid #039479; border-color: #039479;">
@@ -56,19 +56,19 @@
         </div>
         <!-- end section -->
         <!-- start section -->
-        <div style="background-color: #0071e7;">
+        <div style="background-color: #0071e7; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-ori.png');">
             <section style="padding-bottom: 0;">
                 <div class="container margin-one-bottom">
                     <div class="row">
                         <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 text-center center-col margin-eight-bottom xs-margin-30px-bottom last-paragraph-no-margin">
-                            <h4 class="text-center" style="color: white;"><b>Bentuk Kegiatan</b></h4>
+                            <h4 class="text-center harond-1" style="color: white;">Bentuk Kegiatan</h4>
                             <br>
                             <br>
                             <!-- Row 1 -->
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                                 <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>1</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">1</spa></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -81,7 +81,7 @@
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                                 <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>2</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">2</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -94,7 +94,7 @@
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>3</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">3</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -107,7 +107,7 @@
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                                 <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>4</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">4</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -120,7 +120,7 @@
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>5</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">5</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -133,7 +133,7 @@
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                                 <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>6</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">6</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -146,7 +146,7 @@
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>7</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">7</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -159,7 +159,7 @@
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>8</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">8</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -172,7 +172,7 @@
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><b>9</b></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">9</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -198,7 +198,7 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="card" style="border-radius: 20px; background-color: white; border: 5px solid #f84535; border-color: #f84535;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0;"><b>Jumlah dan Persyaratan Peserta</b></h6>
+                                            <h6 class=" harond-1" style="color: white; margin: 0; padding: 10px 0;">Jumlah dan Persyaratan Peserta</h6>
                                         </div>
                                         <p style=" padding: 20px;">1. Jumlah peserta yang akan mengikuti Maritime Youth Edutrip sebanyak 50-60 orang<br>
                                         2. WNI berusia 16 - 40 tahun<br>
@@ -218,7 +218,7 @@
                 <div class="container margin-one-bottom">
                     <div class="row">
                         <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 text-center center-col margin-eight-bottom xs-margin-30px-bottom last-paragraph-no-margin">
-                            <h4 class="text-center" style="color: #039479;"><b>Fasilitas Edutrip</b></h4>
+                            <h4 class="text-center harond-1" style="color: #039479;">Fasilitas Edutrip</h4>
                             <br>
                             <br>
                             <div class="row">
@@ -226,7 +226,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>1</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">1</span></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Tiket Kapal PP dari Pelabuhan Muara Angke ke Pulau Pari, Kepulauan Seribu</p>
                                     </div>
@@ -234,7 +234,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>2</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">2</span></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Asuransi perjalanan</p>
                                     </div>
@@ -245,7 +245,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>3</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">3</></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;"><i>Homestay</i> (AC)</p>
                                     </div>
@@ -253,7 +253,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>4</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">4</span></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;"><i>Island tour guide</i></p>
                                     </div>
@@ -264,7 +264,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>5</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">5</span></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Sepeda</p>
                                     </div>
@@ -272,7 +272,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>6</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">6</spa></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Tiket ke Pantai Perawan, Pantai Bintang, Pantai Rengge</p>
                                     </div>
@@ -283,7 +283,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>7</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">7</span></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Kapal dan alat snorkeling</p>
                                     </div>
@@ -291,7 +291,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>8</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">8</span></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Kamera bawah air</p>
                                     </div>
@@ -302,7 +302,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>9</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">9</span></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Konsumsi dan BBQ seafood</p>
                                     </div>
@@ -310,7 +310,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin-four-bottom xs-margin-10px-bottom">
                                     <div class="card" style="border-radius: 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><b>10</b></h6>
+                                            <h6 style="color: white; margin: 0; padding: 10px 0 10px 0;"><span class="harond-1">10</span></h6>
                                         </div>
                                         <p style="color: #030a95; padding: 20px;">Penanaman bibit mangrove</p>
                                     </div>
@@ -333,7 +333,7 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="card" style="border-radius: 20px; background-color: white; border: 5px solid #f84535; border-color: #f84535;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 style="color: white; margin: 0; padding: 10px 0;"><b>Narahubung</b></h6>
+                                            <h6 class="harond-1" style="color: white; margin: 0; padding: 10px 0;">Narahubung</h6>
                                         </div>
                                         <p style=" padding: 20px;"><i class="fa fa-phone" aria-hidden="true"></i> Athar (+62 813-1260-3455)</p>
                                     </div>

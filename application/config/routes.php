@@ -50,13 +50,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'home';
+
 $route['ctbe'] = 'home/ctbe';
 $route['beasiswa-ctbe'] = 'home/beasiswa_ctbe';
 $route['pendaftaran-beasiswa-ctbe'] = 'home/pendaftaran_beasiswa_ctbe';
-$route['arungisamudra'] = 'home/arungisamudra';
-$route['arungisamudra/bootcamp'] = 'home/arungisamudra_bootcamp';
-$route['arungisamudra/bootcamp/daftar'] = 'home/arungisamudra_bootcamp_daftar';
-$route['arungisamudra/edutrip'] = 'home/arungisamudra_edutrip';
-$route['arungisamudra/edutrip/daftar'] = 'home/arungisamudra_edutrip_daftar';
-$route['404_override'] = 'home/mercusuar';
+
+$route['arungisamudra'] = 'arungisamudra';
+$route['arungisamudra/bootcamp/daftar'] = 'arungisamudra/daftar_bootcamp';
+$route['arungisamudra/edutrip/daftar'] = 'arungisamudra/daftar_edutrip';
+
+$route['404_override'] = 'mercusuar';
+
 $route['translate_uri_dashes'] = FALSE;

@@ -34,6 +34,33 @@
 
 
         <style>
+            @font-face {
+                font-family: "harond";
+                src: url(assets/fonts/harond/Harond.woff) format('woff');
+            }
+
+            @font-face {
+                font-family: "harond-1";
+                src: url(../assets/fonts/harond/Harond.woff) format('woff');
+            }
+
+            @font-face {
+                font-family: "harond-2";
+                src: url(../../assets/fonts/harond/Harond.woff) format('woff');
+            }
+
+            .harond {
+                font-family: "harond";
+            }
+
+            .harond-1 {
+                font-family: "harond-1";
+            }
+
+            .harond-2 {
+                font-family: "harond-2";
+            }
+
             .img-mitra {
                 height: 15rem;
                 width: auto;
