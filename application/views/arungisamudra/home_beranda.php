@@ -164,3 +164,42 @@
             </section>
         </div>
         <!-- end story section -->
+        <!-- start clients logo section  -->
+        <section class="wow fadeIn animated color-code no-padding-tb xs-padding-50px-tb" data-color="5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 col-sm-10 col-xs-12 center-col text-center">
+                        <h6 class="alt-font text-extra-dark-gray harond">Organizer By</h6>
+                    </div>
+                </div>
+                <div class="col-md-9 col-sm-10 col-xs-12 center-col text-center">
+                    <img src="<?php echo site_url('assets/') ?>images/arungisamudra/organizer/organizer.png" alt="" style="height: 130px;">
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div class="container ">
+                <div class="row">
+                    <div class="col-md-9 col-sm-10 col-xs-12 center-col text-center">
+                        <h6 class="alt-font text-extra-dark-gray harond">Supported By</h6>
+                    </div>
+                </div>
+                <div class="mitra wow fadeInUp row multiple-items" style="padding: 8px;">
+                    <div><a href="https://www.dephub.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/Logo_of_the_Ministry_of_Transportation_of_the_Republic_of_Indonesia.svg" alt=""></a></div>
+                    <div><a href="https://kemenparekraf.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/LOGO_KEMENPAREKRAF_(BAPAREKRAF).png" alt=""></a></div>
+                    <div><a href="https://www.kemdikbud.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemendikbud.png" alt=""></a></div>
+                    <div><a href="https://kkp.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_kkp_baru.png" alt=""></a></div>
+                    <div><a href="https://jala.tech/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/Logo-Jala-Tech.png" alt="" style="height: 100px; margin-top: 25px;"></a></div>
+                    <div><a href="https://kampongteripang.com/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/logoKT-hitam.png" alt=""></a></div>
+                    <div><a href="https://mangrovejakarta.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/cropped-logo-clean.png" alt=""></a></div>
+                    <div><a href="https://kesemat.or.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/5.jpg" alt=""></a></div>
+                    
+                </div>
+            </div>
+        </section>
+        <br>
+        <br>
+        <br>
+        <!-- end client logo section -->

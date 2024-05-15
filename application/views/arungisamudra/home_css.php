@@ -69,7 +69,7 @@
             }
 
             .mitra {
-                background-color: rgb(255, 255, 255, 0.9);
+                background-color: rgb(250, 208, 2, 0.6);
                 border-radius: 11px;
 
                 /* width: 200px;
@@ -91,5 +91,10 @@
 
             .edutrip-link:hover {
                 color: #f7f0d3;
+            }
+            
+            button.slick-arrow {
+                color: #ffffff;
+                background-color: rgb(250, 208, 2, 0.6);
             }
         </style>
