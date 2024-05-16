@@ -191,9 +191,10 @@
                     <div><a href="https://kemenparekraf.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/LOGO_KEMENPAREKRAF_(BAPAREKRAF).png" alt=""></a></div>
                     <div><a href="https://www.kemdikbud.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/kemendikbud.png" alt=""></a></div>
                     <div><a href="https://kkp.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/mitra/logo_kkp_baru.png" alt=""></a></div>
+                    <div><a href="https://dishub.jakarta.go.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/LOGO-WEBSITE.png" alt="" style="height: 100px; margin-top: 25px;"></a></div>
                     <div><a href="https://jala.tech/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/Logo-Jala-Tech.png" alt="" style="height: 100px; margin-top: 25px;"></a></div>
                     <div><a href="https://kampongteripang.com/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/logoKT-hitam.png" alt=""></a></div>
-                    <div><a href="https://mangrovejakarta.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/cropped-logo-clean.png" alt=""></a></div>
+                    <div><a href="https://mangrovejakarta.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/cropped-logo-clean-new.png" alt=""></a></div>
                     <div><a href="https://kesemat.or.id/"><img class="col-md-9 col-sm-10 col-xs-12 center-col text-center img-mitra" src="<?php echo site_url('assets/') ?>images/arungisamudra/sponsor/5.jpg" alt=""></a></div>
                     
                 </div>
