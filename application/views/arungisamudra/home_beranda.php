@@ -167,15 +167,22 @@
         <!-- start clients logo section  -->
         <section class="wow fadeIn animated color-code no-padding-tb xs-padding-50px-tb" data-color="5">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-9 col-sm-10 col-xs-12 center-col text-center">
-                        <h6 class="alt-font text-extra-dark-gray harond">Organizer By</h6>
+                <div class="row text-center">
+                    <div class="col-md-4 col-sm-4 col-xs-12">
+                        <h6 class="alt-font text-extra-dark-gray harond">Organized By</h6>
+                        <img src="<?php echo site_url('assets/') ?>images/arungisamudra/organizer/organizer.png" alt="" >
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12">
+                        <h6 class="alt-font text-extra-dark-gray harond">Official Host</h6>
+                        <img src="<?php echo site_url('assets/') ?>images/arungisamudra/host/b6bdbd79.png" alt="" width="280px">
+                    </div>
+                    <div class="col-md-4 col-sm-4 col-xs-12">
+                        <h6 class="alt-font text-extra-dark-gray harond">In Association With</h6>
+                        <img src="<?php echo site_url('assets/') ?>images/arungisamudra/assosiasi/tbe-logo-1.png" alt="" >
                     </div>
                 </div>
-                <div class="col-md-9 col-sm-10 col-xs-12 center-col text-center">
-                    <img src="<?php echo site_url('assets/') ?>images/arungisamudra/organizer/organizer.png" alt="" style="height: 130px;">
-                </div>
             </div>
+
             <br>
             <br>
             <br>
