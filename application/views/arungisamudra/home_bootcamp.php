@@ -128,8 +128,21 @@
                             <!-- Row 2 -->
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                                 <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
-                                    <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
+                                    <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
                                         <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">2</span></h6>
+                                    </div>
+                                </div>
+                                <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
+                                    <div class="card" style="border-radius: 0 0 20px 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
+                                        <p class="text-left xs-text-center" style="color: #030a95; padding: 20px;">Keynote Speech "Pembangunan Pariwisata Bahari Berkelanjutan Berbasis Ekonomi Biru" oleh Menteri Pariwisata dan Ekonomi Kreatif/Kepala Badan Pariwisata dan Ekonomi Kreatif</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row 3 -->
+                            <div class="row margin-four-bottom xs-margin-10px-bottom">
+                                <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
+                                    <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">3</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -138,11 +151,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Row 3 -->
+                            <!-- Row 4 -->
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">3</span></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">4</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -151,11 +164,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Row 4 -->
+                            <!-- Row 5 -->
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                                 <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">4</span></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">5</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -164,11 +177,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Row 5 -->
+                            <!-- Row 6 -->
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">5</></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">6</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -177,11 +190,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Row 6 -->
+                            <!-- Row 7 -->
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                                 <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">6</span></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">7</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -190,11 +203,11 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Row 7 -->
+                            <!-- Row 8 -->
                             <div class="row margin-four-bottom xs-margin-10px-bottom">
                             <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
                                     <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: right;">
-                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">7</span></h6>
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">8</span></h6>
                                     </div>
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
@@ -242,7 +255,7 @@
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
                                             <h6 class="harond-1" style="color: white; margin: 0; padding: 10px 0;">Jumlah dan Persyaratan Peserta</h6>
                                         </div>
-                                        <p style=" padding: 20px;">1. Jumlah peserta yang akan mengikuti Bootcamp sebanyak 250 pemuda terbaik hasil seleksi<br>
+                                        <p style=" padding: 20px;">1. Jumlah peserta yang akan mengikuti Bootcamp sebanyak 500 pemuda terbaik<br>
                                         2. WNI berusia 16-30 tahun<br>
                                         3. Mengisi form pendaftaran: <a href="<?php echo site_url('arungisamudra/daftar_bootcamp') ?>" style="color: #0071e7;"><u>Klik Di Sini</u></a><br>
                                         4. Mengikuti seluruh rangkaian bootcamp</p>
@@ -254,11 +267,10 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                     <div class="card" style="border-radius: 20px; background-color: white; border: 5px solid #f84535; border-color: #f84535;">
                                         <div style="border-radius: 15px 15px 0 0; background-color: #039479; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png'); background-position: center;">
-                                            <h6 class="harond-1" style="color: white; margin: 0; padding: 10px 0;">Tanggal Penting Seleksi Peserta</h6>
+                                            <h6 class="harond-1" style="color: white; margin: 0; padding: 10px 0;">Tanggal Penting</h6>
                                         </div>
-                                        <p style=" padding: 20px;">- Pendaftaran Bootcamp: 1 - 14 Mei 2024<br>
-                                        - Seleksi Berkas: 10 - 16 Mei 2024<br>
-                                        - Pengumuman Peserta Bootcamp: 17 Mei 2024</p>
+                                        <p style=" padding: 20px;">- Pendaftaran Bootcamp: 1 - 20 Mei 2024<br>
+                                        - Pengumuman Peserta Bootcamp: 20 Mei 2024</p>
                                     </div>
                                 </div>
                             </div>
