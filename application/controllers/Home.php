@@ -158,6 +158,22 @@ class Home extends CI_Controller
 		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
 		$this->load->view('template_white', $data);
 	}	
+	public function beasiswa_ctbe_2()
+	{
+		$data = $this->data;
+		$data['title'] .= " Beasiswa Pelatihan CTBE";
+		$data['konten'] = $this->load->view('page/home_beasiswa_ctbe_2', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}	
+	public function pendaftaran_beasiswa_ctbe_2()
+	{
+		$data = $this->data;
+		$data['title'] .= " Pendaftaran Beasiswa Pelatihan CTBE";
+		$data['konten'] = $this->load->view('page/home_pendaftaran_beasiswa_ctbe_2', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}	
 	public function kantor_pusat()
 	{
 		$data = $this->data;

@@ -52,8 +52,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'home';
 
 $route['ctbe'] = 'home/ctbe';
+
+// beasiswa-ctbe-1
 $route['beasiswa-ctbe'] = 'home/beasiswa_ctbe';
 $route['pendaftaran-beasiswa-ctbe'] = 'home/pendaftaran_beasiswa_ctbe';
+
+// beasiswa-ctbe-2
+$route['beasiswa-ctbe-2'] = 'home/beasiswa_ctbe_2';
+$route['pendaftaran-beasiswa-ctbe-2'] = 'home/pendaftaran_beasiswa_ctbe_2';
 
 $route['arungisamudra'] = 'arungisamudra';
 $route['arungisamudra/bootcamp/daftar'] = 'arungisamudra/daftar_bootcamp';
