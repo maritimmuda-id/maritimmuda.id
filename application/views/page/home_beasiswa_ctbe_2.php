@@ -71,26 +71,19 @@
                             <li>Pengumuman penerimaan beasiswa: 3 Juni 2024.</li>
                             <li>Online trining corse: 7, 8, dan 14 Juni  2024.</li>
                             <li>Pengumuman Penerima Beasiswa: 11 April 2024.</li>
-                            <li>Sertifikasi Internasional CTBE: <br>a. Examination : 15 Juni 2024. <br>b.Assignment : 17 - 23 Juni 2024.</li>
+                            <li>Sertifikasi Internasional CTBE: <br>a. Examination : 15 Juni 2024. <br>b. Assignment : 17 - 23 Juni 2024.</li>
                             <li>Penerbitan Sertifikat Internasional CTBE: 25 Juni 2024.</li>
                         </ul>
                         </p>
                         <div class="separator-line-horrizontal-medium-light3 bg-deep-pink width-50px xs-center-col"></div>
                     </div>
                     <!-- end feature box item -->
-                    <!-- start feature box item -->
-                    <div class="col-md-6  col-sm-6 col-xs-12 sm-margin-40px-bottom wow fadeInRight">
-                        <p class="width-90 sm-width-100"><strong>Tanggal Penting Pelatihan:</strong>
-                        <ul>
-                            <li>Pendaftaran Pelatihan: 11-14 April 2024.</li>
-                            <li>Online Training Course: 20, 21, 27, dan 28 April 2024.</li>
-                            <li>Field Study: 31 Mei - 2 Juni 2024.</li>
-                        </ul>
-                        </p>
-                        <div class="separator-line-horrizontal-medium-light3 bg-deep-pink width-50px xs-center-col"></div>
-                    </div>
-                    <!-- end feature box item -->
                 </div>
+                <br>
+                <div class="text-center">
+                    <button class="btn btn-primary" style="border-radius: 10px;"><a class="text-white" href="<?php echo site_url('pendaftaran-beasiswa-ctbe-2') ?>" target="_blank">Daftar Sekarang</a></button>
+                </div>
+                
             </div>
         </section>
         <!-- end section -->
