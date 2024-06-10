@@ -6,7 +6,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12 extra-small-screen display-table page-title-large">
                 <div class="display-table-cell vertical-align-middle text-center">
                     <!-- start page title -->
-                    <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Beasiswa International The Blue Economist Certification Training Course</h1>
+                    <h1 class="text-white alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Beasiswa International Blue Economist Certification Training Course - Batch 3</h1>
                     <!-- end page title -->
                     <!-- start sub title -->
                     <span class="text-white opacity6 alt-font no-margin-bottom">Maritim Muda Nusantara</span>
@@ -37,7 +37,7 @@
         <div class="row">
             <!-- start feature box item -->
             <div class="col-md-6  col-sm-6 col-xs-12 sm-margin-40px-bottom wow fadeInRight">
-                <p class="width-90 sm-width-100"><strong>Manfaat dan fasilitas yang didapatkan:</strong>
+                <p class="width-90 sm-width-100"><strong>Manfaat dan fasilitas:</strong>
                 <ul>
                     <li>Bobot Training Course dan Maritime Field Study setara 3 SKS</li>
                     <li>Online International Training Course senilai Rp 3,5 Juta</li>

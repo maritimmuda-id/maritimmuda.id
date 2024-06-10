@@ -28,9 +28,14 @@
                                     <li>
                                         <a href="http://theblueeconomist.org/ibees-2024" target="_blank">IBEES</a>
                                     </li>
-                                    <li class="dropdown simple-dropdown"><a style="pointer-events: none;" href="#" title="Blog"><strong>Daftar</strong></a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
+                                    <li>
+                                        <a href="http://theblueeconomist.org/ibees-2024" target="_blank">INAMARYS</a>
+                                    </li>
+                                    <li class="dropdown simple-dropdown">
+                                        <a style="pointer-events: none;" href="#" title="Blog"><strong>Daftar</strong></a>
+                                        <i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- start sub menu -->
-                                        <ul class="dropdown-menu" role="menu">
+                                        <ul class="dropdown-menu horizontal-menu" role="menu">
                                             <li>
                                                 <a href="<?php echo site_url('arungisamudra/daftar_bootcamp') ?>">Bootcamp</a>
                                             </li>
@@ -40,8 +45,10 @@
                                             <li>
                                                 <a href="http://theblueeconomist.org/ibees-2024" target="__blank">IBEES</a>
                                             </li>
+                                            <li>
+                                                <a href="" target="_blank">INAMARYS</a>
+                                            </li>
                                         </ul>
-                                        <!-- end sub menu -->
                                     </li>
                                 </ul>
                             </div>
