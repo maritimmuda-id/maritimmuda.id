@@ -61,6 +61,10 @@ $route['pendaftaran-beasiswa-ctbe'] = 'home/pendaftaran_beasiswa_ctbe';
 $route['beasiswa-ctbe-2'] = 'home/beasiswa_ctbe_2';
 $route['pendaftaran-beasiswa-ctbe-2'] = 'home/pendaftaran_beasiswa_ctbe_2';
 
+// beasiswa-ctbe-3
+$route['beasiswa-ctbe-3'] = 'home/beasiswa_ctbe_3';
+$route['pendaftaran-beasiswa-ctbe-3'] = 'home/pendaftaran_beasiswa_ctbe_3';
+
 $route['arungisamudra'] = 'arungisamudra';
 $route['arungisamudra/bootcamp/daftar'] = 'arungisamudra/daftar_bootcamp';
 $route['arungisamudra/edutrip/daftar'] = 'arungisamudra/daftar_edutrip';

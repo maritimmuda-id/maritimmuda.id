@@ -39,9 +39,9 @@
                     <div class="col-md-6  col-sm-6 col-xs-12 sm-margin-40px-bottom wow fadeInRight">
                         <p class="width-90 sm-width-100"><strong>Fasilitas yang didapatkan:</strong>
                         <ul>
-                            <li>Pelatihan internasional senilai lebih dari Rp 3,5 Juta.</li>
-                            <li>International Training Course Certificate.</li>
-                            <li>Ujian Sertifikasi International Professional Degree Certified The Blue Economist (CTBE) senilai 200 USD.</li>
+                            <li>Pelatihan internasional online senilai Rp 3,5 Juta</li>
+                            <li>International Training Course Certificate</li>
+                            <li>Sertifikasi International bergelar <b>Certified The Blue Economist (CTBE)</b> senilai USD 200</li>
                         </ul>
                         </p>
                         <div class="separator-line-horrizontal-medium-light3 bg-deep-pink width-50px xs-center-col"></div>
@@ -51,9 +51,9 @@
                     <div class="col-md-6 col-sm-6 col-xs-12 sm-margin-40px-bottom wow fadeInRight" data-wow-delay="0.2s">
                         <p class="width-90 sm-width-100"><strong>Persyaratan pendaftaran beasiswa:</strong>
                         <ul>
-                            <li>WNI berusia 18-45 tahun.</li>
-                            <li>Memiliki Kartu Tanda Anggota (e-KTA) Maritim Muda Nusantara melalui website <a class=" text-primary" href="https://hub.maritimmuda.id/" target="_blank">hub.maritimmuda.id</a>.</li>
-                            <li>Mengisi form pendaftaran: <a class=" text-danger" href="<?php echo site_url('pendaftaran-beasiswa-ctbe-2') ?>" target="_blank">Klik Di sini</a>.</li>
+                            <li>WNI berusia 18-45 tahun</li>
+                            <li>Memiliki Kartu Tanda Anggota (e-KTA) Maritim Muda Nusantara melalui website <a class=" text-primary" href="https://hub.maritimmuda.id/" target="_blank">hub.maritimmuda.id</a> (gratis)</li>
+                            <li>Mengisi form pendaftaran: <a class=" text-danger" href="<?php echo site_url('pendaftaran-beasiswa-ctbe-2') ?>" target="_blank">Klik Di Sini</a></li>
                         </ul>
                         </p>
                         <div class="separator-line-horrizontal-medium-light3 bg-deep-pink width-50px xs-center-col"></div>
@@ -66,13 +66,13 @@
                     <div class="col-md-6 col-sm-6 col-xs-12 sm-margin-40px-bottom wow fadeInRight" data-wow-delay="0.4s">
                         <p class="width-90 sm-width-100"><strong>Tanggal Penting:</strong>
                         <ul>
-                            <li>Pendaftaran: 20 Mei - 31 Mei 2024.</li>
-                            <li>Verifikasi pendaftaran: 21 Mei - 1 Juni 2024.</li>
-                            <li>Pengumuman penerimaan beasiswa: 3 Juni 2024.</li>
-                            <li>Online trining corse: 7, 8, dan 14 Juni  2024.</li>
-                            <li>Pengumuman Penerima Beasiswa: 11 April 2024.</li>
-                            <li>Sertifikasi Internasional CTBE: <br>a. Examination : 15 Juni 2024. <br>b. Assignment : 17 - 23 Juni 2024.</li>
-                            <li>Penerbitan Sertifikat Internasional CTBE: 25 Juni 2024.</li>
+                            <li>Pendaftaran: 20 Mei - 31 Mei 2024</li>
+                            <li>Verifikasi pendaftaran: 21 Mei - 1 Juni 2024</li>
+                            <li>Pengumuman penerimaan beasiswa: 3 Juni 2024</li>
+                            <li>Online trining corse: 7, 8, dan 14 Juni  2024</li>
+                            <li>Pengumuman Penerima Beasiswa: 11 April 2024</li>
+                            <li>Sertifikasi Internasional CTBE: <br>a. Examination : 15 Juni 2024 <br>b. Case Study Paper Submission : 23 Juni 2024</li>
+                            <li>Penerbitan Sertifikat Internasional CTBE: 25 Juni 2024</li>
                         </ul>
                         </p>
                         <div class="separator-line-horrizontal-medium-light3 bg-deep-pink width-50px xs-center-col"></div>
