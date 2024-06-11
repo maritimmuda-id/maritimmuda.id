@@ -15,7 +15,7 @@
                                 <span class="icon-bar"></span>
                             </button>
                             <div class="navbar-collapse collapse no-padding-right" id="navbar-collapse-toggle-1">
-                                <ul class="nav navbar-nav navbar-right no-margin alt-font text-normal width-50 sm-width-100" data-in="fadeIn" data-out="fadeOut">
+                                <ul class="nav navbar-nav navbar-right no-margin alt-font text-normal width-51 sm-width-100" data-in="fadeIn" data-out="fadeOut">
                                     <li>
                                         <a href="<?php echo site_url('arungisamudra') ?>">Beranda</a>
                                     </li>
@@ -29,7 +29,7 @@
                                         <a href="http://theblueeconomist.org/ibees-2024" target="_blank">IBEES</a>
                                     </li>
                                     <li>
-                                        <a href="http://theblueeconomist.org/ibees-2024" target="_blank">INAMARYS</a>
+                                        <a href="#">INAMARYS</a>
                                     </li>
                                     <li class="dropdown simple-dropdown">
                                         <a style="pointer-events: none;" href="#" title="Blog"><strong>Daftar</strong></a>
@@ -46,7 +46,7 @@
                                                 <a href="http://theblueeconomist.org/ibees-2024" target="__blank">IBEES</a>
                                             </li>
                                             <li>
-                                                <a href="" target="_blank">INAMARYS</a>
+                                                <a href="#">INAMARYS</a>
                                             </li>
                                         </ul>
                                     </li>
