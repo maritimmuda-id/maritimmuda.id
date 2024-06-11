@@ -29,7 +29,7 @@
                                         <a href="http://theblueeconomist.org/ibees-2024" target="_blank">IBEES</a>
                                     </li>
                                     <li>
-                                        <a href="#">INAMARYS</a>
+                                        <a href="<?php echo site_url('arungisamudra/inamarys') ?>">INAMARYS</a>
                                     </li>
                                     <li class="dropdown simple-dropdown">
                                         <a style="pointer-events: none;" href="#" title="Blog"><strong>Daftar</strong></a>
@@ -46,7 +46,7 @@
                                                 <a href="http://theblueeconomist.org/ibees-2024" target="__blank">IBEES</a>
                                             </li>
                                             <li>
-                                                <a href="#">INAMARYS</a>
+                                                <a href="<?php echo site_url('arungisamudra/pendaftaran-inamarys-2024') ?>">INAMARYS</a>
                                             </li>
                                         </ul>
                                     </li>

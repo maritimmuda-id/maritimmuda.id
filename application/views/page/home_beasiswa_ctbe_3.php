@@ -41,6 +41,7 @@
                 <ul>
                     <li>Bobot Training Course dan Maritime Field Study setara 3 SKS</li>
                     <li>Online International Training Course senilai Rp 3,5 Juta</li>
+                    <li>Sertifikasi internasional bergelar Certified Blue Economist (CBEc) senilai 200 USD</li>
                     <li>Maritime Field Study di Kepulauan Seribu, IKN Nusantara, Banyuwangi, Wakatobi, atau Singapura selama 3 Hari 2 Malam sudah termasuk:
                         <br>a. Transportasi Pulang Pergi:
                         <ul>
@@ -50,12 +51,11 @@
                             <li>Balikpapan - IKN Nusantara (Bus)</li>
                             <li>Kendari - Pulau Wangi-Wangi, Wakatobi (Kapal)</li>
                         </ul>
-                        b. Konsumsi 7 Kali
+                        b. Konsumsi 6 Kali
                         <br>c. Penginapan 3 Hari 2 Malam
                         <br>d. Transportasi Kendaraan Lokal
                     </li>
                     <li>Membership The Blue Economist senilai 70-100 USD selama 1 tahun pertama </li>
-                    <li>Sertifikasi internasional bergelar Certified Blue Economist (CBEc) senilai 200 USD</li>
                     <li>International Training Course Certificate</li>
                     <li>Gratis Pendaftaran Indonesian Maritime Youth Summit (Juni 2024)</li>
                 </ul>

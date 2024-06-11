@@ -173,19 +173,19 @@
                             <div class="display-table width-100 height-100">
                                 <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
                                     <!-- <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span> -->
-                                    <h6 class="alt-font text-extra-dark-gray harond"><a href="#">Indonesian Maritime Youth Summit (INAMARYS): Road to IBEE</a></h6>
+                                    <h6 class="alt-font text-extra-dark-gray harond"><a href="<?php echo site_url('arungisamudra/inamarys') ?>">Indonesian Maritime Youth Summit (INAMARYS): Road to IBEE</a></h6>
                                     <p>Indonesian Maritime Youth Summit (INAMARYS): Road to IBEES INAMARYS adalah sebuah pra-event dengan konsep talkshow yang akan diselenggarakan secara hybrid di Auditorium 
                                         STIE Jakarta dalam rangka menuju International Blue Economy Expo & Summit (IBEES). INAMRYS yang bertemakan “Youth and Digital Transformation for Indonesia Future Blue Economy” 
                                         ini akan diselenggarakan dalam dua sesi dengan mengundang narasumber yang profesional dan kredibel di bidangnya untuk membahas topik mengenai “Blue Economy & Marine 
                                         Conservation” dan “Blue Economy & Education”.</p>
-                                    <a href="#" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"></i> Selengkapnya..</a>
+                                    <a href="<?php echo site_url('arungisamudra/inamarys') ?>" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"></i> Selengkapnya..</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-5 hidden-xs text-center sm-margin-30px-bottom wow fadeInRight">
                             <div class="display-table width-100 height-100">
                                 <div class="display-table-cell vertical-align-middle width-100 height-100">
-                                    <!-- <img src="<?php echo site_url('assets') ?>/images/arungisamudra/logo/logo-arungisamudra-edutrip.png" alt="" class="border-radius-6 width-100"> -->
+                                    <img src="<?php echo site_url('assets') ?>/images/arungisamudra/logo/logo-arungisamudra-inamarys.png" alt="" class="width-100">
                                 </div>
                             </div>
                         </div>

@@ -66,4 +66,20 @@ class Arungisamudra extends CI_Controller
 		$data['head_script'] = $this->load->view('arungisamudra/home_head_script', $data, TRUE);
 		$this->load->view('template_white', $data);
 	}
+	public function inamarys()
+	{
+		$data = $this->data;
+		$data['title'] .= " Indonesian Maritime Youth Summit";
+		$data['konten'] = $this->load->view('arungisamudra/home_inamarys', $data, TRUE);
+		$data['head_script'] = $this->load->view('arungisamudra/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
+	public function pendaftaran_inamarys()
+	{
+		$data = $this->data;
+		$data['title'] .= " Pendaftaran Indonesian Maritime Youth Summit";
+		$data['konten'] = $this->load->view('arungisamudra/home_mercusuar', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}	
 }
