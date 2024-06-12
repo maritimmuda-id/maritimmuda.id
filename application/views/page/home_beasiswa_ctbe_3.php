@@ -177,6 +177,46 @@
         </div>
         <!-- end table -->
         <br>
+        <br>
+        <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 text-center center-col margin-two-bottom xs-margin-30px-bottom last-paragraph-no-margin">
+            <p><strong>Paket Non Beasiswa:</strong></p>
+        </div>
+        <!-- start table -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="table-responsive">
+                    <table class="table table-bordered text-center">
+                        <thead style="text-align: center;">
+                            <tr>
+                                <th class="text-center" rowspan="2" style="vertical-align: middle !important;">Paket</th>
+                                <th class="text-center" colspan="6">Biaya Pendaftaran Pelatihan (Sesuai Lokasi Field Study)</th>
+                            </tr>
+                            <tr>
+                                <th class="text-center">Kep. Seribu<br>(Juli)</th>
+                                <th class="text-center" style="vertical-align: middle !important;">Singapore</th>
+                                <th class="text-center" style="vertical-align: middle !important;">Banyuwangi</th>
+                                <th class="text-center" style="vertical-align: middle !important;">IKN Nusantara</th>
+                                <th class="text-center" style="vertical-align: middle !important;">Wakatobi</th>
+                                <th class="text-center">Kep. Seribu<br>(September)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Reguler</td>
+                                <td>Rp 8,2 Juta</td>
+                                <td>Rp 12,2 Juta</td>
+                                <td>Rp 9,2 Juta</td>
+                                <td>Rp 9,2 Juta</td>
+                                <td>Rp 9,2 Juta</td>
+                                <td>Rp 8,2 Juta</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <!-- end table -->
+        <br>
 
         <div class="text-center">
             <button class="btn btn-primary" style="border-radius: 10px;"><a class="text-white" href="<?php echo site_url('pendaftaran-beasiswa-ctbe-3') ?>" target="_blank">Daftar Sekarang</a></button>
