@@ -78,7 +78,7 @@ class Arungisamudra extends CI_Controller
 	{
 		$data = $this->data;
 		$data['title'] .= " Pendaftaran Indonesian Maritime Youth Summit";
-		$data['konten'] = $this->load->view('arungisamudra/home_mercusuar', $data, TRUE);
+		$data['konten'] = $this->load->view('arungisamudra/home_inamarys_daftar', $data, TRUE);
 		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
 		$this->load->view('template_white', $data);
 	}	
