@@ -37,11 +37,11 @@
         <div class="row">
             <!-- start feature box item -->
             <div class="col-md-6  col-sm-6 col-xs-12 sm-margin-40px-bottom wow fadeInRight">
-                <p class="width-90 sm-width-100"><strong>Manfaat dan fasilitas:</strong>
+                <p class="width-90 sm-width-100"><strong>Manfaat dan fasilitas beasiswa:</strong>
                 <ul>
                     <li>Bobot Training Course dan Maritime Field Study setara 3 SKS</li>
                     <li>Online International Training Course senilai Rp 3,5 Juta</li>
-                    <li>Sertifikasi internasional bergelar Certified Blue Economist (CBEc) senilai 200 USD</li>
+                    <li>Sertifikasi internasional bergelar Certified Blue Economist (CBEc) oleh The Blue Economist International Association senilai 200 USD</li>
                     <li>Maritime Field Study di Kepulauan Seribu, IKN Nusantara, Banyuwangi, Wakatobi, atau Singapura selama 3 Hari 2 Malam sudah termasuk:
                         <br>a. Transportasi Pulang Pergi:
                         <ul>
@@ -219,7 +219,7 @@
         <br>
 
         <div class="text-center">
-            <button class="btn btn-primary" style="border-radius: 10px;"><a class="text-white" href="<?php echo site_url('pendaftaran-beasiswa-ctbe-3') ?>" target="_blank">Daftar Sekarang</a></button>
+            <button class="btn btn-primary" style="border-radius: 10px;"><a class="text-white" href="<?php echo site_url('pendaftaran-beasiswa-ctbe-3') ?>" target="_blank">Daftar Beasiswa Sekarang</a></button>
         </div>
     </div>
 </section>
