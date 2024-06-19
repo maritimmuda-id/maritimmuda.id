@@ -20,29 +20,14 @@
                 <div class="row">
                     <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 text-center center-col margin-eight-bottom xs-margin-30px-bottom last-paragraph-no-margin">
                         <img src="<?php echo site_url('assets') ?>/images/arungisamudra/logo/logo-arungisamudra-inamarys.png" alt="" class=" width-60" style="margin-bottom: 50px;">
-                        <p><b>Indonesian Maritime Youth Summit (INAMARYS)</b> adalah sebuah pertemuan pemuda bidang kemaritiman tingkat nasional yang akan diselenggarakan secara hybrid di Auditorium STIE Jakarta sebagai pra-event menuju International Blue Economy Expo & Summit (IBEES). INAMARYS yang bertemakan “Youth and Digital Transformation for Indonesia Future Blue Economy” ini akan diselenggarakan dalam dua sesi dengan mengundang narasumber yang profesional dan kredibel di bidangnya untuk membahas topik mengenai “Blue Economy & Marine Conservation” dan “Blue Economy & Education”.</p>
-                        <!-- <br>
-                        <div style="padding:20px; background-color: #f84535; color: white; border-radius: 20px 0 20px 0;">
-                            <h6 class="harond-1">Biaya pendaftaran INAMARYS</h6>
-                            <div class="row">
-                                <div class="container">
-                                    <div class="col-md-4 border-right">
-                                        <p><u>Offline</u>
-                                        <br>Umum: Rp 15.000
-                                        <br>Anggota Maritim Muda: Rp 10.000</p>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <p><u>Online</u> (Luar Jabodetabek)
-                                        <br>Rp 10.000</p>
-                                    </div>
-                                </div>
-                            </div>
+                        <p><b>Indonesian Maritime Youth Summit (INAMARYS)</b> adalah sebuah pertemuan pemuda bidang kemaritiman tingkat nasional yang akan diselenggarakan secara hybrid sebagai pra-event menuju International Blue Economy Expo & Summit (IBEES). INAMARYS yang bertemakan “Youth and Digital Transformation for Indonesia's Future Blue Economy” ini akan diselenggarakan dalam dua sesi dengan mengundang narasumber yang profesional dan kredibel di bidangnya untuk membahas topik mengenai “Blue Economy & Marine Conservation” dan “Blue Economy & Education”.</p>
+                        <br>
+                        <br>
+                        <br>
+                        <div style="padding:20px 100px 20px 100px; background-color: #0071e7; color: white; border-radius: 20px 0 20px 0;">
+                            <h6 class="harond-1" style="margin-bottom: 0;"><a style="color: white;" href="<?php echo site_url('/arungisamudra/exhibitors-inamarys-2024') ?>">List of Digital Exhibitors</a></h6>
                         </div>
-                        <br>
-                        <br>
-                        <h6 class="harond-1"><a style="padding:20px 100px 20px 100px; background-color: #0071e7; color: white; border-radius: 20px 0 20px 0;" href="<?php echo site_url('/arungisamudra/pendaftaran-inamarys-2024') ?>">Daftar Disini</a></h6> -->
                     </div>
-                    
                 </div>
             </div>
         </section>
@@ -202,7 +187,7 @@
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
                                     <div class="card" style="border-radius: 0 0 20px 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
-                                        <p class="text-left xs-text-center" style="color: #030a95; padding: 20px;"><b>Pembukaan Resmi Acara Bersama Narasumber Sambutan & Dokumentasi</b></p>
+                                        <p class="text-left xs-text-center" style="color: #030a95; padding: 20px;"><b>Keynote spech dan pembukaan resmi INAMARYS oleh Asisten Deputi Karakter Pemuda Kemenpora</b></p>
                                     </div>
                                 </div>
                             </div>
@@ -233,7 +218,7 @@
                                             <br>2. Digibluecamp: Learning Management System for Blue Economy Studies and Business Development
                                             <br>3. All New Maritim Muda Hub V.3
                                             <br>4. Website Indonesian Youth Economic Leaders (IYEL)
-                                            <br>5. Maritime Tecnopreneurs Incubator (MARITECHTOR)
+                                            <br>5. Maritime Technopreneurs Incubator (MARITECHTOR)
                                         </p>
                                     </div>
                                 </div>
@@ -295,9 +280,29 @@
                                 </div>
                                 <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
                                     <div class="card" style="border-radius: 0 0 20px 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
+                                        <p class="text-left xs-text-center" style="color: #030a95; padding: 20px;"><b>Sharing Session Organisasi Daerah Maritim Muda Nusantara</b>
+                                            <br>1. Paka Mutiara (Maritim Muda Bengkulu)
+                                            <br>2. Raden Hamdi (Maritim Muda Lampung)
+                                            <br>3. Korisnur Cahyono (Maritim Muda Kepulauan Riau)
+                                            <br>3. Firdaut Ismail (Maritim Muda Maluku Utara)
+                                            <br>3. Zufarnesia (Maritim Muda Sumatera Utara)
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Row 12 -->
+                            <div class="row margin-four-bottom xs-margin-10px-bottom">
+                                <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
+                                    <div style="border-radius: 15px 15px 0 0; background-color: #f84535; background-image:url('<?php echo site_url('assets/') ?>images/arungisamudra/asset/arungisamudra_bg-patern-4.png');">
+                                        <h6 style="color: white; margin: 0; padding: 10px 0;"><span class="harond-1">12</span></h6>
+                                    </div>
+                                </div>
+                                <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
+                                    <div class="card" style="border-radius: 0 0 20px 20px; background-color: #f7f0d3; border: 5px solid #f7f0d3; border-color: #f7f0d3;">
                                         <p class="text-left xs-text-center" style="color: #030a95; padding: 20px;"><b>Closing</b></p>
                                     </div>
                                 </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -311,7 +316,7 @@
                     <div class="col-lg-8 col-md-8 col-sm-10 col-xs-12 text-center center-col margin-eight-bottom xs-margin-30px-bottom last-paragraph-no-margin">
                         <div style="padding:20px; background-color: #f84535; color: white; border-radius: 20px 0 20px 0;">
                             <h6 class="harond-1">Biaya pendaftaran INAMARYS</h6>
-                            <div class="row">
+                            <div class="row" style="">
                                 <div class="container">
                                     <div class="col-md-4 border-right">
                                         <p><u>Offline</u>
@@ -327,7 +332,15 @@
                         </div>
                         <br>
                         <br>
-                        <h6 class="harond-1"><a style="padding:20px 100px 20px 100px; background-color: #0071e7; color: white; border-radius: 20px 0 20px 0;" href="<?php echo site_url('/arungisamudra/pendaftaran-inamarys-2024') ?>">Daftar Disini</a></h6>
+                        <div style="padding:20px 100px 20px 100px; background-color: #0071e7; color: white; border-radius: 20px 0 20px 0;">
+                            <h6 class="harond-1" style="margin-bottom: 0;"><a style="color: white;" href="<?php echo site_url('/arungisamudra/pendaftaran-inamarys-2024') ?>">Daftar sebagai Peserta</a></h6>
+                        </div>
+                        <br>
+                        <hr style="border: 1px solid #0071e7;">
+                        <br>
+                        <div style="padding:20px 100px 20px 100px; background-color: #0071e7; color: white; border-radius: 20px 0 20px 0;">
+                            <h6 class="harond-1" style="margin-bottom: 0;"><a style="color: white;" href="<?php echo site_url('/arungisamudra/pendaftaran-exhibitors-inamarys-2024') ?>">Daftar sebagai Digital Exhibitor</a></h6>
+                        </div>
                     </div>
                     
                 </div>

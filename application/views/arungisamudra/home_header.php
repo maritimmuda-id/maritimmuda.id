@@ -48,6 +48,9 @@
                                             <li>
                                                 <a href="<?php echo site_url('arungisamudra/pendaftaran-inamarys-2024') ?>">INAMARYS</a>
                                             </li>
+                                            <li>
+                                                <a href="<?php echo site_url('arungisamudra/pendaftaran-exhibitors-inamarys-2024') ?>">Exhibitors INAMARYS</a>
+                                            </li>
                                         </ul>
                                     </li>
                                 </ul>

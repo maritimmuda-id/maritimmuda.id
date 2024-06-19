@@ -69,6 +69,8 @@ $route['arungisamudra'] = 'arungisamudra';
 $route['arungisamudra/bootcamp/daftar'] = 'arungisamudra/daftar_bootcamp';
 $route['arungisamudra/edutrip/daftar'] = 'arungisamudra/daftar_edutrip';
 $route['arungisamudra/pendaftaran-inamarys-2024'] = 'arungisamudra/pendaftaran_inamarys';
+$route['arungisamudra/exhibitors-inamarys-2024'] = 'arungisamudra/exhibitors_inamarys';
+$route['arungisamudra/pendaftaran-exhibitors-inamarys-2024'] = 'arungisamudra/pendaftaran_exhibitors_inamarys';
 
 $route['404_override'] = 'mercusuar';
 
