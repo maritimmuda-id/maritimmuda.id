@@ -843,7 +843,7 @@
         <div class="row">
             <div class="col-lg-7 col-md-8 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
                 <!-- <div class="alt-font text-medium-gray margin-5px-bottom text-uppercase text-small">Kita Muda, <br>Wujudkan Poros Maritim Dunia</div> -->
-                <h5 class="alt-font text-extra-dark-gray font-weight-600">Tim Ahli Muda</h5><br><br>
+                <h5 class="alt-font text-extra-dark-gray font-weight-600">Tim Pakar Muda</h5><br><br>
                 <h5 class="alt-font text-extra-dark-gray font-weight-600">Ketua Tim</h5>
             </div>
         </div>
@@ -852,14 +852,15 @@
         <div class="row">
             <!-- start team item -->
             <div class="col-md-4"></div>
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-center team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
+            <!-- start ketua item -->
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="https://maritimmuda.id/upload/user/41/imada1.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/41/anton2.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Imanda Hikmat Pradana, S.Pi., M.Sc. seorang profesional yang memfokuskan diri kepada konservasi wilayah pesisir dan pemberdayaan masyarakat pesisir. Lulusan Master asal Tiongkok ini sekarang bekerja sebagai Program Manager di sebuah organisasi nirlaba bernama Rare yang sedang mengimplementasikan Pengelolaan Akses Area Perikanan (PAAP) di Provinsi Sulawesi Tenggara. Ia memiliki harapan agar nantinya nelayan di Indonesia bisa dianggap sebagai profesi yang terhormat dan dibanggakan.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
@@ -872,12 +873,14 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Imanda Hikmat Pradana</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">CO-FOUNDER & KETUA TIM AHLI MUDA / AHLI MUDA BIDANG PENGELOLAAN PESISIR BERKELANJUTAN</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Antonius Liosandi Sirait</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">CO-FOUNDER & PAKAR MUDA BIDANG PELAYARAN</div>
                         </div>
                     </figcaption>
                 </figure>
             </div>
+            <!-- end ketua item -->
+            
             <div class="col-md-4"></div>
             <!-- end team section -->
             <!-- start team section -->
@@ -925,32 +928,32 @@
 
 
                 <!-- end team section -->
-                <!-- start team section -->
-                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
-                    <figure>
-                        <div class="team-image xs-width-100">
-                            <img src="https://maritimmuda.id/upload/user/41/rizky.png" alt="">
-                            <div class="overlay-content text-center">
-                                <div class="display-table height-100 width-100">
-                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Rizky Akbar Siboro, S.Pi Seorang pemuda yang memiliki antusias dalam kelestarian alam dan lingkungan sekitar</span>
-                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                    </div>
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-center team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
+                <figure>
+                    <div class="team-image xs-width-100">
+                        <img src="https://maritimmuda.id/upload/user/41/imada1.png" alt="">
+                        <div class="overlay-content text-center">
+                            <div class="display-table height-100 width-100">
+                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Imanda Hikmat Pradana, S.Pi., M.Sc. seorang profesional yang memfokuskan diri kepada konservasi wilayah pesisir dan pemberdayaan masyarakat pesisir. Lulusan Master asal Tiongkok ini sekarang bekerja sebagai Program Manager di sebuah organisasi nirlaba bernama Rare yang sedang mengimplementasikan Pengelolaan Akses Area Perikanan (PAAP) di Provinsi Sulawesi Tenggara. Ia memiliki harapan agar nantinya nelayan di Indonesia bisa dianggap sebagai profesi yang terhormat dan dibanggakan.</span>
+                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                    <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
                                 </div>
                             </div>
-                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                         </div>
-                        <figcaption>
-                            <div class="team-member-position margin-20px-top text-center">
-                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Rizky Akbar Siboro</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pendidikan Lingkungan</div>
-                            </div>
-                        </figcaption>
-                    </figure>
+                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                    </div>
+                    <figcaption>
+                        <div class="team-member-position margin-20px-top text-center">
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Imanda Hikmat Pradana</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">CO-FOUNDER & PAKAR MUDA BIDANG PENGELOLAAN PESISIR BERKELANJUTAN</div>
+                        </div>
+                    </figcaption>
+                </figure>
                 </div>
                 <!-- end team item -->
                 <!-- start team item -->
@@ -975,7 +978,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Ranitya Nurlita</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">CO-Founder & Ahli Muda Bidang Lingkungan</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">CO-Founder & Pakar Muda Bidang Lingkungan</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1003,7 +1006,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Sigit Nugroho</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Komunikasi</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Komunikasi</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1036,7 +1039,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Dwitya Harits Waskito</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Teknologi Maritim</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Teknologi Maritim</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1092,7 +1095,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Adityawarman</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Transportasi Laut</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Transportasi Laut</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1125,7 +1128,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Hyang Ismalya Mihardja</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Resolusi Konflik</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Resolusi Konflik</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1185,7 +1188,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Dhaneswara Al Amien</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Manajemen Maritim</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Manajemen Maritim</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1216,7 +1219,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Bobby Muhamad Zaky</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Tata Ruang Maritim</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Tata Ruang Maritim</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1244,7 +1247,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Angkasa Putra</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Perikanan Budidaya</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Perikanan Budidaya</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1274,7 +1277,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Luthfan Atiqi Hulman Aufar</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Perikanan Tangkap</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Perikanan Tangkap</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1330,7 +1333,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Sony Junianto</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Energi Laut Terbarukan</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Energi Laut Terbarukan</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1358,7 +1361,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Alexandra Maheswari Waskita</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Penghidupan Berkelanjutan</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Penghidupan Berkelanjutan</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1418,7 +1421,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Leonardo William Pratama</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Wisata Bahari</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Wisata Bahari</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1446,7 +1449,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Immanuel Deo Juvente Hasian Silalahi</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Geopark</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Geopark</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1502,7 +1505,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Firman Faturohman</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Sejarah dan Budaya Maritim</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Sejarah dan Budaya Maritim</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1564,7 +1567,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Endy Prahyuono</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pengembangan Bisnis</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Pengembangan Bisnis</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1592,7 +1595,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mochamad Gizza Gaeta Nahumariri</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Regulasi Statutori</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Regulasi Statutori</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1620,7 +1623,7 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhammad Naufal Hishnul Hashin</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Aeromaritim dan Fotografi Bawah Laut</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Aeromaritim dan Fotografi Bawah Laut</div>
                             </div>
                         </figcaption>
                     </figure>
@@ -1650,14 +1653,72 @@
                         <figcaption>
                             <div class="team-member-position margin-20px-top text-center">
                                 <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Risya Arsyi Armis</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Ahli Muda Bidang Pemetaan Sumber Daya Hayati Laut</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Pemetaan Sumber Daya Hayati Laut</div>
                             </div>
                         </figcaption>
                     </figure>
                 </div>
+                <!-- end team item -->
+                <!-- start team item -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/iwan_fadli_pasaribu1.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                        </div>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Iwan Fadli Pasaribu</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Sosio-Ekonomi Perikanan</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
+                <!-- start team section -->
+                <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
+                    <figure>
+                        <div class="team-image xs-width-100">
+                            <img src="https://maritimmuda.id/upload/user/41/rizky.png" alt="">
+                            <div class="overlay-content text-center">
+                                <div class="display-table height-100 width-100">
+                                    <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                        <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Rizky Akbar Siboro, S.Pi Seorang pemuda yang memiliki antusias dalam kelestarian alam dan lingkungan sekitar</span>
+                                        <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                        </div>
+                        <figcaption>
+                            <div class="team-member-position margin-20px-top text-center">
+                                <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Rizky Akbar Siboro</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Pakar Muda Bidang Pendidikan Lingkungan</div>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </div>
+                <!-- end team item -->
             </div>
-            <!-- end team item -->
+            </div>
         </div>
+    </div>
 </section>
 <!-- end team section -->
 

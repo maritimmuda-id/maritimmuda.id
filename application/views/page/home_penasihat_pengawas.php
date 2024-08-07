@@ -147,7 +147,7 @@
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
                             <div class="text-small font-weight-500 text-extra-dark-gray ">Basilio Dias Araujo, S.S., M.A.</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Staf Ahli Bidang Sosio-Antropologi Maritim, Kementerian Koordinator Bidang Kemaritiman dan Investasi RI</br></br></div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Pakar Senior Bidang Kebijakan<br>Ekonomi Biru dan Diplomasi Maritim</br>IBEC STIE Indonesia Jakarta</br></div>
                         </div>
                     </figcaption>
                 </figure>
@@ -220,39 +220,7 @@
 
             </div>
             <!-- end team item -->
-            <!-- start team item -->
-
-            <div class="col-md-3 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
-
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/Drs._Tb._Zainal_Aminin__M.Pd.__M.Si1.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin"></span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/asdepkapasitas/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="row">
-                            <div class="team-member-position margin-20px-top text-center">
-                                <div class="text-small font-weight-500 text-extra-dark-gray ">Drs. Zainal Aminin, M.Pd., M.Si.</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Asisten Deputi Kepeloporan Pemuda,<br>Kemenpora RI</br></br></div>
-                            </div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <!-- end team item -->
+            
             <!-- start team item -->
 
 

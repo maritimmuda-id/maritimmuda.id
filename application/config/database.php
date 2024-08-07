@@ -100,35 +100,11 @@ $query_builder = TRUE;
 // );
 
 //FOR ONLINE PURPOSES
-$db['default'] = array(
-	'dsn'	=> '',
-	'hostname' => '10.0.11.35',
-	'username' => 'admin',
-	'password' => '12345678',
-	'database' => 'maritimmuda',
-	'dbdriver' => 'mysqli',
-	'dbprefix' => '',
-	'pconnect' => FALSE,
-	'db_debug' => (ENVIRONMENT !== 'production'),
-	'cache_on' => FALSE,
-	'cachedir' => '',
-	'char_set' => 'utf8',
-	'dbcollat' => 'utf8_general_ci',
-	'swap_pre' => '',
-	'encrypt' => FALSE,
-	'compress' => FALSE,
-	'stricton' => FALSE,
-	'failover' => array(),
-	'save_queries' => TRUE
-);
-
-
-// FOR LOCAL DEVELOPMENT ONLY
 // $db['default'] = array(
 // 	'dsn'	=> '',
-// 	'hostname' => 'localhost',
-// 	'username' => 'root',
-// 	'password' => '',
+// 	'hostname' => '10.0.11.35',
+// 	'username' => 'admin',
+// 	'password' => '12345678',
 // 	'database' => 'maritimmuda',
 // 	'dbdriver' => 'mysqli',
 // 	'dbprefix' => '',
@@ -145,3 +121,27 @@ $db['default'] = array(
 // 	'failover' => array(),
 // 	'save_queries' => TRUE
 // );
+
+
+// FOR LOCAL DEVELOPMENT ONLY
+$db['default'] = array(
+	'dsn'	=> '',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'maritimmuda',	
+	'dbdriver' => 'mysqli',
+	'dbprefix' => '',
+	'pconnect' => FALSE,
+	'db_debug' => (ENVIRONMENT !== 'production'),
+	'cache_on' => FALSE,
+	'cachedir' => '',
+	'char_set' => 'utf8',
+	'dbcollat' => 'utf8_general_ci',
+	'swap_pre' => '',
+	'encrypt' => FALSE,
+	'compress' => FALSE,
+	'stricton' => FALSE,
+	'failover' => array(),
+	'save_queries' => TRUE
+);
