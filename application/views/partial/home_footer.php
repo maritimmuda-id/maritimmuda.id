@@ -24,7 +24,7 @@
             <!-- start social media -->
             <div class="col-md-4 col-sm-5 col-xs-12 text-center display-table xs-text-center">
                 <div class="display-table-cell vertical-align-middle text-white">
-                    <span class="alt-font text-small margin-20px-right"><i class="fa fa-phone" aria-hidden="true"></i>+62-21-489-1137 <br> +62 823-7099-6119 <br> +62-812-9694-7244 <br> <i class="fa fa-envelope" aria-hidden="true"></i> admin@maritimmuda.id
+                    <span class="alt-font text-small margin-20px-right"><i class="fa fa-phone" aria-hidden="true"></i>+62-21-489-1137 <br> <i class="fa fa-envelope" aria-hidden="true"></i> admin@maritimmuda.id
                         <hr>Media sosial kami
                     </span>
                     <div class="social-icon-style-8 display-inline-block vertical-align-middle">
