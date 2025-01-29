@@ -100,7 +100,7 @@
             <div class="col-lg-7 col-md-8 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
                 <div class="alt-font text-medium-gray margin-5px-bottom text-uppercase text-small">Kita Muda, <br>Wujudkan Poros Maritim Dunia</div>
                 <h5 class="alt-font text-extra-dark-gray font-weight-600">Pengurus Pusat Maritim Muda</h5>
-                <h6 class="alt-font text-extra-dark-gray font-weight-600">PERIODE 2023-2026</h6>
+                <h6 class="alt-font text-extra-dark-gray font-weight-600">PERIODE 2025-2026</h6>
             </div>
         </div>
         <div class="container margin-50px-top">
@@ -132,6 +132,38 @@
                 </figure>
             </div>
             <!-- end team item -->
+
+<!-- start team item -->
+
+<div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
+                <figure>
+                    <div class="team-image xs-width-100">
+                        <img src="<?php echo site_url('upload/') ?>user/42/mohamad-afif.png" alt="">
+                        <div class="overlay-content text-center">
+                            <div class="display-table height-100 width-100">
+                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Mohamad Afif Dzulqifli S.Pi merupakan lulusan Universitas Gadjah Mada program studi Manajemen Sumberdaya Akuatik angkatan 2019, saat ini aktif sebagai pegawai kontrak di Badan Pangan Nasional. Selain itu Mohamad Afif Dzulqifli S.Pi menjadi founder dari timtimur.id gerakan media kreatif dan edukatif anak muda dari Indonesia Timur. </span>
+                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
+                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                    <a href="https://www.instagram.com/afif.dzul/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/mohamad-afif-dzulqifli-71b3251ab" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                    </div>
+                    <figcaption>
+                        <div class="team-member-position margin-20px-top text-center">
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mohamad Afif Dzulqifli</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Sekretaris Jenderal</div>
+                        </div>
+                    </figcaption>
+                </figure>
+            </div>
+            <!-- end team item -->
+
             <!-- start team item -->
 
             <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
@@ -228,36 +260,7 @@
                 </figure>
             </div>
             <!-- end team item -->
-            <!-- start team item -->
-
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/mohamad-afif.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Mohamad Afif Dzulqifli S.Pi merupakan lulusan Universitas Gadjah Mada program studi Manajemen Sumberdaya Akuatik angkatan 2019, saat ini aktif sebagai pegawai kontrak di Badan Pangan Nasional. Selain itu Mohamad Afif Dzulqifli S.Pi menjadi founder dari timtimur.id gerakan media kreatif dan edukatif anak muda dari Indonesia Timur. </span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/afif.dzul/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/mohamad-afif-dzulqifli-71b3251ab" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mohamad Afif Dzulqifli</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Direktur Keuangan</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
+            
             <!-- start team item -->
 
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
