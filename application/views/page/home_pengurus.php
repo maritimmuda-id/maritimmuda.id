@@ -189,37 +189,6 @@
                 </figure>
             </div>
             <!-- end team item -->
-            <!-- start team item -->
-
-            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Aron_Jose2.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Aron Jose Manuel Pakpahan, S.T. Ketua Harian Maritim Muda Nusantara, lulusan dari Program Studi Teknik Kelautan. Aron memiliki berbagai pencapaian prestasi tingkat nasional hingga tingkat internasional dan Aron merupakan figur pemimpin yang selalu punya kemauan belajar, melalui banyak peluang yang tersedia.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/aronpakpahan1/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://id.linkedin.com/in/aron-jose-manuel-pakpahan" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Aron Jose Manuel Pakpahan</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ketua Harian</div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team item -->
-
         </div>
         <div class="container margin-50px-top">
             <!-- start team item -->
@@ -227,11 +196,11 @@
             <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/islahul-fikri.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Fauzan_Ibnu_Maulana.jpg" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Ishlahul Fikri, S. Pi seorang yang memiliki kemampuan leadership yang baik, karena selama kuliah sering memimpin organisasi, mampu manajemen SDM dengan baik, dan juga mudah beradaptasi serta dapat bekerjasama dalam tim.
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Fauzan Ibnu Maulana, S.Ak ialah seorang Akuntan lulusan tahun 2021.Ia merupakan seorang individu yang penuh semangat, berkomitmen untuk terus belajar dan berkembang dalam berbagai bidang. Aktif dalam berbagai kegiatan organisasi,serta selalu berusaha memberikan kontribusi positif bagi lingkungan sekitar.
                                     </span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
@@ -239,7 +208,6 @@
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <a href="https://www.instagram.com/i.fik27/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                     <a href="https://www.linkedin.com/in/ishlahul-fikri-ba921423a/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-
                                 </div>
                             </div>
                         </div>
@@ -247,8 +215,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Ishlahul Fikri</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Direktur Program dan Kemitraan</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Fauzan Ibnu Maulana</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Bendahara Umum</div>
                         </div>
                     </figcaption>
                 </figure>
