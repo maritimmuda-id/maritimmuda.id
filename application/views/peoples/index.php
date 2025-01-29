@@ -77,6 +77,17 @@
                                
                                 <?php endforeach; ?>
 
+                                <form action="<?= base_url('peoples/update'); ?>" method="post">
+                                <input type="hidden" name="old_name" value="<?= $people['name']; ?>">
+                                <label>Nama Lama: <?= $people['name']; ?></label><br>
+                                <label>Nama Baru:</label>
+                                <input type="text" name="new_name" value="<?= $people['name']; ?>"><br>
+                                <label>Jabatan Baru:</label>
+                                <input type="text" name="new_position" value="<?= $people['position']; ?>"><br>
+                                <button type="submit">Update</button>
+                                </form>
+
+
                             </tbody>
                         </table>
                         <?= $this->pagination->create_links();?>
