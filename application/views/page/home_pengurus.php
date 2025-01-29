@@ -133,9 +133,8 @@
             </div>
             <!-- end team item -->
 
-<!-- start team item -->
-
-<div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
+            <!-- start team item -->
+            <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
                         <img src="<?php echo site_url('upload/') ?>user/42/mohamad-afif.png" alt="">
@@ -173,14 +172,13 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Nanda Anggiani Putri, S.Pi., M.Tr.Pi merupakan gadis yang berasal dari Kota Palembang. Pendidikan yang ditempuh S1 Teknologi Hasil Perikanan di Universitas Sriwijaya dan S2 Pemanfaatan Sumberdaya Perikanan di Politeknik Ahli Usaha Perikanan. Suka dengan pekerjaan yang melibatkan interaksi dengan berbagai pihak, termasuk anggota tim, pemangku kepentingan, dan klien. Menyukai hal-hal yang baru terlebih lagi jika disandingkan dengan team yang supportif dan fleksibel dan juga menyukai tantangan yang bersifat intelektual, mempunyai keterampilan komunikasi yang kuat dan hobby travelling. </span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"> I Gede Ngurah Eka Dharmayudha, S.H. , M.Si. <br> Poet | Writer | Politician. </span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                             <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
                                     <a href="https://www.instagram.com/nandaagnp/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                     <a href="https://www.linkedin.com/in/nanda-anggiani-putri/?originalSubdomain=id" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-
                                 </div>
                             </div>
                         </div>
@@ -188,13 +186,14 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Nanda Anggiani Putri</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Sekretaris Jenderal</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">I Gede Ngurah Eka Dharmayudha</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Ketua Harian</div>
                         </div>
                     </figcaption>
                 </figure>
             </div>
             <!-- end team item -->
+
             <!-- start team item -->
 
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
