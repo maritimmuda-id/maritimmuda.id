@@ -8,8 +8,7 @@
                 <div class="display-table-cell vertical-align-middle text-white">
                     &COPY; 2023 Maritim Muda Nusantara<br>Indonesian Maritime Youths
                     <hr>Head Office:<br>
-                    Indonesia Blue Economy Center<br>Kampus C STIE Indonesia Jakarta,
-                    Jalan Pratekan No. 9A<br>Kel. Rawamangun, Kec. Pulo Gadung, Jakarta 13220
+                    Menara Rajawali Lantai 2, Jl. DR. Ide Anak Agung Gde Agung<br>Kawasan Mega Kuningan, Jakarta Selatan, Daerah Khusus Jakarta 12950
                     <hr>National Secretariat:<br>Jalan Pulau Bintan No. 12, Desa Semoi Dua, Kec. Sepaku, Kab. Penajam Paser Utara, IKN Nusantara.
                 </div>
             </div>
