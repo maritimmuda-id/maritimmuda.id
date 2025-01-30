@@ -96,7 +96,7 @@
 
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/basilio.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/41/basilio1.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -129,7 +129,7 @@
 
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Sugianto.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -146,8 +146,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray "></div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Staf Ahli Bidang Sosio-Antropologi Maritim, Kementerian Koordinator Bidang Kemaritiman dan Investasi RI</br></br></div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray ">Brigadir Jenderal TNI (Mar)<br> Sugianto, S.Sos., M.M., M.Tr.Opsla.</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Kepala Dinas Potensi Maritim<br>TNI Angkatan Laut</br></br></div>
                         </div>
                     </figcaption>
                 </figure>
@@ -162,7 +162,7 @@
 
                 <figure>
                     <div class="team-image xs-width-">
-                        <img src="<?php echo site_url('upload/') ?>user/41/pak-gatot.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/siluet.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -179,8 +179,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray ">Brigadir Jenderal TNI (Mar)<br> Gatot Mardiyono, S.H.</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Kepala Dinas Potensi Maritim<br>TNI Angkatan Laut</br></br></div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray "><br></div>
+                            <div class="text-extra-small text-uppercase text-medium-gray"><br></br></br></div>
                         </div>
                     </figcaption>
                 </figure>
