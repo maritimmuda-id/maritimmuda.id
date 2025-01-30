@@ -255,7 +255,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Gde_Oka_Widiyavedanta.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/muhammad-adzka-fadilah.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -378,7 +378,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/askar-lumagi.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -508,17 +508,17 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
               <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Mario_Berkardo_Dayman2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Nasrullah_Abdulrahman_Rafli_Junaid.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Mario Berkardo Dayman merupakan mahasiswa aktif pada program studi S1-Teknologi dan Manajemen Perikanan Tangkap di IPB University. Tidak hanya piawai dalam public speaking, leadership, dan time management, Mario juga memiliki keahlian di bidang seni sastra, gambar, musik, dan tari. Mario merupakan mahasiswa yang memiliki pengalaman dalam menjadi pemimpin, duta, penyanyi, master of ceremony, moderator, serta memiliki passion dalam bertualang dan mencari relasi.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Nasrullah Abdulrahman Rafli Junaid S.Pi. Berawal dari studi perikanan, saya beralih ke dunia teknologi sebagai Software Engineer. Saya percaya teknologi dapat memberikan solusi inovatif di berbagai bidang. Pengalaman saya di kedua bidang ini mendorong saya untuk terus berkreasi dan memberikan dampak positif.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/marioberkardo/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/Mario-Berkardo-Dayman/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.instagram.com/raflij.junior/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/rafli-narj/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -526,8 +526,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mario Berkardo Dayman</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Sosial, Pendidikan, dan Budaya Maritim</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Nasrullah Abdulrahman Rafli Junaid</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Ketua Bidang Data, Media, dan Transformasi Digital</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -538,16 +538,16 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.2s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Mariyo_Putra_Perdana3.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Perkenalkan nama saya Mariyo Putra Perdana dan saya adalah anak pertama dari dua bersaudara, saya berdomisili di DKI Jakarta lebih tepatnya di Kalideres Jakarta Barat. Hobi saya adalah olahraga dan saya adalah atlet Cabang Olahraga Karate DKI Jakarta dan alhamdulillah sudah banyak prestasi yang sudah saya berikan dan sudah saya raih dari daerah, provinsi hingga nasional. Saya seseorang yang aktif dalam bersosialisasi dan mampu menyesuaikan diri di lingkungan yang baru, belajar adalah sesuatu hal yang wajib bagi saya, baik belajar dalam suatu pekerjaan hingga hal yang dilakukan. Harapan saya adalah bisa menjadi pelopor pembangunan maritim di Indonesia</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Khusnul Fatonah</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/mariyoputra_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <!-- <a href="https://www.instagram.com/mariyoputra_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
                                     <!--<a href="https://www.linkedin.com/in/Mario-Berkardo-Dayman/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>-->
                                 </div>
                             </div>
@@ -556,8 +556,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Mariyo Perdana Putra</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Konservasi, Olahraga, dan Pariwisata Bahari</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Khusnul Fatonah</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Ketua Bidang Strategik dan Percepatan Jejaring Organisasi</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -570,17 +570,17 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Syadza_Fatina_Oktafiarani2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Rafidhan Abdul.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll"></span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Rafidhan Abdul R.M., S.Tra. lulusan dari program studi manajemen transportasi yang berfokus di bidang kelautan, pembangunan berkelanjutan dan logistik. saat ini berkerja di bidang Ekspor Import yang mana kaitannya erat dengan kemaritiman. dengan berbagai pengalaman yang telah di tekuni, besar harapan nya dapat memberikan dampak dan memajukan dunia kemaritiman di Indonesia.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/last.caesar93" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="https://www.instagram.com/kaisarakhir/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                    <!--<a href="https://www.linkedin.com/in/Mario-Berkardo-Dayman/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>-->
+                                    <a href="https://www.instagram.com/rafidan_abdul/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> 
+                                    <a href="http://www.linkedin.com/in/rafidhan-abdul-rahman-mariz-9070711ab" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -588,8 +588,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Syadza Fatina Oktafiarani</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Data, Riset, dan Advokasi Maritim</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Rafidhan Abdul R.M</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Ketua Bidang Kaderisasi dan Advokasi Maritim</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -608,17 +608,17 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
              <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottomsm-margin-xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/paty-abbas.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Teguh Prasetyo.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Paty Abbas Soumena merupakan..</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Teguh Prasetyo, S.Tr.Pel, M.Han. Navigating challenges with precision, fostering growth through knowledge, and driving excellence in the maritime industry.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/patyabbas_/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/paty-abbas-ab5b82299/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.instagram.com/teguhprasetyo19/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/teguh-prasetyo-68a9181aa/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -626,8 +626,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Paty Abbas Soumena </div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Pelayaran, Logistik, dan Daerah Kepulauan</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Teguh Prasetyo</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Koordinator Nasional Maritim Muda Mengajar</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -638,11 +638,11 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/noranisa.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Muhamad Hafiz Maulavi Haban.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Nor Anisa S.Sos adalah seorang sarjana Hubungan Internasional lulusan Universitas Mulawarman tahun 2021. Ia memiliki ketertarikan pada bidang Tata Kelola Lingkungan dan Kebijakan Publik. Ia juga memiliki pengalaman kerja profesional di sektor ESG (Environmental, Social, and Governance) dengan fokus pada promosi pengungkapan informasi lingkungan di Asia Tenggara pada tahun 2022. Ia juga merupakan BP Scholar (pemenang beasiswa) untuk Climate Entrepreneurship di New York University untuk Youth Assembly 2023.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Muhamad Hafiz Maulavi Haban, S.Si. An Oceanography graduate from Diponegoro University. My interests include: marine remote sensing, marine primary production, air-sea interaction on tackling climate change, and teaching. I derived both satellite and in-situ data for chl-a and TSS, using citizen science to broaden observations of essential environment variables in the ocean. I love spending time in both field and data-processing research.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
@@ -656,8 +656,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Nor Anisa</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Kemitraan Global</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhamad Hafiz Maulavi Haban</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">"Koordinator Nasional Ekspedisi Maritim Muda Nusantara"</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -671,7 +671,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Silvi_Olivia_Putra_Nia2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Bela Rahma Sayida.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -680,8 +680,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/olivpn/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/silvi-olivia-putra-nia-5142a2223/" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.instagram.com/hafizmaulavi10?igsh=NGU2cTU4MDNrbzVo" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/muhamad-hafiz-maulavi-haban-00a847172?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -689,8 +689,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Silvi Olivia Putra Nia</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Keuangan Program dan Bisnis</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Bela Rahma Sayida</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Koordinator Nasional Maritim Muda Fisheries Club</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -703,17 +703,17 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/apriansyah.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Apriansyah, S.P adalah pribadi suka tantangan dan hal-hal baru agar dapat di jadikan pembelajaran dan pengalaman.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Rudihari Asgar</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/rynsyhz/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/aprian-syah-8819621a4/?originalSubdomain=id" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <!-- <a href="https://www.instagram.com/rynsyhz/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
+                                    <!-- <a href="https://www.linkedin.com/in/aprian-syah-8819621a4/?originalSubdomain=id" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -721,8 +721,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Apriansyah</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Investasi dan Bisnis Ekonomi Biru</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Rudihari Asgar</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Koordinator Nasional Maritim Muda Aksi Bersih</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -733,11 +733,11 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Ariq_Pratama.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Ariq Pratama</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Afny Fadilla Rahmadani</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
@@ -751,8 +751,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Ariq Pratama </div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Transformasi Digital dan Inovasi Maritim</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Afny Fadilla Rahmadani</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Koordinator Nasional Duta Maritim Muda``</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -768,19 +768,18 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/fathur-rohman.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Supriadi.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
                                     <!-- <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Saya pribadi yang mau belajar hal-hal baru, selain itu saya juga sangat aktif dalam berorganisasi di kampus dengan menjadi Badan Perwakilan Mahasiswa dan diluar kampus mengikuti kepanitiaan dan pengurus HIPMI JAYA, saya juga memiliki pengalaman bekerja di perusahaan PT INDI TEKNOKREASI INTERNASIONAL menjadi Project Manager pada Divisi Product Developer, saya juga pernah menjadi sukarelawan atau volunteer yaitu di acara Asian Paragames 2018 di Indonesia pada saat itu menjadi Tuan Rumah Penyelenggara Acara Asian Paragames. Selain itu saya pernah menjadi PIC diacara Job Fair Jakarta Mahasiswa Unggul di Gedung Dinas Pendidikan Provinsi DKI Jakarta. Sehingga dengan itu saya memiliki minat yang sangat tinggi untuk belajar dan berkembang menjadi seorang Human Resource karena pendidikan saya juga di ranah Psikologi, maka saya familiar dengan proses seleksi ataupun rekrutment dan mampu untuk mengelola perusahaan dan juga sumber daya manusia.</span> -->
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Seorang mahasiswa semester akhir S1 Ilmu Komunikasi di Universitas Pendidikan Indonesia. Tertarik memiliki pengalaman dalam dunia media sosial. Saya seorang pekerja keras, suka mengeksplorasi hal-hal baru, easy going, dapat bekerja dalam tim, dan sesorang yang ingin terus belajar.
-                                    </span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Supriadi S.T. Supriadi, lulusan Teknik Geologi, menjabat sebagai Kepala Bidang Pariwisata Bahari Berkelanjutan di Maritim Muda. Berpengalaman sebagai tim teknis Geopark Gorontalo sejak 2021 dan freediving sejak 2020, ia berfokus pada pengembangan pariwisata bahari ramah lingkungan yang mendukung SDGs, serta menciptakan dampak positif bagi masyarakat lokal melalui inovasi, edukasi, dan geokonservasi.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://instagram.com/ralfathur" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/fathurrohmanalfath?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.instagram.com/adhyy.s" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="http://www.linkedin.com/in/supriadi07" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -788,8 +787,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Fathur Rohman Al Fath</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Media Kreatif dan Editorial</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Supriadi</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Ketua Bidang Pariwisata Bahari Berkelanjutan</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -800,17 +799,17 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
   <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Muhammad_Tahir3.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Muhammad Tahir, S.Sos memiliki kemampuan dalam bidang jurnalistik dan minat menulis yang tinggi. </span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Azizul Fauzan</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/muhammadtahir30/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/muhammad-tahir-40a5a8277" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                    <!-- <a href="https://www.instagram.com/muhammadtahir30/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>-->
+                                    <!-- <a href="https://www.linkedin.com/in/muhammad-tahir-40a5a8277" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>-->
                                 </div>
                             </div>
                         </div>
@@ -818,8 +817,8 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhammad Tahir</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Manajer Komunikasi dan Hubungan Masyarakat</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Azizul Fauzan</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Koordinator Nasional Maritim Muda Diving Club</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -828,35 +827,65 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
 
 
 
-        <!-- <div class="container margin-50px-top"> -->
         <!-- start team item -->
-        <!-- <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+        <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                         <figure>
                             <div class="team-image xs-width-100">
-                                <img src="<?php echo site_url('upload/') ?>user/42/Annisa2.png" alt="">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Cesilia Aul.png" alt="">
                                 <div class="overlay-content text-center">
                                     <div class="display-table height-100 width-100">
                                         <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                            <span class="text-white text-small display-inline-block no-margin"></span>
-                                            <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div> -->
+                                            <span class="text-white text-small display-inline-block no-margin">Cesilia Aulia Rahma S.Pi. Lulusan Sarjana Perikanan yang tengah menggeluti Bisnis Makanan Perikanan Laut, Aktif bersosialisasi dan kegiatan sosial.</span>
+                                            <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div> 
         <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
         <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
         <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-        <!-- <a href="https://www.instagram.com/ranityanurlita/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-        <!-- </div>
+        <a href="https://www.instagram.com/cesiliaaaul?igsh=MW5hbTM5cjM2Yms4OQ==" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+        </div>
                                     </div>
                                 </div>
                                 <div class="team-overlay bg-extra-dark-gray opacity8"></div>
                             </div>
                             <figcaption>
                                 <div class="team-member-position margin-20px-top text-center">
-                                    <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Annisa Jauhari</div>
-                                    <div class="text-extra-small text-uppercase text-medium-gray">Manajer Keanggotaan</div>
+                                    <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Cesilia Aulia Rahma</div>
+                                    <div class="text-extra-small text-uppercase text-medium-gray">Kepala Bidang Hilirisasi dan Inovasi Maritim</div>
                                 </div>   
                             </figcaption>
                         </figure>
-                    </div> -->
+                    </div> 
         <!-- end team section -->
+
+        <div class="container margin-50px-top">
+        <!-- start team item -->
+        <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
+                        <figure>
+                            <div class="team-image xs-width-100">
+                                <img src="<?php echo site_url('upload/') ?>user/42/Roudlotul Badi'ah.png" alt="">
+                                <div class="overlay-content text-center">
+                                    <div class="display-table height-100 width-100">
+                                        <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
+                                            <span class="text-white text-small display-inline-block no-margin">Roudlotul Badi'ah S.M., M.M. Roudlotul Badi’ah, S.M., M.M. adalah seorang Dosen Manajemen di Institut Teknologi dan Bisnis Ahmad Dahlan Lamongan. Beliau menyelesaikan pendidikan Sarjana dan Magister Manajemen di Universitas Pembangunan Nasional “Veteran” Jawa Timur, masing-masing pada tahun 2020 dan 2023. Saat ini, beliau sedang melanjutkan pendidikan di Program Doktor Ilmu Manajemen di Universitas Padjadjaran, Bandung. Ketertarikan penelitian di bidang Management Operational, Management, Blue Economy, dan Marine Economy. Dengan ketertarikan ini beliau menghasilkan karya ilmiah yang telah dipublikasikan di berbagai jurnal nasional terindeks Sinta, serta beberapa ebook dan chapter dalam buku yang ber-ISBN.</span>
+                                            <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div> 
+        <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+        <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+        <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+        <a href="https://www.instagram.com/cesiliaaaul?igsh=MW5hbTM5cjM2Yms4OQ==" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+        </div>
+                                    </div>
+                                </div>
+                                <div class="team-overlay bg-extra-dark-gray opacity8"></div>
+                            </div>
+                            <figcaption>
+                                <div class="team-member-position margin-20px-top text-center">
+                                    <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Roudlotul Badi'ah</div>
+                                    <div class="text-extra-small text-uppercase text-medium-gray">Ketua Bidang Riset Maritim dan Ekonomi Biru</div>
+                                </div>   
+                            </figcaption>
+                        </figure>
+                    </div> 
+        <!-- end team section -->
+
         <!-- start team item -->
 
 
@@ -1254,7 +1283,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                 <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.8s">
                     <figure>
                         <div class="team-image xs-width-100">
-                            <img src="https://maritimmuda.id/upload/user/41/angkasa.png" alt="">
+                            <img src="https://maritimmuda.id/upload/user/42/Siluet.png" alt="">
                             <div class="overlay-content text-center">
                                 <div class="display-table height-100 width-100">
                                     <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">

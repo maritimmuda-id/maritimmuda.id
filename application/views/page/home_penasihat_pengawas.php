@@ -25,7 +25,7 @@
             <div class="col-lg-7 col-md-8 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
                 <div class="alt-font text-medium-gray margin-5px-bottom text-uppercase text-small"></div>
                 <h5 class="alt-font text-extra-dark-gray font-weight-600">PENASIHAT PUSAT</h5>
-                <h6 class="alt-font text-extra-dark-gray font-weight-600">PERIODE 2023-2026</h6>
+                <h6 class="alt-font text-extra-dark-gray font-weight-600">PERIODE 2025-2026</h6>
             </div>
         </div>
         <div class="container margin-10px-top">
@@ -96,7 +96,7 @@
 
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/Charletty2.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/41/basilio.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -113,8 +113,8 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray ">Dr. Charletty Choesyana Taulu, M.Psi.</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">Ketua Yayasan Lembaga Bantuan Hukum dan Masalah Keluarga KOWANI</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray ">Basilio Dias Araujo, S.S., M.A.</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">DIREKTUR EKSEKUTIF ALFI</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -129,7 +129,7 @@
 
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/basilio1.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -146,7 +146,7 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray ">Basilio Dias Araujo, S.S., M.A.</div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray "></div>
                             <div class="text-extra-small text-uppercase text-medium-gray">Staf Ahli Bidang Sosio-Antropologi Maritim, Kementerian Koordinator Bidang Kemaritiman dan Investasi RI</br></br></div>
                         </div>
                     </figcaption>
@@ -226,7 +226,7 @@
 
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/Drs._Tb._Zainal_Aminin__M.Pd.__M.Si1.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -235,7 +235,7 @@
                                     <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/asdepkapasitas/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <!-- <a href="https://www.instagram.com/asdepkapasitas/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -244,8 +244,8 @@
                     <figcaption>
                         <div class="row">
                             <div class="team-member-position margin-20px-top text-center">
-                                <div class="text-small font-weight-500 text-extra-dark-gray ">Drs. Zainal Aminin, M.Pd., M.Si.</div>
-                                <div class="text-extra-small text-uppercase text-medium-gray">Asisten Deputi Kepeloporan Pemuda,<br>Kemenpora RI</br></br></div>
+                                <div class="text-small font-weight-500 text-extra-dark-gray "></div>
+                                <div class="text-extra-small text-uppercase text-medium-gray"><br></br></br></div>
                             </div>
                         </div>
                     </figcaption>
@@ -389,7 +389,7 @@
             <!-- end team item -->
             <!-- start team item -->
             <h5 class="alt-font text-extra-dark-gray font-weight-600 text-center">DEWAN PENGAWAS</h5><br>
-            <h6 class="alt-font text-extra-dark-gray font-weight-600 text-center">PERIODE 2023-2026</h6>
+            <h6 class="alt-font text-extra-dark-gray font-weight-600 text-center">PERIODE 2025-2026</h6>
 
             <div class="col-md-2"></div>
 
