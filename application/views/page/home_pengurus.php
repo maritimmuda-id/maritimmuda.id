@@ -321,14 +321,14 @@
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">"Iqbal Hambali, Seorang Mahasiswa Program Studi S1 Agribisnis Tahun 2021 Fakultas Pertanian Universitas Garut. Saat ini sedang menempuh pendidikan di semester 7. Memiliki kemampuan dalam bidang manajemen agribisnis, analisis usaha tani, 
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Iqbal Hambali, Seorang Mahasiswa Program Studi S1 Agribisnis Tahun 2021 Fakultas Pertanian Universitas Garut. Saat ini sedang menempuh pendidikan di semester 7. Memiliki kemampuan dalam bidang manajemen agribisnis, analisis usaha tani, 
  manajemen produksi hasil pertanian, manajemen pemasaran hasil pertanian, dan mampu berkomunikasi dengan baik kepada masyarakat serta lembaga pendukung pertanian. Aktif dalam pengabdian bidang pendidikan kepada anak-anak dan 
-juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia di lingkungan masyarakat."</span>
+juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia di lingkungan masyarakat.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
                                     <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://instagram.com/alfinnayebe/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.instagram.com/iqbalalmirwan" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
                                     <a href="https://linkedin.com/in/iqbalhambali" class="text-white" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
@@ -478,7 +478,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Prima_Insamilandari_Syah3.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/42/deri-yanto1.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -642,7 +642,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Muhamad Hafiz Maulavi Haban, S.Si. An Oceanography graduate from Diponegoro University. My interests include: marine remote sensing, marine primary production, air-sea interaction on tackling climate change, and teaching. I derived both satellite and in-situ data for chl-a and TSS, using citizen science to broaden observations of essential environment variables in the ocean. I love spending time in both field and data-processing research.</span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Muhamad Hafiz Maulavi Haban, S.Si.   An Oceanography graduate from Diponegoro University. My interests include: marine remote sensing, marine primary production, air-sea interaction on tackling climate change, and teaching. I derived both satellite and in-situ data for chl-a and TSS, using citizen science to broaden observations of essential environment variables in the ocean. I love spending time in both field and data-processing research.</span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/ranitya.nurlita" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
@@ -657,7 +657,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
                             <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Muhamad Hafiz Maulavi Haban</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">"Koordinator Nasional Ekspedisi Maritim Muda Nusantara"</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Koordinator Nasional Ekspedisi Maritim Muda Nusantara</div>
                         </div>
                     </figcaption>
                 </figure>
@@ -849,7 +849,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                             <figcaption>
                                 <div class="team-member-position margin-20px-top text-center">
                                     <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Cesilia Aulia Rahma</div>
-                                    <div class="text-extra-small text-uppercase text-medium-gray">Kepala Bidang Hilirisasi dan Inovasi Maritim</div>
+                                    <div class="text-extra-small text-uppercase text-medium-gray">Ketua Bidang Hilirisasi dan Inovasi Maritim</div>
                                 </div>   
                             </figcaption>
                         </figure>
