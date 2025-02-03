@@ -179,13 +179,17 @@
                     </div>
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
-                            <div class="text-small font-weight-500 text-extra-dark-gray ">Dr. I Nyoman Radiarta, S.Pi., M.Sc<br></div>
-                            <div class="text-extra-small text-uppercase text-medium-gray"><br>Kepala Badan Penyuluhan dan Pengembangan SDM Kelautan dan Perikanan</br></br></div>
+                            <div class="text-small font-weight-500 text-extra-dark-gray ">Dr. I Nyoman Radiarta, S.Pi., M.Sc</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Kepala Badan Penyuluhan dan Pengembangan SDM Kelautan dan Perikanan</div>
                         </div>
                     </figcaption>
                 </figure>
             </div>
             <!-- end team item -->
+
+            </div>
+            <div class="container margin-50px-top">
+
             <!-- start team item -->
             <div class="col-md-3 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
@@ -253,88 +257,20 @@
             <!-- end team item -->
             <!-- start team item -->
 
-
-            <!-- <div class="col-md-3 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
-
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin"></span> 
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>-->
-                                    <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                    
-                                <!-- </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="row">
-                            <div class="team-member-position margin-20px-top text-center">
-                                <div class="text-small font-weight-500 text-extra-dark-gray "></div>
-                                <div class="text-extra-small text-uppercase text-medium-gray"></br></br></div>
-                            </div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div> -->
-
-            <!-- end team item -->
-            <!-- start team item -->
-
-            <!-- <div class="col-md-3 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
+            <div class="col-md-3 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.6s">
 
                 <figure>
                     <div class="team-image xs-width-100">
-                            <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin"></span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div> -->
-                                    <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                    <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <!-- <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                    <!-- <a href="https://www.facebook.com/stie.id" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
-                                <!-- </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="row">
-                            <div class="team-member-position margin-20px-top text-center">
-                                <div class="text-small font-weight-500 text-extra-dark-gray "></div>
-                                <div class="text-extra-small text-uppercase text-medium-gray"></br></br></div>
-                            </div>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div> -->
-
-            <!-- end team item -->
-            <!-- start team item -->
-
-            <!-- <div class="col-md-4 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
-
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/41/putih2.jpeg" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/41/Charletty2.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
                                     <span class="text-white text-small display-inline-block no-margin"></span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a>
-                                    <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a>
-                                    <a href="http://instagram.com/antonius_sirait" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <!-- <a href="https://web.facebook.com/antonius.sirait55" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
+                                    <!-- <a href="http://twitter.com/antoniussirait7" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
+                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
+                                    <!-- <a href="https://www.instagram.com/asdepkapasitas/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -343,51 +279,15 @@
                     <figcaption>
                         <div class="row">
                             <div class="team-member-position margin-20px-top text-center">
-                                <div class="text-small font-weight-500 text-extra-dark-gray "></div>
-                                <div class="text-extra-small text-uppercase text-medium-gray"></br></br></div>
+                                <div class="text-small font-weight-500 text-extra-dark-gray ">Dr. Charletty Choesyana Taulu, M.Psi.</div>
+                                <div class="text-extra-small text-uppercase text-medium-gray">Member of International Federation of Business and Professional Women</div>
                             </div>
                         </div>
                     </figcaption>
                 </figure>
+            </div>
 
-            </div> -->
-            <!-- end team item -->
-            <!-- start team item -->
-
-
-
-            </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-            <div class="col-md-2 col-sm-6 col-xs-12 team-block text-left team-style-1 sm-margin-seven-bottom xs-margin-30px-bottom wow fadeInRight" data-wow-duration="900ms">
-                <figure>
-                    <div class="team-image xs-width-100">
-                        <!-- <img src="<?php echo site_url('upload/') ?>user/1/foto.jpg" alt=""> -->
-                        <div class="overlay-content text-center">
-                            <div class="display-table height-100 width-100">
-                                <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin">Kaisar Akhir baru saja menyelesaikan pendidikan MSc in Maritime Affairs dari World Maritime University (WMU), Swedia, dengan spesialisasi Ocean Sustainability, Governance and Management pada November 2018 yang didanai secara penuh oleh beasiswa dari LPDP. Sejak kuliah S1 pada program Ilmu dan Teknologi Kelautan di IPB, dia telah aktif dalam kegiatan sosial, kemahasiswaan, dan keilmiahan dari tingkat kampus/lokal, nasional, hingga internasional. Fokus ia sekarang pada kegiatan berupa edukasi, edutrip, aksi sosial, konsultasi, dan advokasi guna mendukung Indonesia sebagai Poros Maritim Dunia serta penanganan sampah plastik laut di Indonesia. Ia percaya dengan kolaborasi dan profesionalisme, itu semua dapat terwujud.</span>
-                                    <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
-                                    <a href="https://web.facebook.com/last.caesar93" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                    <!-- <a href="http://twitter.com/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
-                                    <!-- <a href="http://plus.google.com/" class="text-white" target="_blank"><i class="fab fa-google-plus-g"></i></a> -->
-                                    <a href="https://www.instagram.com/kaisarakhir/" class="text-white" target="_blank"><i class="fab fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-overlay bg-extra-dark-gray opacity8"></div>
-                    </div>
-                    <figcaption>
-                        <div class="team-member-position margin-20px-top text-center">
-                            <!-- <div class="text-small font-weight-500 text-extra-dark-gray text-uppercase">Kaisar Akhir</div> -->
-                            <!-- <div class="text-extra-small text-uppercase text-medium-gray">Founder & Ketua Umum</div> -->
-                        </div>
-                    </figcaption>
-                </figure>
-            </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
             <!-- end team item -->
             
-
-            <div class="col-md-2"></div>
-        </div>
-    </div>
 </section>
 <!-- end team section -->
