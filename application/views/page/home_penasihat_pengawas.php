@@ -114,7 +114,7 @@
                     <figcaption>
                         <div class="team-member-position margin-20px-top text-center">
                             <div class="text-small font-weight-500 text-extra-dark-gray ">Basilio Dias Araujo, S.S., M.A.</div>
-                            <div class="text-extra-small text-uppercase text-medium-gray">DIREKTUR EKSEKUTIF ALFI</div>
+                            <div class="text-extra-small text-uppercase text-medium-gray">Secretary General of Indonesia China Business Council</div>
                         </div>
                     </figcaption>
                 </figure>
