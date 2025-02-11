@@ -6,10 +6,9 @@
             <!-- start copyright -->
             <div class="col-md-4 col-sm-5 col-xs-12 text-small text-center alt-font display-table xs-text-center xs-margin-15px-bottom">
                 <div class="display-table-cell vertical-align-middle text-white">
-                    &COPY; 2023 Maritim Muda Nusantara<br>Indonesian Maritime Youths
+                    &COPY; 2025 Maritim Muda Nusantara<br>Indonesian Maritime Youths
                     <hr>Head Office:<br>
-                    Indonesia Blue Economy Center<br>Kampus C STIE Indonesia Jakarta,
-                    Jalan Pratekan No. 9A<br>Kel. Rawamangun, Kec. Pulo Gadung, Jakarta 13220
+                    Menara Rajawali Lantai 2, Jl. DR. Ide Anak Agung Gde Agung<br>Kawasan Mega Kuningan, Jakarta Selatan, Daerah Khusus Jakarta 12950
                     <hr>National Secretariat:<br>Jalan Pulau Bintan No. 12, Desa Semoi Dua, Kec. Sepaku, Kab. Penajam Paser Utara, IKN Nusantara.
                 </div>
             </div>
@@ -24,7 +23,7 @@
             <!-- start social media -->
             <div class="col-md-4 col-sm-5 col-xs-12 text-center display-table xs-text-center">
                 <div class="display-table-cell vertical-align-middle text-white">
-                    <span class="alt-font text-small margin-20px-right"><i class="fa fa-phone" aria-hidden="true"></i>+62-21-489-1137 <br> +62 823-7099-6119 <br> +62-812-9694-7244 <br> <i class="fa fa-envelope" aria-hidden="true"></i> admin@maritimmuda.id
+                    <span class="alt-font text-small margin-20px-right"><i class="fa fa-phone" aria-hidden="true"></i>+62-21-489-1137 <br> +62 815 -4235-2039 <br>  <i class="fa fa-envelope" aria-hidden="true"></i> admin@maritimmuda.id
                         <hr>Media sosial kami
                     </span>
                     <div class="social-icon-style-8 display-inline-block vertical-align-middle">

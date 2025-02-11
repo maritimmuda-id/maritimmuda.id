@@ -21,7 +21,19 @@ class Peoples_model extends CI_Model
 	{
 		return $this->db->get('peoples')->num_rows();
 	}
+	
+	public function updatePeople($old_name, $new_name, $new_position)
+	{
+		$this->db->where('name', $old_name);
+		$this->db->update('peoples', [
+			'name' => $new_name,
+			'position' => $new_position
+		]);
+	}
+	
+
 }
+
 
 
 

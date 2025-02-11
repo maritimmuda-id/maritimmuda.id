@@ -70,6 +70,14 @@ class Home extends CI_Controller
 		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
 		$this->load->view('template_white', $data);
 	}
+	public function pembina()
+	{
+		$data = $this->data;
+		$data['title'] .= " Dewan Pembina";
+		$data['konten'] = $this->load->view('page/home_pembina', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
 	public function penasihat_pusat_pengawas()
 	{
 		$data = $this->data;
@@ -86,6 +94,25 @@ class Home extends CI_Controller
 		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
 		$this->load->view('template_white', $data);
 	}
+
+	public function pengawas()
+	{
+		$data = $this->data;
+		$data['title'] .= " Dewan Pengawas";
+		$data['konten'] = $this->load->view('page/home_dewan_pengawas', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
+
+	public function pakar()
+	{
+		$data = $this->data;
+		$data['title'] .= " Dewan Pakar";
+		$data['konten'] = $this->load->view('page/home_dewan_pakar', $data, TRUE);
+		$data['head_script'] = $this->load->view('partial/home_head_script', $data, TRUE);
+		$this->load->view('template_white', $data);
+	}
+
 	public function ketua_daerah()
 	{
 		$data = $this->data;

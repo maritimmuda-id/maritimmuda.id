@@ -35,7 +35,22 @@
                                                 <a href="<?php echo site_url('home/visi_misi') ?>">Visi dan Misi</a>
                                             </li>
                                             <li>
-                                                <a href="<?php echo site_url('home/penasihat_pusat_pengawas') ?>">Penasihat Pusat dan Dewan Pengawas</a>
+                                                <a href="<?php echo site_url('home/') ?>">Dewan Pelindung</a>
+                                            </li>
+                                            <li>
+                                                <a href="<?php echo site_url('home/penasihat_pusat_pengawas') ?>">Dewan Penasihat</a>
+                                            </li>
+                                            <li>
+                                            <li>
+                                                <a href="<?php echo site_url('home/pembina') ?>">Dewan Pembina</a>
+                                            </li>
+                                            <li>
+                                            <li>
+                                                <a href="<?php echo site_url('home/pakar') ?>">Dewan Pakar</a>
+                                            </li>
+                                            <li>
+                                            <li>
+                                                <a href="<?php echo site_url('home/pengawas') ?>">Dewan Pengawas</a>
                                             </li>
                                             <li>
                                                 <a href="<?php echo site_url('home/pengurus') ?>">Pengurus Pusat</a>
