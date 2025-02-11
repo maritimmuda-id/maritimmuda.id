@@ -378,7 +378,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
             <div class="col-md-4 col-sm-6 col-xs-12 xs-margin-30px-bottom team-block text-left team-style-1 wow fadeInRight" data-wow-duration="900ms" data-wow-delay="0.4s">
                 <figure>
                     <div class="team-image xs-width-100">
-                        <img src="<?php echo site_url('upload/') ?>user/42/Siluet.png" alt="">
+                        <img src="<?php echo site_url('upload/') ?>user/43/putra-achdiyat.png" alt="">
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
@@ -482,7 +482,7 @@ juga merupakan seorang pelestari budaya nusantara olahraga tradisional Indonesia
                         <div class="overlay-content text-center">
                             <div class="display-table height-100 width-100">
                                 <div class="vertical-align-bottom display-table-cell icon-social-small padding-twelve-all">
-                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Deri Yanto, S. E, M. Ak. Biam Dengan Hasil Lebih Baik. </span>
+                                    <span class="text-white text-small display-inline-block no-margin overflow-y-scroll">Deri Yanto, S. E, M. Ak. Diam Dengan Hasil Lebih Baik. </span>
                                     <div class="separator-line-horrizontal-full bg-deep-pink margin-eleven-tb"></div>
                                     <!-- <a href="https://web.facebook.com/denny.s.putra.16" class="text-white" target="_blank"><i class="fab fa-facebook-f"></i></a> -->
                                     <!-- <a href="https://twitter.com/diemasshawkins/" class="text-white" target="_blank"><i class="fab fa-twitter"></i></a> -->
